@@ -1,0 +1,1986 @@
+home_team,away_team,home_win_probability,draw_probability,away_win_probability,temperature,avg_goals,home_win_odds,draw_odds,away_win_odds,predicted_home_team_goals,predicted_away_team_goals,actual_home_team_goals,actual_away_team_goals,home_result
+Colorado Rapids,Charlotte FC,41.0,29.0,30.0,10.0,1.17,1.55,4.0,5.75,2,0,0,0,0
+Santos Guápiles,Saprissa,31.0,37.0,32.0,22.0,3.27,2.63,3.25,2.38,2,2,2,1,1
+Malacateco,C.D. Guastatoya,43.0,39.0,18.0,24.0,1.95,1.8,3.25,4.0,1,0,0,0,0
+Santa Tecla,Atlético Marte,31.0,46.0,24.0,20.0,2.01,2.2,3.2,2.88,1,1,1,1,0
+CD Águila,Luís Ángel Firpo,50.0,31.0,20.0,24.0,2.56,1.73,3.2,4.5,3,0,1,0,1
+CAI de La Chorrera,San Francisco FC,47.0,28.0,25.0,24.0,1.93,1.91,3.2,3.6,1,0,1,4,2
+Unión Magdalena,Junior Barranquilla,25.0,27.0,48.0,33.0,2.12,4.33,3.25,1.83,0,2,0,3,2
+Honduras Progreso,Real España,19.0,22.0,59.0,23.0,3.11,3.1,3.3,2.05,1,3,1,1,0
+CD Vida,CD Victoria,40.0,29.0,32.0,24.0,3.02,2.3,3.2,2.75,2,1,1,1,0
+Portland Timbers,Real Salt Lake,38.0,34.0,29.0,13.0,3.07,1.75,4.1,4.0,2,1,0,0,0
+San Jose Earthquakes,Seattle Sounders,26.0,36.0,38.0,14.0,3.02,2.6,3.4,2.6,1,2,4,3,1
+Guadalajara Chivas,UNAM Pumas,31.0,44.0,25.0,22.0,2.33,1.95,3.4,4.0,1,1,3,1,1
+CS Herediano,San Carlos,45.0,36.0,19.0,18.0,2.56,1.67,3.5,4.5,2,1,1,1,0
+Club Xelajú MC,Cotzumalguapa,26.0,43.0,31.0,12.0,2.2,2.38,3.2,2.63,1,1,2,0,1
+Las Vegas Lights,LA Galaxy II,38.0,27.0,35.0,19.0,3.57,2.1,3.6,2.75,3,2,1,1,0
+Los Angeles Galaxy,Nashville SC,35.0,31.0,34.0,18.0,1.38,1.95,3.5,4.0,1,0,1,0,1
+Phoenix Rising,Miami FC,41.0,26.0,33.0,20.0,1.38,1.8,3.6,3.6,2,0,2,1,1
+Wellington Phoenix,WS Wanderers,44.0,27.0,28.0,26.0,4.02,2.1,3.5,3.25,2,1,1,0,1
+Weston Bears,Valentine Phoenix,20.0,24.0,56.0,19.0,3.06,1.62,4.0,4.0,2,3,2,0,1
+Ansan Greeners,Daejeon Citizen,16.0,32.0,53.0,23.0,2.32,4.5,3.3,1.8,0,1,1,2,2
+Gold Coast Knights,Eastern Suburbs,62.0,12.0,26.0,23.0,4.25,1.4,4.5,5.5,3,2,0,1,2
+Brisbane City,Sunshine Coast,28.0,27.0,44.0,22.0,3.53,2.75,4.0,2.0,1,3,4,4,0
+Sydney U21,Sydney Olympic,21.0,28.0,50.0,22.0,2.92,3.6,3.6,1.75,1,2,3,1,1
+Busan I'Park,FC Anyang,24.0,29.0,46.0,23.0,2.83,3.1,3.2,2.2,1,2,1,1,0
+Taiwan Power Co.,Taichung Futuro,46.0,29.0,25.0,29.0,2.58,1.8,3.25,4.0,2,1,0,0,0
+Adelaide United,Perth Glory,55.0,23.0,22.0,25.0,3.5,1.4,4.33,8.0,2,1,2,0,1
+Thespakusatsu,Blaublitz Akita,50.0,28.0,22.0,19.0,3.5,2.8,2.75,2.7,2,1,0,1,2
+Khangarid,Khovd FC,38.0,29.0,33.0,6.0,2.33,1.33,5.0,6.0,2,0,2,0,1
+Admira Praha,SK Benešov,49.0,29.0,22.0,8.0,1.8,1.44,4.33,5.25,1,0,2,3,2
+Slavia Praha B,Karlovy Vary,45.0,24.0,30.0,8.0,2.27,1.5,4.5,4.5,2,0,3,2,1
+Mlada Boleslav B,FK Jablonec B,29.0,27.0,43.0,10.0,2.45,2.4,3.6,2.4,0,2,1,2,2
+Pardubice B,Hradec Kralove B,28.0,26.0,46.0,9.0,2.33,3.0,4.0,1.91,0,2,1,1,0
+Dukla Praha B,Slovan Velvary,34.0,34.0,32.0,8.0,3.75,1.73,4.0,3.5,3,2,0,1,2
+Vysocina Jihlava B,Znojmo,19.0,24.0,57.0,9.0,2.67,5.0,4.5,1.44,0,3,0,3,2
+FK Blansko,Viktoria Otrokovice,51.0,21.0,28.0,11.0,3.75,1.67,4.0,3.8,3,1,1,1,0
+Velke Mezirici,Sigma Olomouc B,23.0,25.0,52.0,10.0,3.21,7.5,5.0,1.29,1,3,0,1,2
+Grazer AK,SKN St. Pölten,22.0,35.0,43.0,11.0,5.38,2.88,3.4,2.38,1,4,1,0,1
+MSK Zilina B,FK Dukla BB,28.0,33.0,39.0,9.0,3.4,4.2,3.5,1.7,2,3,0,1,2
+Viktoria Plzen B,Jiskra Domazlice,31.0,33.0,36.0,9.0,3.35,2.1,4.0,2.6,1,2,1,3,2
+FK Zlin B,Slovacko B,32.0,31.0,36.0,11.0,2.36,2.6,4.0,2.1,0,2,0,1,2
+FC Santa Coloma,FC Ordino,56.0,28.0,16.0,9.0,2.3,1.2,6.0,9.0,2,0,3,2,1
+Teplice B,Bohemians 1905 B,38.0,26.0,36.0,8.0,4.17,1.95,4.0,2.88,4,2,0,1,2
+GZ Evergrande FC,Ulsan Hyundai,14.0,23.0,63.0,30.0,3.0,17.0,15.0,1.03,0,3,0,5,2
+FC Cartagena B,Cartagena FC,65.0,19.0,17.0,13.0,3.63,1.36,4.0,8.0,3,1,3,0,1
+FC Elva,Paide II,25.0,14.0,61.0,7.0,2.83,3.1,4.75,1.73,1,2,1,2,2
+Asan Mugunghwa,GimPo Citizen,43.0,34.0,23.0,18.0,3.3,2.25,3.0,3.3,2,1,2,1,1
+Swadhinata KS,Bashundhara Kings,23.0,19.0,57.0,40.0,2.83,13.0,8.0,1.13,1,2,0,2,2
+Getafe B,Atlético Madrid B,27.0,34.0,39.0,13.0,3.16,2.0,3.2,3.3,1,2,2,3,2
+FC Penafiel,CD Feirense,27.0,40.0,33.0,13.0,2.3,2.55,2.88,2.88,1,1,2,0,1
+Dinamo Riga,Valmiera II,26.0,34.0,40.0,7.0,1.11,2.0,3.5,3.0,0,2,0,1,2
+FC Zhetysu,FC Astana Youth,32.0,34.0,33.0,13.0,0.0,1.29,5.0,7.5,1,1,1,0,1
+CD Lealtad,EI San Martín,62.0,25.0,12.0,16.0,2.71,1.36,4.2,7.0,2,1,2,0,1
+Girona B,EC Granollers,57.0,28.0,15.0,17.0,3.27,1.67,3.5,4.33,3,0,1,2,2
+UE Castelldefels,UE Sants,41.0,33.0,26.0,20.0,2.25,1.91,3.3,3.5,2,0,2,0,1
+Alianza Petrolera,Deportes Tolima,26.0,31.0,42.0,23.0,2.64,3.25,3.1,2.2,1,2,0,2,2
+UNAN Managua,Managua FC,27.0,37.0,36.0,29.0,2.46,4.2,3.5,1.7,1,1,0,1,2
+Club Tijuana,Querétaro FC,31.0,44.0,25.0,23.0,2.4,2.0,3.3,4.0,1,1,2,2,0
+Coastal Spirit,Selwyn United,39.0,16.0,45.0,17.0,3.69,2.05,4.5,2.5,2,3,2,2,0
+Adamstown FC,Charlestown City,10.0,16.0,73.0,20.0,2.82,10.0,6.0,1.22,1,2,1,2,2
+Brisbane Roar,Melbourne Victory,23.0,27.0,50.0,20.0,2.55,2.4,3.4,2.9,1,2,1,1,0
+Oakleigh Cannons,Bentleigh Greens,42.0,26.0,32.0,21.0,4.09,2.1,3.4,3.25,3,2,1,0,1
+Altona Magic SC,South Melbourne,23.0,21.0,56.0,21.0,2.39,3.2,3.4,2.1,0,2,0,1,2
+Kingborough Lions,Hobart Olympia,43.0,24.0,33.0,14.0,3.81,1.29,6.0,6.5,3,2,5,1,1
+Real Kashmir,Indian Arrows,36.0,41.0,23.0,13.0,2.79,1.53,3.5,5.75,2,2,1,2,2
+Muktijoddha SKC,Abahani Dhaka,14.0,35.0,51.0,36.0,2.05,7.5,5.5,1.25,0,1,3,4,2
+Sheikh Russel KC,MSC Limited Dhaka,23.0,41.0,36.0,36.0,2.38,3.0,2.88,2.3,1,1,1,1,0
+Rahmatganj MFS,Abahani Chittagong,22.0,28.0,50.0,36.0,2.1,4.2,3.4,1.73,0,2,0,0,0
+Ascoli,Cittadella,37.0,34.0,29.0,19.0,2.14,1.83,3.0,4.0,2,0,0,0,0
+BKMA Yerevan,Ararat-Armenia,11.0,22.0,66.0,25.0,1.92,9.0,5.0,1.29,0,1,0,1,2
+Yokohama Marinos,Sydney FC,36.0,39.0,25.0,14.0,1.42,1.5,4.2,7.0,1,1,3,0,1
+Tuzlaspor,Adanaspor,42.0,39.0,19.0,18.0,3.08,2.4,2.88,2.9,2,1,4,1,1
+TRAU FC,Sudeva Moonlight,36.0,44.0,20.0,29.0,1.25,1.8,3.2,4.0,0,0,0,1,2
+Spartak Varna,Minyor Pernik,46.0,28.0,26.0,19.0,2.68,1.67,3.4,4.5,2,1,2,0,1
+Wazito FC,FC Talanta,25.0,36.0,39.0,24.0,2.92,2.1,2.8,3.5,1,2,0,2,2
+Addis Ababa Ketema,Adama Kenema,13.0,46.0,41.0,17.0,2.25,2.75,2.75,2.63,1,1,0,0,0
+FC Botosani,FC U Craiova 1948,26.0,41.0,32.0,22.0,2.1,2.25,3.0,3.0,1,1,2,1,1
+FC Crotone,Cremonese,18.0,25.0,56.0,21.0,2.48,4.33,3.5,1.7,0,2,3,1,1
+Frosinone,Monza,24.0,37.0,39.0,17.0,3.0,2.5,3.2,2.5,2,3,4,1,1
+US Lecce,AC Pisa,37.0,39.0,24.0,20.0,2.14,1.73,3.2,4.33,1,1,2,0,1
+Alessandria,Reggina Calcio,34.0,31.0,36.0,19.0,2.5,1.8,3.2,4.2,1,2,0,0,0
+Cosenza Calcio,Pordenone,35.0,36.0,30.0,20.0,1.79,1.55,3.6,5.25,1,1,3,1,1
+Valerenga 2,Alta IF,34.0,29.0,38.0,16.0,3.58,2.88,3.75,2.0,2,3,7,2,1
+Neftchi Fergana,FC Bunyodkor,29.0,21.0,50.0,25.0,2.51,4.0,3.25,1.8,0,3,1,3,2
+Dinamo Samarkand,Lok. Tashkent,33.0,28.0,39.0,23.0,2.44,3.3,3.0,2.1,0,2,3,1,1
+PFK Dobrudzha,Ludogorets II,24.0,39.0,38.0,17.0,2.25,2.55,3.0,2.55,1,1,3,2,1
+Chiangrai United,Vissel Kobe,22.0,33.0,44.0,33.0,3.0,11.0,5.0,1.33,1,2,0,0,0
+Hoang Anh Gia Lai,Jeonbuk Hyundai M.,10.0,29.0,61.0,29.0,1.5,6.0,4.2,1.55,0,1,1,1,0
+Tsarsko Selo,Botev Vratsa,42.0,28.0,31.0,21.0,2.53,2.0,3.1,3.6,2,1,1,1,0
+CD Trofense,Varzim SC,32.0,42.0,27.0,18.0,2.14,2.63,3.1,2.55,1,1,1,0,1
+Aizawl FC,Kenkre,55.0,22.0,23.0,24.0,1.7,1.44,3.75,7.0,1,0,0,1,2
+Arges Pitesti,CS Univ Craiova,30.0,23.0,47.0,22.0,2.73,3.6,3.0,2.0,1,2,0,4,2
+FC Honka Espoo,Seinajoen JK,40.0,31.0,29.0,9.0,2.75,2.2,3.0,3.1,2,1,5,1,1
+Pyunik FC,Noravank SC,62.0,15.0,23.0,19.0,2.17,1.45,4.0,5.75,2,0,3,2,1
+Bechem United,Karela United,49.0,34.0,17.0,28.0,1.75,1.4,4.0,7.0,1,0,1,1,0
+Shooting Stars SC,Enyimba,37.0,34.0,30.0,27.0,1.53,1.62,3.2,5.5,1,0,2,0,1
+Rivers United,Niger Tornadoes,59.0,25.0,16.0,32.0,1.56,1.3,4.33,9.0,1,0,3,0,1
+Plateau United,Remo Stars,47.0,32.0,21.0,27.0,1.46,1.4,3.6,8.0,1,0,1,0,1
+Wolkite Ketema,Dire Dawa Kenema,44.0,31.0,24.0,12.0,2.38,2.4,2.75,3.0,1,0,1,1,0
+NK Aluminij,NK CM Celje,26.0,31.0,43.0,16.0,2.27,3.0,3.1,2.2,0,1,0,6,2
+Mes Kerman,Malavan FC,31.0,45.0,24.0,27.0,2.2,2.63,2.9,2.6,1,1,0,0,0
+Calcio Como,Vicenza Calcio,47.0,32.0,21.0,17.0,2.06,2.55,3.0,2.55,1,0,0,2,2
+Brescia Calcio,SPAL 1907,49.0,36.0,15.0,17.0,2.71,1.8,3.25,4.0,2,1,1,1,0
+Benevento Calcio,Ternana Calcio,47.0,26.0,27.0,17.0,2.96,1.53,3.6,5.5,2,1,1,2,2
+Velez Mostar,NK Posusje,47.0,33.0,20.0,21.0,3.5,1.65,3.3,4.75,3,2,5,2,1
+Bryne FK,Ranheim Fotball,31.0,29.0,41.0,10.0,2.66,2.25,3.4,2.88,1,2,1,2,2
+Kongsvinger,Asane Fotball,41.0,35.0,24.0,15.0,2.94,2.0,3.5,3.3,2,1,1,1,0
+Mjondalen IF,Fredrikstad FK,34.0,45.0,20.0,17.0,2.4,1.91,3.6,3.5,1,1,2,0,1
+Stabaek,Sandnes Ulf,24.0,40.0,36.0,17.0,2.13,1.65,4.0,4.33,1,1,0,1,2
+IK Start,Skeid Fotball,47.0,33.0,19.0,12.0,2.13,1.57,4.0,5.0,2,0,3,2,1
+Nõmme United,Viimsi JK,38.0,31.0,30.0,9.0,1.38,2.0,4.2,2.7,1,0,0,2,2
+Stade Laval,US Boulogne,55.0,23.0,22.0,16.0,2.37,1.65,3.4,5.0,1,0,1,0,1
+IF Elfsborg,GIF Sundsvall,47.0,34.0,19.0,12.0,2.82,1.44,4.2,5.75,2,1,3,1,1
+IFK Värnamo,Degerfors IF,37.0,38.0,25.0,14.0,2.31,2.2,3.25,3.1,1,1,2,0,1
+Sirius IK,Hammarby IF,24.0,31.0,45.0,15.0,2.91,4.0,4.0,1.67,1,2,0,3,2
+Wisla Krakow,Wisla Plock,38.0,28.0,34.0,11.0,3.67,2.15,3.25,3.2,2,1,3,4,2
+Sporting Braga,FC Porto,23.0,30.0,46.0,19.0,2.47,4.0,3.75,1.8,0,2,1,0,1
+Brøndby IF,FC Midtjylland,31.0,22.0,46.0,10.0,2.37,3.1,3.4,2.2,0,2,1,3,2
+Landskrona BoIS,Örgryte IS,32.0,35.0,33.0,10.0,4.1,2.8,3.2,2.38,2,2,3,2,1
+Östers IF,Vasteras SK FK,47.0,39.0,15.0,14.0,2.42,1.8,3.6,4.0,2,0,1,1,0
+Viktoria Köln,Meppen,38.0,33.0,28.0,13.0,1.45,1.7,3.5,4.33,1,0,1,1,0
+West Brom U23s,Norwich U23s,30.0,23.0,46.0,12.0,3.92,2.7,4.2,2.0,1,3,3,2,1
+Malmö FF,IFK Göteborg,34.0,39.0,27.0,11.0,2.39,1.45,4.2,6.5,1,1,1,0,1
+Besiktas JK,Kasımpaşa SK,40.0,34.0,26.0,16.0,3.58,1.91,3.75,3.5,2,1,0,3,2
+Sivasspor,Alanyaspor,32.0,33.0,34.0,18.0,2.63,2.45,3.3,2.75,1,2,1,0,1
+Maccabi Tel Aviv,Hapoel Tel Aviv,36.0,37.0,27.0,23.0,2.34,1.62,3.5,4.75,1,1,5,0,1
+Samsunspor,Altınordu SK,31.0,40.0,30.0,16.0,2.3,1.45,3.75,6.5,1,1,2,1,1
+Hapoel Ramat Gan,Ahi Nazareth,28.0,42.0,30.0,23.0,1.94,2.5,2.9,2.7,1,1,2,3,2
+Hapoel Afula,Ramat HaSharon,29.0,40.0,31.0,20.0,2.4,2.6,2.9,2.6,1,1,1,1,0
+Beitar Tel Aviv,H. Ironi Rishon,26.0,39.0,34.0,23.0,1.85,2.75,3.25,2.25,1,1,1,1,0
+Hapoel Acre,Hapoel Raanana,37.0,41.0,22.0,21.0,1.9,1.91,3.25,3.5,1,1,1,1,0
+Jong Ajax,VVV Venlo,42.0,32.0,26.0,11.0,3.5,1.53,4.5,4.75,3,1,6,1,1
+Jong PSV,MVV Maastricht,40.0,35.0,25.0,11.0,3.22,1.45,4.5,5.5,3,1,2,2,0
+KR Reykjavik,Breidablik,37.0,31.0,32.0,7.0,3.03,2.45,3.4,2.4,3,2,0,1,2
+FH Hafnarfjordur,Fram Reykjavik,46.0,35.0,19.0,7.0,3.15,1.4,4.75,5.25,3,1,4,2,1
+Kecskemeti TE,Szegedi AK,28.0,30.0,41.0,17.0,3.38,2.5,3.25,2.9,1,2,4,0,1
+Burnley FC U23s,Aston Villa U23s,45.0,30.0,25.0,13.0,4.43,2.25,3.6,2.55,3,2,2,1,1
+Reading U23s,Fulham U23s,25.0,19.0,55.0,12.0,2.32,8.0,5.0,1.29,0,2,3,1,1
+Wolves U23s,Stoke City U23s,39.0,31.0,29.0,11.0,3.43,1.95,3.4,3.3,3,1,2,2,0
+Blackburn U23s,Crystal Palace U21,55.0,20.0,25.0,11.0,3.0,2.15,3.75,2.63,2,1,2,1,1
+Brighton U23s,Chelsea U23s,49.0,27.0,24.0,13.0,2.65,2.2,4.2,2.4,2,1,1,2,2
+Derby U23s,Tottenham U23s,36.0,20.0,44.0,12.0,3.45,2.8,3.75,2.05,1,3,0,1,2
+Everton FC U23s,West Ham Utd U23s,42.0,18.0,40.0,13.0,2.58,2.8,4.1,1.95,2,1,3,4,2
+Leicester City U23s,Liverpool U23s,38.0,26.0,36.0,12.0,3.36,2.7,4.0,2.05,3,1,0,4,2
+Al Seeb SC,Bahla Club,61.0,25.0,14.0,31.0,2.42,1.29,4.5,9.0,2,0,2,3,2
+Sohar Club,Dhofar Salalah,15.0,37.0,48.0,30.0,2.28,4.2,3.1,1.8,0,2,0,0,0
+Comunicaciones,CSD Sololá,59.0,31.0,10.0,18.0,2.8,1.17,6.0,13.0,3,0,2,2,0
+Aserrí,AD Carmelita,36.0,27.0,37.0,18.0,2.37,2.38,3.4,2.5,0,2,2,1,1
+Mt Druitt Rangers,Marconi Stallions,24.0,36.0,40.0,17.0,4.63,4.33,3.6,1.8,2,3,2,4,2
+Sreenidi Deccan,NEROCA FC,25.0,34.0,42.0,34.0,3.5,2.0,3.2,3.25,2,3,0,0,0
+FK Ordabasy,Kairat Almaty,32.0,44.0,24.0,23.0,2.1,3.0,3.3,2.1,1,1,2,1,1
+Jaish Damascus,Taliya Hama,42.0,36.0,22.0,30.0,2.44,1.91,3.1,3.75,2,0,0,0,0
+Ittihad Aleppo,Jableh SC,33.0,40.0,28.0,31.0,2.16,2.25,3.0,3.0,1,1,1,0,1
+Tishreen SC,Harjilah,66.0,23.0,11.0,25.0,2.75,1.2,5.0,15.0,2,1,2,1,1
+Wathba Homs,Hutteen Latakia,48.0,28.0,24.0,30.0,2.32,1.3,4.5,8.5,2,0,1,0,1
+Foutoua Club,Karamah,27.0,40.0,32.0,30.0,2.3,2.3,3.0,2.9,1,1,0,1,2
+Nawa'ir Hama,Wahda Damascus,19.0,28.0,54.0,32.0,1.62,2.7,3.1,2.38,0,1,1,2,2
+Arba Minch Kenema,Fasil Kenema,27.0,47.0,26.0,29.0,1.92,4.0,2.9,1.95,0,0,0,1,2
+Navbahor,Sogdiana Jizzakh,31.0,40.0,29.0,23.0,1.96,2.25,2.8,3.2,1,1,1,2,2
+FK Kolubara,FK Novi Pazar,44.0,26.0,31.0,20.0,2.45,2.38,3.1,2.7,2,0,1,3,2
+Tobol Kostanay,FC Astana,38.0,32.0,30.0,17.0,2.46,2.4,3.2,2.6,2,0,1,1,0
+Mohammedan SC,Minerva Punjab,32.0,30.0,37.0,34.0,3.17,2.25,3.2,2.8,1,3,2,2,0
+Trans Narva,FC Kuressaare,47.0,24.0,29.0,5.0,3.09,2.0,3.4,3.1,3,1,0,1,2
+FK Varnsdorf,SK Lisen,28.0,46.0,26.0,12.0,2.03,2.2,3.4,2.75,1,1,0,1,2
+Dziugas FC,FK Banga,27.0,40.0,33.0,11.0,2.47,1.85,3.5,3.5,0,0,0,0,0
+Nasarawa Utd,Dakkada FC,50.0,32.0,18.0,37.0,2.5,1.45,3.4,7.5,3,0,1,0,1
+AEK Larnaka,Ethnikos Achnas,45.0,30.0,25.0,20.0,2.61,1.3,4.5,8.5,2,1,1,2,2
+Hadiya Hosaena,Awassa Kenema,23.0,47.0,30.0,16.0,2.0,2.75,2.75,2.6,1,1,3,1,1
+AS Trencin,Zlate Moravce,50.0,22.0,28.0,15.0,2.51,1.57,4.0,4.8,2,1,4,3,1
+Chrobry Glogow,Resovia,38.0,37.0,25.0,14.0,2.29,2.7,3.1,2.7,1,0,3,3,0
+Zaglebie Sosnowiec,Miedz Legnica,23.0,30.0,46.0,10.0,2.12,3.3,3.2,2.0,0,2,1,2,2
+Univ Cluj-Napoca,Petrolul Ploiesti,39.0,24.0,37.0,17.0,2.48,2.38,3.0,2.75,2,0,3,1,1
+Anorthosis FC,Omonia Nicosia,27.0,44.0,29.0,20.0,2.29,2.2,3.1,3.1,1,1,0,2,2
+FC Milsami,Sfîntul Gheorghe,28.0,40.0,32.0,18.0,3.01,2.3,3.3,2.7,2,2,0,2,2
+Greuther Furth II,FC Augsburg II,27.0,35.0,38.0,10.0,2.54,2.4,3.4,2.5,1,2,3,2,1
+SV Ried,Admira,27.0,47.0,25.0,6.0,2.2,2.63,3.25,2.75,1,1,1,1,0
+Hartberg,SCR Altach,27.0,38.0,35.0,11.0,2.3,2.1,3.4,3.6,1,1,4,0,1
+WSG Wattens,LASK Linz,29.0,43.0,27.0,7.0,2.2,4.75,4.0,1.7,1,1,4,0,1
+Mladost Lucani,FK Radnicki 1923,39.0,34.0,27.0,21.0,2.13,2.1,3.0,3.25,2,0,0,0,0
+Radnicki Nis,FK Vojvodina,39.0,34.0,28.0,21.0,2.75,2.3,3.0,2.88,2,1,1,0,1
+TSV 1896 Rain,Schweinfurt,26.0,28.0,46.0,9.0,3.87,7.5,5.0,1.33,2,3,2,1,1
+Kalmar FF,Norrköping,50.0,26.0,24.0,9.0,2.36,2.38,3.0,3.1,2,0,1,2,2
+Nomme Kalju,TJK Legion,67.0,21.0,12.0,5.0,3.46,1.13,8.5,15.0,3,0,3,0,1
+Örebro SK,Halmstads BK,35.0,39.0,26.0,10.0,2.0,2.55,3.1,2.6,1,1,0,2,2
+FK Kauno Zalgiris,Hegelmann Litauen,24.0,36.0,40.0,12.0,2.13,3.1,3.2,2.1,0,2,1,3,2
+Illertissen,Schalding-Heining,56.0,20.0,24.0,10.0,3.93,1.5,4.0,5.25,3,1,0,0,0
+Al-Duhail,Sepahan Esfahan,40.0,38.0,22.0,27.0,2.54,3.4,3.5,2.15,2,1,5,2,1
+Spakenburg,ASWH,49.0,24.0,27.0,12.0,3.03,1.5,4.5,4.5,2,1,1,0,1
+Widzew Lodz,Korona Kielce,38.0,40.0,23.0,11.0,2.3,2.0,3.2,3.4,1,1,1,2,2
+Qalali,Bahrain Club,13.0,25.0,62.0,27.0,3.3,3.4,3.6,1.83,1,2,1,3,2
+JJ Urquiza,Ituzaingó,20.0,41.0,39.0,21.0,2.75,2.5,2.6,3.0,2,2,0,1,2
+Swansea City,Bournemouth,27.0,34.0,39.0,13.0,2.47,3.1,3.4,2.3,0,2,3,3,0
+Fulham,Nottingham Forest,35.0,31.0,34.0,12.0,2.67,1.75,3.75,4.75,2,1,0,1,2
+Barnsley,Blackpool,33.0,36.0,30.0,10.0,2.29,2.45,3.2,2.9,1,1,0,2,2
+Portsmouth,Wigan Athletic,30.0,36.0,34.0,12.0,1.83,3.0,3.2,2.4,0,0,3,2,1
+Fleetwood Town,Sheffield Wednesday,17.0,29.0,54.0,12.0,1.5,3.6,3.4,2.05,0,1,2,3,2
+Sunderland,Rotherham,42.0,34.0,24.0,8.0,2.71,2.3,3.4,3.0,2,1,1,1,0
+Exeter City,Barrow AFC,51.0,31.0,18.0,11.0,2.0,1.62,3.75,5.5,1,0,2,1,1
+Mansfield,Stevenage,53.0,24.0,23.0,10.0,2.47,1.8,3.5,4.5,1,0,2,0,1
+Swindon Town,Forest Green,27.0,31.0,42.0,12.0,2.38,2.63,3.5,2.5,0,2,2,1,1
+Sutton United,Crawley Town,55.0,22.0,23.0,12.0,1.33,1.8,3.6,4.33,1,0,3,0,1
+Bromley FC,Aldershot Town,43.0,29.0,28.0,12.0,3.24,1.85,3.4,3.8,2,1,1,1,0
+Weymouth,Wrexham FC,10.0,18.0,73.0,12.0,1.4,7.5,4.75,1.33,0,2,1,6,2
+Dover Athletic,Notts County,21.0,32.0,47.0,10.0,1.75,7.0,4.0,1.4,0,2,0,3,2
+Southend Utd,Boreham Wood,25.0,37.0,38.0,11.0,2.34,2.75,3.1,2.5,0,2,1,0,1
+Chester FC,York City,27.0,33.0,40.0,12.0,2.63,2.7,3.3,2.25,1,2,0,1,2
+Alfreton Town,Curzon Ashton,37.0,39.0,24.0,10.0,2.74,2.1,3.4,2.9,2,2,4,2,1
+Concord Rangers,Slough Town,34.0,41.0,25.0,11.0,2.2,2.8,3.3,2.2,1,1,1,1,0
+Manchester City,Real Madrid,50.0,23.0,27.0,12.0,1.5,1.45,4.75,6.5,1,0,4,3,1
+Arab Contractors,Ittihad Alexandria,27.0,49.0,24.0,25.0,2.11,2.7,2.88,2.55,1,1,1,1,0
+NBE SC,Eastern Company SC,40.0,33.0,27.0,25.0,0.75,1.85,3.1,4.0,2,0,2,1,1
+Ismaily SC,ENPPI Cairo,24.0,51.0,26.0,23.0,1.48,2.2,2.8,3.3,0,0,0,2,2
+FC Ahal,Gharrafa SC,28.0,26.0,46.0,21.0,2.54,3.1,3.4,2.25,1,3,4,2,1
+Foolad Khuzestan,Al Ahli Dubai,32.0,43.0,25.0,29.0,1.78,4.33,2.4,2.38,0,0,1,1,0
+Mumbai City,Quwa Al Jawiya,30.0,23.0,47.0,30.0,2.2,7.5,5.0,1.36,0,2,1,0,1
+Costa del Este,Alianza FC (PAN),23.0,44.0,33.0,31.0,1.7,2.6,2.63,2.88,1,1,1,2,2
+Olympique Safi,Wydad Casablanca,19.0,27.0,54.0,17.0,1.85,3.6,3.1,1.95,0,1,0,1,2
+Sport Recife,Ituano/SP,36.0,52.0,13.0,27.0,1.58,2.4,3.0,3.4,1,1,1,0,1
+Novorizontino/SP,Chapecoense SC,24.0,31.0,45.0,26.0,0.5,2.5,3.0,3.2,0,1,0,3,2
+Estudiantes La Plata,RB Bragantino,56.0,25.0,19.0,20.0,2.78,2.2,3.3,3.4,3,0,2,0,1
+Independiente Petrolero,Deportivo Tachira,49.0,27.0,24.0,19.0,2.67,1.65,3.75,5.5,2,1,1,2,2
+Libertad,Atlético PR,55.0,25.0,20.0,31.0,2.6,2.15,3.25,3.6,3,0,1,0,1
+Vélez Sársfield,Nacional (URU),41.0,37.0,22.0,20.0,2.12,1.75,3.3,5.75,2,0,1,2,2
+General Caballero JLM,Ceará SC,27.0,38.0,35.0,27.0,1.7,5.5,3.5,1.73,0,0,0,2,2
+Deportivo La Guaira,Independiente,26.0,21.0,53.0,22.0,2.73,5.5,3.4,1.75,1,2,0,2,2
+Pérez Zeledón,Santos Guápiles,38.0,36.0,26.0,24.0,2.64,2.05,3.1,3.3,2,1,1,1,0
+Botafogo PB,Nacional/PB,49.0,18.0,33.0,27.0,4.69,1.5,4.1,5.0,3,2,3,0,1
+Brusque FC/SC,CS Alagoano,27.0,32.0,42.0,22.0,2.75,2.88,3.1,2.63,1,2,2,0,1
+Vila Nova FC,Tombense FC,29.0,40.0,31.0,25.0,0.5,1.91,3.25,4.75,0,0,1,1,0
+Unión Española,Cobresal,45.0,26.0,29.0,13.0,2.68,2.1,3.3,3.4,2,1,2,2,0
+Bahia,Sampaio Correa,42.0,40.0,18.0,28.0,1.19,1.85,3.25,4.75,1,0,1,0,1
+Cruzeiro,Londrina,39.0,42.0,18.0,26.0,1.67,1.62,3.4,7.5,1,1,1,0,1
+Corinthians,Boca Juniors,30.0,24.0,46.0,24.0,1.7,2.05,3.3,3.8,0,1,2,0,1
+Sporting SM FC,CD Árabe Unido,38.0,42.0,21.0,25.0,2.03,2.25,2.75,3.25,1,1,1,0,1
+CS Cartaginés,Grecia,39.0,36.0,25.0,17.0,2.96,2.1,3.4,2.9,2,1,4,0,1
+Cimarrones Sonora,Alebrijes de Oaxaca,36.0,29.0,35.0,20.0,2.05,2.0,3.25,4.0,1,0,1,3,2
+Sangju Sangmu,Suwon Bluewings,35.0,34.0,31.0,23.0,2.1,2.2,3.0,3.1,1,0,1,1,0
+Ulsan Hyundai,Kawasaki Frontale,35.0,32.0,33.0,16.0,2.65,2.88,3.25,2.2,2,1,3,2,1
+Blaublitz Akita,Fagiano Okayama,19.0,45.0,36.0,9.0,2.15,3.2,2.8,2.3,1,1,0,1,2
+Peninsula Power,Brisbane City,60.0,21.0,19.0,20.0,4.2,1.7,4.0,3.6,2,1,5,0,1
+Olympic FC QLD,Eastern Suburbs,68.0,16.0,17.0,20.0,3.54,1.2,7.0,12.0,2,1,1,1,0
+Omiya Ardija,Thespakusatsu,29.0,22.0,49.0,21.0,2.41,2.55,3.1,2.55,0,2,3,2,1
+JEF United Chiba,Renofa Yamaguchi,29.0,45.0,27.0,22.0,3.29,1.85,3.3,3.75,2,2,2,0,1
+Yokohama FC,Machida Zelvia,43.0,36.0,21.0,9.0,2.43,2.2,3.0,3.1,2,0,1,1,0
+Albirex Niigata,Grulla Morioka,47.0,26.0,27.0,11.0,1.75,1.67,3.3,5.0,1,0,2,0,1
+Tokushima Vortis,Montedio Yamagata,28.0,49.0,23.0,11.0,2.0,2.5,3.0,2.75,1,1,0,1,2
+V-Varen Nagasaki,Mito HollyHock,39.0,37.0,23.0,19.0,2.0,2.0,3.1,3.5,1,0,1,0,1
+Roasso Kumamoto,Vegalta Sendai,20.0,28.0,52.0,23.0,3.05,2.6,3.0,2.6,1,3,0,2,2
+Oita Trinita,Tochigi SC,41.0,29.0,30.0,21.0,2.42,2.0,3.1,3.75,2,0,0,0,0
+Ryukyu,Zweigen Kanazawa,15.0,25.0,60.0,25.0,3.1,3.6,3.0,2.05,1,3,1,1,0
+FK Kyzylzhar,FK Maktaaral,46.0,32.0,22.0,22.0,3.03,1.67,3.5,4.4,2,1,1,1,0
+Bucheon FC 1995,Suwon FC,36.0,30.0,34.0,17.0,2.9,4.0,3.25,1.8,2,1,1,0,1
+Changwon City,FC Seoul,35.0,37.0,28.0,17.0,2.05,5.5,3.6,1.53,1,1,0,0,0
+Daejeon Korail,Pyeongchang FC,34.0,30.0,36.0,19.0,2.18,1.5,3.8,5.5,0,1,1,1,0
+Gangwon FC,Hwaseong FC,35.0,31.0,34.0,18.0,2.35,1.36,4.2,7.0,1,0,2,0,1
+Gimhae City,Pohang Steelers,34.0,30.0,36.0,17.0,2.01,7.0,4.2,1.36,0,1,0,5,2
+GimPo Citizen,Busan Kyotong,31.0,33.0,36.0,17.0,2.23,1.73,3.4,4.2,0,1,1,1,0
+Gyeongnam,Gyeongju KHNP,32.0,33.0,35.0,17.0,2.49,2.1,3.3,3.0,0,2,2,0,1
+Incheon United,Gwangju FC,30.0,34.0,36.0,16.0,2.35,1.91,3.2,3.6,0,1,1,6,2
+Jeju United,FC Anyang,34.0,30.0,36.0,18.0,2.42,1.53,3.6,5.5,0,1,0,0,0
+Seongnam FC,Asan Mugunghwa,35.0,31.0,34.0,19.0,1.75,2.1,3.1,3.2,1,0,1,0,1
+Ulsan Citizen,Busan I'Park,37.0,30.0,33.0,12.0,1.93,2.88,3.1,2.25,1,0,2,0,1
+Ventforet Kofu,Tokyo Verdy,31.0,35.0,34.0,22.0,2.77,2.3,3.1,2.8,2,2,2,0,1
+Melbourne City,Bangkok Glass,26.0,34.0,40.0,18.0,2.23,3.2,3.4,2.3,0,1,0,0,0
+Urawa Red Diamonds,Lion City,40.0,33.0,27.0,23.0,2.73,1.05,11.0,41.0,2,1,6,0,1
+FK Partizan,Bačka Topola,55.0,31.0,14.0,20.0,3.33,1.13,6.5,17.0,3,1,4,1,1
+Kaspij Aktau,FC Shakhter,41.0,25.0,33.0,20.0,2.71,2.5,3.2,2.5,2,1,4,0,1
+Golden Arrows,Kaizer Chiefs,29.0,34.0,37.0,21.0,2.11,2.26,3.06,3.2,0,1,2,1,1
+FC Turan,FK Atyrau,19.0,46.0,35.0,24.0,2.25,2.38,3.0,2.8,1,1,0,0,0
+PWD Bamenda,Dragon Club FC,45.0,37.0,18.0,22.0,1.75,1.67,3.4,4.5,2,0,2,0,1
+Graficar Belgrade,Timok Zajecar,47.0,21.0,32.0,20.0,2.13,1.4,3.9,7.0,2,0,2,0,1
+Buildcon Ndola,Zanaco FC,23.0,38.0,40.0,23.0,1.8,3.75,3.0,1.95,0,1,2,0,1
+Dynamik,Bujumbura City,42.0,32.0,27.0,25.0,2.63,2.25,3.0,3.0,2,1,1,0,1
+FK Taraz,FK Aktobe,30.0,37.0,34.0,18.0,2.3,2.7,3.1,2.38,1,1,3,0,1
+IMT Novi Beograd,FK Žarkovo,45.0,30.0,26.0,20.0,3.25,1.33,4.0,9.0,3,1,2,1,1
+Mladost Novi Sad,Zeleznicar Pancevo,39.0,21.0,40.0,19.0,2.75,1.85,3.25,3.75,1,2,2,0,1
+Radnicki Sr. Mitrovica,FK Loznica,41.0,22.0,37.0,19.0,1.88,2.05,3.1,3.3,1,0,0,0,0
+FK Budućnost Dob.,FK Backa,25.0,49.0,26.0,20.0,1.53,2.1,2.75,3.7,1,1,4,1,1
+Terengganu II,UiTM FC,59.0,30.0,11.0,30.0,2.68,2.25,3.4,2.63,3,0,2,0,1
+Perak FA,Kelantan United,41.0,12.0,46.0,27.0,3.6,1.57,3.75,4.8,2,3,2,3,2
+Daegu FC,Shandong Luneng,34.0,26.0,40.0,15.0,3.83,1.01,26.0,51.0,1,2,4,0,1
+GZ Evergrande FC,Darul Takzim,37.0,19.0,44.0,30.0,3.14,1.02,21.0,34.0,1,3,0,2,2
+Jeonnam Dragons,Ceres,61.0,21.0,18.0,14.0,2.49,1.22,6.0,12.0,2,0,2,0,1
+FK Vozdovac,FK Napredak,55.0,28.0,17.0,19.0,2.48,1.8,3.25,4.0,2,0,3,0,1
+Tammeka Tartu,Levadia Tallinn,17.0,22.0,61.0,5.0,2.37,7.0,6.0,1.25,0,2,0,1,2
+Coton Sport,OFTA,30.0,44.0,26.0,33.0,0.6,2.2,3.0,3.1,1,1,1,0,1
+FK Grbalj,Mladost Donja Gorica,20.0,41.0,40.0,17.0,2.37,2.5,3.0,2.63,1,1,0,4,2
+FK Cetinje,Jedinstvo BP,17.0,19.0,64.0,17.0,2.89,9.0,5.5,1.25,1,2,0,8,2
+FK Kom,OFK Igalo,38.0,32.0,30.0,22.0,2.64,1.91,2.9,4.0,2,1,2,2,0
+FK Krupa,Omarska,50.0,36.0,14.0,12.0,1.5,1.08,9.5,21.0,1,0,4,0,1
+Kozara Gradiska,Sloga Doboj,19.0,27.0,55.0,12.0,2.58,5.0,3.6,1.57,1,2,2,3,2
+FK Slavija,Sutjeska Foca,35.0,26.0,39.0,18.0,2.73,1.83,3.5,3.5,1,2,3,1,1
+FK Modrica,Podrinje Janja,41.0,26.0,34.0,13.0,2.71,1.57,3.75,4.75,2,1,1,2,2
+Borac Kozarska Dubica,Zeljeznicar Banja Luka,29.0,31.0,40.0,12.0,3.21,2.3,3.2,2.75,1,3,1,0,1
+Aluminium Arak,Nassaji Mazandaran,21.0,56.0,23.0,14.0,1.38,2.6,2.75,2.75,1,1,0,1,2
+Orlando Pirates,Chippa United,49.0,32.0,19.0,18.0,2.35,1.62,3.2,5.5,1,0,0,0,0
+JK Tallinna Kalev,Flora Tallinn,9.0,11.0,80.0,5.0,2.83,21.0,10.0,1.08,0,3,2,4,2
+Isidro Metapán,Santa Tecla,44.0,35.0,21.0,25.0,2.87,2.1,2.9,3.4,2,1,0,0,0
+CD Chalatenango,CD FAS,29.0,44.0,27.0,25.0,2.15,2.25,2.9,3.1,1,1,3,2,1
+CD Plaza Amador,Tauro FC,26.0,38.0,36.0,24.0,1.59,2.3,2.7,3.2,1,1,1,0,1
+Herrera FC,CAI de La Chorrera,37.0,36.0,27.0,24.0,2.5,2.5,2.7,2.9,2,1,4,0,1
+Veraguas CD,CD Universitario,31.0,47.0,22.0,24.0,1.63,2.4,2.7,3.1,1,1,1,0,1
+Managua FC,Real Madriz,51.0,26.0,23.0,27.0,3.86,1.36,4.5,6.5,3,1,3,0,1
+Sporting (CRC),CS Herediano,24.0,36.0,40.0,19.0,2.83,2.8,3.1,2.3,1,2,0,2,2
+Saprissa,LD Alajuelense,25.0,21.0,54.0,16.0,2.34,2.5,3.3,2.4,0,2,2,0,1
+The Strongest,Caracas,53.0,27.0,20.0,8.0,2.18,1.17,6.5,19.0,1,0,1,1,0
+UNAM Pumas,Seattle Sounders,49.0,27.0,24.0,16.0,2.44,1.75,3.4,4.75,1,0,2,2,0
+Jubilo Iwata,Nagoya Grampus,26.0,48.0,27.0,18.0,2.1,3.3,3.3,2.2,1,1,2,1,1
+PVF Vietnam,Hải Nam,28.0,35.0,37.0,26.0,1.0,5.0,4.33,1.45,0,1,1,2,2
+Indian Arrows,Aizawl FC,33.0,29.0,38.0,37.0,2.13,4.33,3.6,1.67,0,2,1,2,2
+Van Yerevan,Alashkert,25.0,26.0,49.0,26.0,2.33,4.1,2.9,1.91,0,2,0,1,2
+Yokohama Marinos,Hoang Anh Gia Lai,57.0,25.0,18.0,11.0,2.6,1.25,6.5,9.5,2,1,2,0,1
+Dong Thap FC,Gia Định,25.0,47.0,28.0,25.0,0.5,1.91,3.6,3.2,0,0,2,1,1
+Kenkre,TRAU FC,33.0,20.0,47.0,33.0,2.25,4.33,3.6,1.65,0,2,0,0,0
+FC Samtredia,FC Shevardeni,46.0,27.0,26.0,22.0,2.38,1.67,3.75,4.0,2,0,1,2,2
+FC Shukura,Merani Tbilisi,38.0,32.0,30.0,14.0,3.26,2.0,3.4,3.1,3,1,3,0,1
+WIT Georgia,Metalurgi Rustavi,39.0,31.0,30.0,27.0,2.63,2.5,3.2,2.5,2,1,2,0,1
+US Monastir,Club Africain Tunis,30.0,37.0,33.0,19.0,1.54,2.7,2.7,2.7,0,0,1,0,1
+Kahraba Baghdad,Naft SC Baghdad,24.0,43.0,33.0,34.0,1.36,2.75,2.6,2.7,0,0,0,1,2
+Mbeya City,Biashara United,29.0,38.0,33.0,17.0,1.43,2.1,2.7,3.75,0,0,1,0,1
+Radnik Surdulica,FK Metalac,32.0,38.0,30.0,13.0,1.95,1.8,3.25,4.0,1,1,3,3,0
+FK Indjija,Javor Ivanjica,27.0,28.0,45.0,12.0,3.09,2.25,3.2,2.8,1,3,0,1,2
+Selangor 2,FAM-MSN Project,64.0,11.0,25.0,29.0,3.01,1.2,6.0,9.0,3,0,0,0,0
+PDRM FA,Kuching FA,24.0,35.0,41.0,29.0,1.68,2.75,3.25,2.25,0,1,2,2,0
+Chiangrai United,Kitchee SC,24.0,36.0,41.0,34.0,0.5,2.4,3.2,3.0,0,1,2,3,2
+Sydney FC,Jeonbuk Hyundai M.,16.0,43.0,41.0,19.0,1.58,3.4,3.4,2.15,1,1,2,3,2
+Real Kashmir,Sudeva Moonlight,16.0,53.0,30.0,18.0,2.1,2.05,3.1,3.3,1,1,1,2,2
+HIFK Helsinki,HJK Helsinki,14.0,25.0,62.0,7.0,2.01,7.0,4.5,1.33,0,1,0,2,2
+Supernova Riga,FS METTA/LU Riga,20.0,46.0,34.0,8.0,2.4,2.88,3.2,2.2,1,1,0,1,2
+FC Urartu,Ararat Yerevan,34.0,40.0,27.0,17.0,2.15,1.95,3.0,3.75,1,1,1,2,2
+FC KTP,TPS Turku,23.0,31.0,47.0,1.0,2.76,2.2,3.1,2.88,2,3,0,0,0
+SC Gagnoa,ASEC Mimosas,25.0,36.0,38.0,25.0,2.1,5.75,3.0,1.65,0,2,0,2,2
+Arman Gahar,Shahrdari Astara,40.0,46.0,14.0,20.0,1.04,2.0,2.75,4.0,1,1,3,1,1
+Odra Opole,Puszcza,40.0,42.0,19.0,15.0,1.9,2.15,3.0,3.2,1,1,1,2,2
+Sandecja,Podbeskidzie,31.0,46.0,22.0,14.0,2.03,2.5,3.1,2.55,1,1,0,1,2
+Ida-Viru FC Alliance,Paide II,19.0,11.0,70.0,3.0,3.13,6.5,5.0,1.33,0,4,0,2,2
+Tulevik Viljandi,Flora Tallinn II,20.0,15.0,65.0,2.0,2.21,7.5,6.0,1.22,0,2,1,1,0
+CS Duguwolofila,AS Korofina,19.0,43.0,38.0,36.0,2.07,3.1,2.55,2.5,1,1,0,2,2
+Qashqai Shiraz,Esteghlal Khuzestan,24.0,37.0,39.0,22.0,2.43,3.0,2.5,2.6,0,1,1,0,1
+Esteghlal Molasani,Mes Shahr-e Babak,19.0,40.0,42.0,25.0,1.13,2.4,2.55,3.3,0,1,1,1,0
+Spartak Subotica,Proleter Novi Sad,38.0,27.0,35.0,11.0,3.25,1.8,3.4,3.75,2,1,3,1,1
+Machine Sazi,Khooshe Talaee,19.0,34.0,47.0,16.0,4.33,4.5,2.9,1.83,1,3,1,3,2
+Vejle BK,FC Midtjylland,28.0,20.0,52.0,13.0,2.84,5.25,3.75,1.55,0,3,0,1,2
+Concordia Chiajna,FC Hermannstadt,23.0,35.0,42.0,14.0,1.78,3.5,3.3,1.91,0,1,1,3,2
+Olympique Messira,Stade Malien,16.0,32.0,52.0,37.0,2.41,4.2,2.8,1.95,0,2,1,0,1
+Lillestrom SK,Aalesund FK,43.0,35.0,22.0,12.0,2.57,1.67,4.0,5.0,2,1,2,0,1
+Stomil Olsztyn,GKS Tychy,31.0,30.0,40.0,15.0,2.32,3.3,3.1,2.1,0,1,2,1,1
+Al Khaldiya,Manama Club,21.0,39.0,40.0,28.0,2.25,9.0,4.0,1.33,0,2,1,2,2
+Riffa Club,Muharraq SC,35.0,38.0,27.0,27.0,1.63,1.85,2.6,5.5,1,1,4,1,1
+Manchester United,Chelsea,29.0,33.0,38.0,10.0,2.76,3.2,3.4,2.25,1,2,1,1,0
+West Ham,Eintracht Frankfurt,32.0,39.0,29.0,11.0,2.1,1.95,3.4,4.2,1,1,1,2,2
+RB Leipzig,Rangers FC,41.0,29.0,30.0,14.0,2.39,1.36,4.75,9.0,1,0,1,0,1
+AS Police Bamako,Afrique Football Élite,23.0,56.0,21.0,36.0,2.1,2.5,2.6,3.0,1,1,0,0,0
+Feyenoord,Olympique Marseille,31.0,26.0,43.0,12.0,2.97,2.15,3.5,3.3,1,3,3,2,1
+Leicester City,AS Roma,32.0,38.0,30.0,9.0,2.35,2.25,3.25,3.4,0,0,1,1,0
+Vikingur Reykjavik,Keflavik IF,56.0,27.0,17.0,9.0,2.84,1.33,5.0,6.5,2,1,4,1,1
+Zamalek SC,Al Masry,47.0,33.0,20.0,26.0,1.57,1.4,4.0,7.0,1,0,2,1,1
+Ramtha Club,Jazeera Amman,46.0,30.0,23.0,19.0,3.14,2.05,3.0,3.6,2,1,3,1,1
+Zulia FC,Zamora FC,15.0,44.0,42.0,29.0,2.3,3.25,3.25,2.0,1,1,0,2,2
+FUS Rabat,Raja Casablanca,21.0,35.0,44.0,16.0,2.1,3.4,2.7,2.2,0,2,0,1,2
+Universidad Católica,Flamengo RJ,27.0,14.0,59.0,18.0,2.27,5.25,3.8,1.62,0,1,2,3,2
+Defensa y Justicia,LDU Quito,59.0,18.0,23.0,14.0,2.61,1.75,3.25,4.75,3,0,1,2,2
+Jorge Wilstermann,São Paulo FC,46.0,15.0,39.0,19.0,3.01,5.0,3.4,1.67,3,1,1,3,2
+Tupi RS,Glória/RS,31.0,41.0,28.0,21.0,1.88,2.88,2.88,2.38,1,1,1,1,0
+Guarani/RS,EC Pelotas/RS,23.0,29.0,48.0,18.0,1.95,3.0,3.1,2.2,0,1,2,1,1
+Trem/AP,Santana EC/AP,74.0,19.0,7.0,26.0,3.46,1.25,5.5,7.5,3,0,3,2,1
+Aragua,Deportivo Lara,30.0,46.0,24.0,26.0,2.14,2.5,3.0,2.63,0,0,1,1,0
+Atlante FC,Leones Negros,38.0,34.0,28.0,27.0,2.3,1.83,3.3,3.8,2,0,2,0,1
+Diriangén FC,H&H Export,47.0,28.0,25.0,27.0,1.67,1.5,3.75,5.5,1,0,8,0,1
+Olimpia Asunción,Colon Santa Fe,36.0,26.0,38.0,26.0,2.49,2.4,3.2,3.0,0,1,0,0,0
+El Nacional Quito,Libertad,33.0,32.0,35.0,12.0,1.0,1.8,3.25,4.0,0,1,3,0,1
+Barcelona SC,Metropolitanos,45.0,30.0,25.0,25.0,2.05,1.29,4.75,10.0,1,0,1,0,1
+Oriente Petrolero,Junior Barranquilla,20.0,23.0,57.0,29.0,2.1,4.5,3.4,1.73,0,1,1,3,2
+Unión La Calera,Santos FC,33.0,28.0,39.0,19.0,1.67,2.9,3.1,2.38,0,2,1,1,0
+Montevideo Wanderers,CA Lanús,29.0,30.0,41.0,14.0,1.88,3.75,3.1,2.0,0,1,0,1,2
+Juventus Managua,Jalapa ART,36.0,30.0,34.0,29.0,3.19,1.83,3.4,3.6,3,1,2,1,1
+Alianza FC,Deportivo Ahuachapan,50.0,32.0,19.0,23.0,1.91,1.55,3.6,5.75,1,0,1,0,1
+Always Ready,Deportivo Cali,41.0,29.0,30.0,5.0,2.56,1.73,3.8,4.5,2,1,2,2,0
+Juventus Managua,Jalapa ART,36.0,30.0,34.0,29.0,3.19,1.83,3.4,3.6,3,1,2,1,1
+Alianza FC,Deportivo Ahuachapan,50.0,32.0,19.0,23.0,1.91,1.55,3.6,5.75,1,0,1,0,1
+Always Ready,Deportivo Cali,41.0,29.0,30.0,5.0,2.56,1.73,3.8,4.5,2,1,2,2,0
+Iwaki FC,Vanraure Hachinohe,46.0,28.0,25.0,14.0,0.67,1.8,3.2,4.0,1,0,3,1,1
+FC Imabari,Tegevajaro Miyazaki,37.0,34.0,29.0,13.0,2.67,2.38,3.0,2.9,2,1,0,0,0
+Consadole Sapporo,Shonan Bellmare,36.0,45.0,19.0,13.0,2.01,2.05,3.3,3.6,1,1,1,0,1
+Shimizu S-Pulse,Sanfrecce,18.0,43.0,39.0,15.0,2.3,3.5,3.25,2.1,1,1,2,2,0
+Kataller Toyama,Gainare Tottori,44.0,27.0,28.0,10.0,2.36,1.73,3.4,4.2,2,0,3,2,1
+Ehime FC,Fukushima United,26.0,29.0,45.0,17.0,1.0,2.8,3.2,2.3,0,1,0,0,0
+Giravanz K.,Fujieda MYFC,41.0,35.0,24.0,13.0,1.5,2.2,3.2,3.0,1,0,0,1,2
+Kyoto Sanga,Avispa Fukuoka,47.0,29.0,23.0,16.0,2.45,2.8,3.1,2.6,2,0,0,1,2
+Nagano Parceiro,Kagoshima United,24.0,37.0,39.0,13.0,2.73,2.25,3.2,2.8,1,2,2,1,1
+Kashiwa Reysol,Sagan Tosu,34.0,42.0,24.0,13.0,2.33,2.3,3.2,3.1,1,1,1,4,2
+Cerezo Osaka,Kashima Antlers,17.0,30.0,52.0,11.0,1.65,3.1,3.6,2.2,0,1,0,3,2
+Christchurch United,Selwyn United,61.0,25.0,14.0,14.0,3.83,1.04,15.0,34.0,4,1,4,0,1
+Moreton Bay Utd,Capalaba,32.0,22.0,46.0,21.0,4.5,1.7,4.2,3.5,2,3,9,0,1
+Sheikh Jamal DhC,Muktijoddha SKC,59.0,28.0,12.0,36.0,2.57,1.25,5.0,9.0,2,1,2,1,1
+Melbourne Victory,Wellington Phoenix,45.0,33.0,22.0,16.0,3.06,1.53,4.2,6.5,3,1,3,1,1
+FC Tokyo,Gamba Osaka,35.0,44.0,21.0,10.0,2.53,1.8,3.5,4.5,2,2,2,0,1
+Green Gully SC,Heidelberg United,37.0,28.0,35.0,16.0,3.25,2.1,3.75,2.7,2,1,4,0,1
+Adelaide Olympic,Croydon Kings,21.0,29.0,50.0,16.0,4.21,2.55,3.75,2.2,2,3,1,0,1
+Hamburger SV II,Werder Bremen II,39.0,18.0,43.0,13.0,2.36,1.95,3.4,3.2,0,2,2,1,1
+Perth Glory Youth,Perth SC,30.0,39.0,31.0,15.0,2.41,3.0,3.25,2.2,1,1,0,0,0
+Gagra Tbilisi,Dila Gori,29.0,30.0,41.0,17.0,1.9,3.5,3.4,1.91,0,1,1,0,1
+Sioni Bolnisi,Dinamo Batumi,23.0,21.0,57.0,17.0,2.52,7.5,4.75,1.29,1,2,1,1,0
+Bahardar,Jimma Aba Jifar,33.0,48.0,19.0,30.0,1.59,1.67,3.0,5.5,0,0,0,2,2
+Fortuna Dusseldorf II,1. FC Koln II,30.0,39.0,31.0,14.0,2.1,3.0,3.4,2.05,1,1,0,1,2
+Esperance ST,CS Sfaxien,50.0,28.0,22.0,21.0,1.68,1.53,3.2,6.5,1,0,2,1,1
+US Ben Guerdane,Étoile Sahel Sousse,24.0,34.0,42.0,22.0,1.65,2.9,2.7,2.5,0,1,1,5,2
+Shabab Al Sahel,Al Bourj Beirut,42.0,24.0,34.0,20.0,2.19,3.0,3.25,2.1,2,0,1,1,0
+Shabab El Bourj,Tadamon Sour,52.0,26.0,22.0,20.0,1.64,2.38,3.2,2.63,1,0,2,2,0
+Samara'a FC,Baghdad SC,25.0,29.0,46.0,33.0,2.5,3.6,3.2,1.91,1,2,0,2,2
+Flamengo RJ U20,Vasco U20,32.0,43.0,25.0,23.0,3.25,2.38,3.2,2.63,3,3,2,3,2
+Dinamo-Auto,Sheriff Tiraspol,13.0,24.0,63.0,11.0,2.94,29.0,9.0,1.06,1,4,0,3,2
+AS Ashdod,Hapoel Umm Al Fahm,47.0,25.0,28.0,28.0,3.0,1.91,3.1,3.75,2,1,4,3,1
+Maccabi Bnei Raina,Hapoel Kfar Saba,32.0,27.0,40.0,24.0,2.13,1.62,3.2,5.5,0,2,2,0,1
+Kafr Qasim,Bnei Yehuda,54.0,24.0,22.0,40.0,3.38,1.57,3.2,6.0,3,1,4,1,1
+Sektzia Nes Tziona,Hapoel Petah Tikva,48.0,24.0,28.0,28.0,2.44,1.83,3.5,3.5,2,0,2,0,1
+Ahi Nazareth,Hapoel Raanana,51.0,29.0,20.0,24.0,2.75,2.6,2.9,2.6,3,0,1,2,2
+H. Ironi Rishon,Hapoel Acre,27.0,44.0,30.0,28.0,2.4,2.38,2.75,3.0,0,0,0,1,2
+Ramat HaSharon,Beitar Tel Aviv,37.0,38.0,25.0,29.0,2.38,1.62,3.2,5.5,1,1,0,0,0
+Hapoel Ramat Gan,Hapoel Afula,30.0,39.0,32.0,28.0,2.08,2.5,2.4,3.3,1,1,0,0,0
+Al Ansar Club,Al Ahed Beirut,40.0,22.0,38.0,20.0,3.07,2.5,3.4,2.4,3,1,1,1,0
+Marines FC,Musanze,28.0,41.0,30.0,17.0,2.0,2.8,2.8,2.5,1,1,0,0,0
+AS Kigali,Gasogi United,36.0,51.0,14.0,17.0,1.92,1.5,3.75,5.5,1,1,2,1,1
+Bugesera FC,Espoir FC,24.0,38.0,39.0,18.0,2.04,2.38,2.75,3.1,0,1,1,0,1
+Platinum City Rovers FC,Free State Stars,41.0,38.0,21.0,20.0,2.13,2.5,2.88,2.75,1,0,2,2,0
+Richards Bay,Uthongathi FC,42.0,38.0,20.0,26.0,2.0,1.73,3.1,4.75,1,0,2,2,0
+Qarabağ FK,Gabala FC,43.0,41.0,16.0,24.0,2.8,1.14,6.0,15.0,3,0,5,0,1
+Botev II Plovdiv,Strumska Slava,24.0,28.0,49.0,17.0,1.83,1.5,3.8,5.5,0,1,1,1,0
+Selangor FA,Pahang FA,46.0,34.0,20.0,29.0,3.04,1.57,4.0,4.33,3,1,3,1,1
+FK Puchov,KFC Komarno,32.0,23.0,45.0,16.0,2.03,2.38,3.3,2.6,0,2,0,1,2
+FK Nevezis,FK Riteriai-2,33.0,47.0,20.0,11.0,3.2,1.36,5.5,5.5,2,2,2,1,1
+Beroe Stara Zagora,Arda Kardzhali,37.0,27.0,35.0,16.0,1.19,1.91,3.4,3.4,1,0,2,2,0
+KF Laci,KF Tirana,26.0,36.0,38.0,23.0,2.18,2.2,2.88,3.2,0,2,1,0,1
+Partizani Tirana,Dinamo Tirana,53.0,30.0,18.0,25.0,2.31,1.5,3.6,6.0,1,0,3,1,1
+WA Tlemcen,US Biskra,27.0,30.0,43.0,10.0,1.18,4.5,3.0,1.8,0,2,0,3,2
+O Médéa,ES Sétif,29.0,36.0,34.0,13.0,1.55,3.5,2.88,2.1,0,0,1,4,2
+RC Relizane,ASO Chlef,19.0,29.0,52.0,19.0,2.02,4.5,2.88,1.83,0,2,4,5,2
+NC Magra,USM Alger,30.0,39.0,31.0,20.0,2.2,2.75,2.88,2.5,1,1,1,0,1
+CR Belouizdad,HB Chelghoum Laid,54.0,37.0,9.0,17.0,0.9,1.33,4.33,7.5,1,0,0,1,2
+CS Constantine,RC Arbaa,56.0,28.0,16.0,18.0,1.29,1.5,3.6,6.0,1,0,1,1,0
+AC Oulu,FC Haka,23.0,22.0,55.0,3.0,2.9,3.5,3.2,1.95,1,2,3,0,1
+Inter Turku,IFK Mariehamn,34.0,34.0,32.0,5.0,2.4,1.57,3.75,5.0,2,0,4,0,1
+FC Lahti,FC Honka Espoo,28.0,31.0,41.0,5.0,2.41,3.5,3.2,1.95,0,1,0,2,2
+Ilves Tampere,Seinajoen JK,41.0,26.0,33.0,5.0,3.37,2.25,3.25,2.75,3,2,3,1,1
+KuPS Kuopio,VPS Vaasa,53.0,29.0,18.0,2.0,3.18,1.36,4.2,7.5,2,1,3,1,1
+Mjondalen IF,Bryne FK,66.0,16.0,18.0,13.0,3.03,1.62,4.0,5.0,3,0,2,1,1
+NK Dekani,ND Ilirija,30.0,46.0,24.0,20.0,2.0,2.3,3.2,2.75,1,1,1,1,0
+Sport Podbrezova,MFK Dubnica,54.0,27.0,19.0,15.0,2.53,1.2,5.75,10.0,2,1,8,0,1
+Defence Force,Ethiopian Coffee,18.0,42.0,40.0,21.0,2.1,2.88,2.75,2.5,0,0,4,0,1
+JäPS,KPV Kokkola,29.0,35.0,36.0,6.0,1.15,2.88,3.2,2.2,0,1,0,0,0
+PEPO,FF Jaro,28.0,33.0,39.0,3.0,1.39,2.88,3.2,2.25,0,1,0,3,2
+SOL FC,SO Armée,35.0,38.0,26.0,30.0,1.8,2.7,2.75,2.7,1,1,2,0,1
+KaaPo Kaarina,EPS Espoo,37.0,39.0,24.0,5.0,2.34,1.44,4.2,5.75,1,1,0,2,2
+Ilves-Kissat,Klubi 04,30.0,33.0,37.0,4.0,1.68,4.5,4.5,1.5,0,1,1,4,2
+FC Honka 2,FC Jazz,42.0,31.0,26.0,7.0,2.71,1.73,3.8,3.6,3,2,3,3,0
+Warta Poznan,Piast Gliwice,32.0,33.0,35.0,18.0,1.33,2.4,3.2,2.8,0,1,2,3,2
+Pafos FC,Aris Limassol,50.0,28.0,22.0,22.0,1.4,1.91,3.25,3.8,1,0,1,1,0
+AEL Limassol,Olympiakos Nic.,46.0,26.0,28.0,23.0,1.46,2.3,3.0,3.0,2,0,0,4,2
+Hajduk Split,NK Dragovoljac,65.0,21.0,14.0,22.0,2.38,1.13,7.0,19.0,2,0,2,1,1
+FC Kuressaare,TJK Legion,56.0,19.0,25.0,6.0,3.59,2.0,3.75,2.88,3,1,1,0,1
+Ararat-Armenia,Pyunik FC,30.0,32.0,37.0,17.0,2.75,2.2,3.2,2.88,1,2,1,1,0
+FC Telavi,Lokomotivi Tbilisi,38.0,39.0,23.0,14.0,2.1,1.8,3.5,3.8,1,1,5,0,1
+Bekescsaba Elore,Gyori ETO FC,36.0,31.0,34.0,12.0,2.56,2.4,3.4,2.5,2,1,2,3,2
+FC Košice,Slavoj Trebisov,46.0,39.0,15.0,17.0,2.3,1.4,4.2,6.5,2,0,4,1,1
+Hlucin,H. Slavia Kromeriz,37.0,27.0,36.0,15.0,2.5,2.1,3.6,2.75,2,1,3,3,0
+Deportivo Pereira,Unión Magdalena,42.0,35.0,22.0,16.0,1.68,1.8,3.2,4.33,1,0,2,0,1
+Sporting SM FC,Alianza FC (PAN),33.0,35.0,32.0,24.0,2.15,2.45,2.63,3.1,1,1,1,0,1
+Mazatlan FC,Puebla FC,27.0,24.0,49.0,23.0,2.46,2.7,3.0,2.8,0,2,2,1,1
+Waterside Karori,Wellington Olympic,36.0,26.0,39.0,14.0,5.5,5.0,5.0,1.4,3,4,1,1,0
+Miramar,Wellington United,48.0,28.0,24.0,14.0,2.75,1.06,11.0,17.0,2,1,5,0,1
+Auckland City,Birkenhead United,46.0,13.0,41.0,17.0,4.25,1.2,6.5,8.0,4,1,3,0,1
+Hamilton Wand.,North Shore United,41.0,33.0,26.0,9.0,3.08,1.29,6.0,6.0,3,1,6,0,1
+Eastern Suburbs (NZL),Manukau United,39.0,24.0,37.0,17.0,1.5,1.67,4.4,3.5,2,0,0,2,2
+Melville United,Western Springs,37.0,23.0,40.0,19.0,4.17,1.73,4.5,3.2,2,3,3,1,1
+Wellington Phoenix (R),Napier City Rovers,32.0,40.0,28.0,15.0,1.67,1.44,4.5,5.0,1,1,4,2,1
+South Hobart,Hobart Zebras,44.0,33.0,23.0,14.0,3.39,1.25,6.5,6.0,3,2,4,0,1
+Charlestown City,Maitland FC,34.0,28.0,38.0,18.0,4.07,2.25,4.0,2.4,1,3,3,3,0
+Woden Valley,Cooma Tigers,15.0,23.0,62.0,17.0,3.29,6.0,5.0,1.33,1,3,1,1,0
+Kingborough Lions,Launceston City,41.0,24.0,35.0,15.0,2.75,1.53,4.5,4.2,2,1,4,1,1
+JEF United Chiba,Oita Trinita,36.0,38.0,26.0,17.0,2.4,2.1,3.0,3.5,1,1,0,3,2
+Renofa Yamaguchi,Tochigi SC,34.0,35.0,31.0,15.0,2.31,2.45,2.7,3.1,1,1,2,1,1
+West Torrens,N.E. MetroStars,20.0,26.0,54.0,19.0,3.25,3.0,4.0,1.91,0,3,0,1,2
+Kamatamare Sanuki,FC Gifu,30.0,36.0,34.0,15.0,2.29,3.4,3.1,2.05,1,1,2,1,1
+Belconnen United,Canberra Olympic,35.0,28.0,37.0,17.0,4.14,2.1,4.0,2.6,1,3,1,3,2
+SP Falcons,Erchim,32.0,19.0,49.0,13.0,2.33,4.0,4.4,1.57,0,2,0,2,2
+Avondale FC,Dandenong City,68.0,21.0,11.0,17.0,2.85,1.36,4.75,6.0,3,0,0,0,0
+Adelaide City,Sturt Lions,62.0,26.0,12.0,19.0,3.42,1.53,4.2,4.5,3,0,3,0,1
+SA Panthers,Cumberland Utd,46.0,21.0,32.0,19.0,2.38,1.6,4.0,4.2,2,0,2,4,2
+Adelaide Comets,Campbelltown City,40.0,32.0,28.0,19.0,2.41,2.0,4.0,2.75,2,0,1,2,2
+Cheongju FC,Yangju Citizen,45.0,26.0,29.0,17.0,2.53,1.75,3.4,4.0,2,1,1,0,1
+Gimhae City,Pocheon FC,43.0,41.0,16.0,17.0,2.08,1.73,3.5,4.0,1,0,2,1,1
+CC Mariners,Western United,35.0,31.0,34.0,16.0,4.21,2.38,3.3,3.0,3,1,1,0,1
+Riverside Olympic,Devonport City,6.0,8.0,87.0,16.0,4.54,13.0,10.0,1.08,0,5,0,6,2
+Newcastle Olympic,Cooks Hill United,34.0,29.0,37.0,18.0,1.5,2.0,3.8,2.88,0,2,3,0,1
+Mito HollyHock,Ventforet Kofu,25.0,26.0,49.0,14.0,3.22,2.38,3.0,2.9,1,2,2,1,1
+Floreat Athena,Gwelup Croatia SC,70.0,18.0,12.0,13.0,2.98,1.44,4.5,5.0,2,1,4,2,1
+Balcatta,Sorrento FC,14.0,32.0,54.0,13.0,1.7,4.33,4.0,1.62,0,2,2,5,2
+Inglewood United,Bayswater City,22.0,33.0,45.0,13.0,3.74,2.1,3.6,2.9,2,3,1,2,2
+Ryukyu,Albirex Niigata,12.0,25.0,63.0,21.0,2.54,3.6,3.2,1.91,1,2,1,1,0
+Gold Coast Utd,QLD Lions,20.0,21.0,59.0,25.0,4.0,4.2,4.2,1.6,1,3,3,3,0
+Miercurea Ciuc,Politehnica Iasi,53.0,19.0,28.0,11.0,3.75,1.8,3.25,4.0,3,1,3,0,1
+SCM Gloria Buzau,Unirea Constanța,66.0,18.0,16.0,14.0,9.0,1.29,5.0,7.5,9,1,4,1,1
+Ripensia Timisoara,Unirea Dej,22.0,46.0,32.0,12.0,0.75,2.6,2.88,2.6,0,0,1,4,2
+Young Africans,Simba,37.0,39.0,24.0,29.0,1.64,2.3,2.7,3.25,0,0,0,0,0
+Deren,Ulaanbaatar City,19.0,31.0,50.0,13.0,2.86,2.6,4.0,2.1,2,3,2,1,1
+Fotbal Trinec,Pribram,27.0,40.0,33.0,11.0,2.23,2.3,3.0,2.88,1,1,4,1,1
+Dukla Praha,Sparta Praha B,29.0,37.0,34.0,9.0,2.8,2.5,3.4,2.4,2,2,2,2,0
+MFK Chrudim,MFK Vyskov,27.0,41.0,32.0,9.0,3.0,1.67,3.5,4.33,2,2,0,0,0
+Motorlet Praha,FC Pisek,28.0,30.0,42.0,9.0,2.15,2.6,3.25,2.35,0,2,3,1,1
+Banik Sokolov,Admira Praha,31.0,37.0,32.0,10.0,2.38,2.3,3.25,2.7,1,1,0,2,2
+SK Benešov,Loko Vltavin,34.0,16.0,50.0,8.0,2.42,3.2,3.5,1.95,0,2,1,0,1
+FK Jablonec B,Teplice B,40.0,27.0,33.0,10.0,2.96,1.4,4.5,5.5,2,1,3,1,1
+Viktoria Otrokovice,FK Zlin B,41.0,25.0,34.0,7.0,3.29,1.91,3.7,3.1,3,2,2,0,1
+Hobart Olympia,Glenorchy Knights,23.0,14.0,63.0,13.0,3.49,6.5,5.5,1.29,1,2,0,5,2
+South Melbourne,Port Melbourne SC,43.0,34.0,23.0,17.0,2.8,1.85,4.0,3.0,2,1,3,0,1
+Mt Druitt Rangers,Manly United,22.0,38.0,40.0,15.0,3.08,2.63,3.2,2.38,1,3,2,4,2
+Marconi Stallions,Wollongong FC,36.0,38.0,26.0,18.0,2.91,1.65,3.8,4.0,2,2,2,0,1
+Hume City FC,Eastern Lions,39.0,24.0,37.0,17.0,3.38,1.53,4.33,4.33,3,2,1,0,1
+Eastern Suburbs,Sunshine Coast,34.0,36.0,30.0,24.0,5.2,2.3,4.2,2.3,2,2,2,2,0
+ASU Poli,CS Metaloglobus,38.0,21.0,41.0,18.0,2.6,2.38,3.0,2.75,1,2,1,1,0
+Darul Takzim,Ulsan Hyundai,45.0,18.0,38.0,31.0,3.0,3.6,3.6,1.91,2,1,2,1,1
+Kawasaki Frontale,GZ Evergrande FC,50.0,38.0,13.0,16.0,1.67,1.01,26.0,67.0,2,0,1,0,1
+FK Okzhetpes,FC Zhetysu,47.0,29.0,24.0,20.0,3.27,2.0,3.4,3.1,3,1,2,1,1
+Dinamo Bucuresti,Academica Clinceni,46.0,30.0,24.0,18.0,3.67,1.2,5.25,10.0,3,1,5,1,1
+Saif SC,Rahmatganj MFS,46.0,38.0,17.0,34.0,2.5,1.62,3.6,4.5,2,1,4,2,1
+Abahani Chittagong,Sheikh Russel KC,43.0,39.0,18.0,34.0,2.9,1.91,2.8,4.33,2,1,1,2,2
+Perth Glory,WS Wanderers,25.0,37.0,38.0,10.0,1.86,5.5,3.75,1.7,0,1,1,1,0
+Adelaide United,Brisbane Roar,52.0,25.0,22.0,15.0,2.18,2.25,3.5,3.1,2,0,2,0,1
+Bentleigh Greens,Altona Magic SC,60.0,14.0,26.0,14.0,2.83,1.67,4.0,3.75,3,0,0,0,0
+SC Farense,GD Chaves,26.0,33.0,41.0,21.0,1.59,2.7,2.9,2.63,0,1,1,2,2
+Académica Coimbra,CD Mafra,26.0,35.0,39.0,26.0,1.57,2.7,3.1,2.5,0,1,0,2,2
+VJS,Ilves 2,27.0,20.0,53.0,8.0,3.57,2.6,3.6,2.2,0,3,4,0,1
+Matsumoto Yamaga,Azul Claro Numazu,36.0,31.0,33.0,10.0,1.5,1.83,3.25,3.8,1,0,1,0,1
+Abahani Dhaka,Bangladesh Police,46.0,41.0,13.0,34.0,2.88,1.36,4.33,6.5,2,1,2,1,1
+Jong Sparta Rott.,Noordwijk,45.0,29.0,27.0,11.0,3.17,1.85,4.2,3.0,3,1,1,2,2
+Miedz Legnica,Chrobry Glogow,38.0,44.0,18.0,16.0,2.48,1.55,3.4,5.5,1,1,1,0,1
+Lyngby BK,FC Helsingor,46.0,24.0,30.0,14.0,3.78,2.25,3.5,2.8,3,2,2,1,1
+Brommapojkarna,Jönköpings Södra,39.0,34.0,27.0,12.0,3.75,1.91,3.4,4.0,3,2,2,1,1
+FC Noah,BKMA Yerevan,56.0,33.0,11.0,25.0,1.83,1.36,4.0,7.5,1,0,1,1,0
+Chiangmai United,Police Tero FC,22.0,34.0,44.0,34.0,2.33,2.88,3.25,2.2,0,1,1,0,1
+Hammarby TTF,BK Forward,35.0,37.0,27.0,12.0,3.25,1.6,4.0,4.2,2,2,1,2,2
+Team Thoren,Karlstad BK,15.0,34.0,52.0,8.0,3.13,8.0,6.5,1.2,0,3,0,5,2
+Vasalunds IF,Örebro Syrianska IF,36.0,30.0,34.0,13.0,2.83,1.7,3.75,3.8,2,1,2,1,1
+Torns IF,Lindome GIF,34.0,26.0,40.0,13.0,3.21,2.3,3.5,2.55,2,3,5,2,1
+Vard Haugesund,FK Orn-Horten,45.0,16.0,39.0,10.0,3.5,1.62,4.0,4.0,2,1,2,0,1
+Katwijk,Quick Boys,40.0,45.0,15.0,11.0,2.21,1.5,4.5,4.5,1,1,4,1,1
+Tampere Utd,SalPa Salo,16.0,15.0,69.0,7.0,2.77,3.1,3.75,1.91,0,3,4,1,1
+JS Hercules,Komeetat,38.0,32.0,30.0,6.0,1.27,1.33,5.0,6.0,2,0,3,0,1
+VIFK Vaasa,KajHa,37.0,25.0,38.0,7.0,3.11,1.57,4.2,4.2,1,2,0,1,2
+Närpes Kraft,FC Vaajakoski,25.0,27.0,48.0,5.0,3.11,2.6,4.0,2.1,1,3,2,1,1
+Colorado Rapids,Portland Timbers,35.0,38.0,27.0,13.0,2.26,1.73,3.6,4.75,1,1,2,0,1
+CD Motagua,CD Real Sociedad,59.0,23.0,18.0,23.0,3.35,1.2,6.0,9.0,3,1,6,0,1
+Real España,CD Vida,51.0,30.0,19.0,25.0,3.0,1.67,3.5,4.5,2,1,1,4,2
+Lobos UPNFM,CD Marathón,28.0,31.0,41.0,23.0,2.34,3.0,3.1,2.2,0,2,1,2,2
+CD Victoria,CD Olimpia,26.0,32.0,42.0,26.0,2.26,4.2,3.4,1.73,0,2,3,2,1
+Antigua GFC,Comunicaciones,32.0,35.0,33.0,18.0,1.93,1.91,3.2,3.6,1,1,1,3,2
+Tecnico U.,SD Aucas,30.0,37.0,33.0,13.0,2.41,2.63,3.0,2.9,1,1,0,1,2
+CD Águila,Deportivo Ahuachapan,47.0,36.0,17.0,23.0,1.96,1.75,3.3,4.5,2,0,0,1,2
+Deportes Tolima,Cortuluá,65.0,18.0,17.0,19.0,2.51,1.45,3.8,6.0,2,1,3,2,1
+Club América,Cruz Azul,41.0,38.0,22.0,22.0,2.33,1.7,3.5,5.0,1,0,0,0,0
+CS Herediano,CS Cartaginés,46.0,33.0,21.0,19.0,2.86,1.73,3.5,4.2,2,1,4,1,1
+Oakland Roots,CS Switchbacks,26.0,31.0,43.0,11.0,1.58,3.0,3.3,2.1,0,1,0,3,2
+Sacramento Republic,Las Vegas Lights,45.0,30.0,25.0,17.0,2.94,1.6,3.8,4.5,3,2,1,1,0
+San Carlos,Grecia,43.0,32.0,25.0,21.0,3.23,2.1,3.2,3.25,2,1,2,2,0
+Western Suburbs,Petone,45.0,34.0,20.0,16.0,3.0,1.73,3.75,3.75,2,1,0,4,2
+Grulla Morioka,Roasso Kumamoto,13.0,45.0,42.0,8.0,2.46,2.88,2.9,2.55,0,0,1,2,2
+Fagiano Okayama,Tokyo Verdy,31.0,45.0,24.0,20.0,2.33,2.3,3.1,3.4,1,1,2,1,1
+Lake Macquarie FC,Edgeworth Eagles,41.0,25.0,34.0,21.0,3.22,6.0,4.33,1.4,3,1,2,4,2
+Nara Club,Criacao Shinjuku,37.0,36.0,27.0,16.0,0.17,1.57,3.75,4.75,1,0,2,2,0
+Suzuka Unlimited,TIAMO Hirakata,51.0,34.0,15.0,16.0,3.88,2.1,3.3,3.0,3,2,3,2,1
+Maruyasu Okazaki,Yokogawa Musashino,40.0,28.0,32.0,15.0,1.63,2.0,3.4,3.1,1,0,1,0,1
+Montedio Yamagata,V-Varen Nagasaki,36.0,33.0,31.0,9.0,2.6,2.5,3.1,3.0,2,1,2,0,1
+Thespakusatsu,Yokohama FC,21.0,36.0,44.0,11.0,1.47,4.75,3.1,1.91,0,1,3,3,0
+Machida Zelvia,Tokushima Vortis,32.0,44.0,24.0,15.0,1.79,2.3,2.8,3.8,1,1,0,2,2
+Zweigen Kanazawa,Omiya Ardija,41.0,33.0,26.0,14.0,2.35,1.91,3.4,4.33,2,0,1,2,2
+Sydney United,Sydney U21,34.0,22.0,45.0,21.0,4.64,1.62,4.0,4.33,2,3,1,6,2
+Blacktown City,Sutherland Sharks,58.0,20.0,23.0,22.0,3.41,1.4,5.25,4.75,3,1,1,0,1
+St Albans Saints,Thunder SC,29.0,27.0,44.0,19.0,2.5,2.7,3.75,2.1,1,2,1,2,2
+Siheung Citizen,Paju Citizen,34.0,38.0,29.0,17.0,0.5,2.5,2.9,2.7,1,1,1,1,0
+Gungahlin United,Canberra FC,32.0,31.0,37.0,17.0,3.57,2.4,4.0,2.25,2,3,1,2,2
+Rockdale City Suns,Northbridge Bulls,75.0,18.0,7.0,21.0,3.0,1.45,4.5,4.75,2,1,4,2,1
+Daejeon Korail,Mokpo City,47.0,32.0,21.0,18.0,2.61,2.3,2.9,3.0,2,1,0,1,2
+Busan Kyotong,Cheonan City,32.0,39.0,30.0,20.0,1.95,2.9,3.0,2.3,1,1,1,1,0
+Gyeongju KHNP,Gangneung City,45.0,37.0,18.0,19.0,2.61,1.44,4.0,5.75,2,1,1,2,2
+Hwaseong FC,Ulsan Citizen,37.0,29.0,34.0,18.0,2.25,2.4,2.9,2.8,2,0,0,0,0
+Macarthur FC,Newcastle Jets,45.0,37.0,19.0,21.0,3.92,2.2,3.4,3.3,2,1,0,3,2
+Vegalta Sendai,Blaublitz Akita,66.0,16.0,18.0,19.0,3.0,2.05,3.0,3.6,3,0,3,1,1
+Sydney Olympic,APIA Tigers,38.0,29.0,33.0,20.0,4.89,2.05,3.2,3.2,3,1,0,4,2
+Tainan City,Hang Yuen FC,39.0,30.0,31.0,25.0,3.03,1.22,4.75,11.0,3,2,3,1,1
+Olympic FC QLD,Peninsula Power,47.0,27.0,26.0,20.0,3.27,1.7,4.2,3.6,3,2,6,1,1
+Khovd FC,BCH Lions,32.0,35.0,33.0,18.0,2.38,2.4,4.0,2.25,1,1,2,4,2
+Bohemians 1905 B,Sokol Brozany,29.0,23.0,48.0,9.0,2.21,2.1,3.2,3.1,0,2,3,0,1
+Mlada Boleslav B,FK Zbuzany,30.0,34.0,36.0,10.0,3.13,1.75,3.9,3.75,1,2,2,0,1
+Slovan Liberec B,Dukla Praha B,30.0,32.0,38.0,12.0,4.04,1.8,3.5,3.8,1,2,1,2,2
+FK Chlumec,Pardubice B,47.0,29.0,24.0,9.0,2.38,1.6,4.2,4.0,2,0,2,0,1
+Slovacko B,SFK Vrchovina,47.0,29.0,25.0,12.0,2.17,1.29,5.0,8.0,2,0,2,0,1
+Pribram B,Jiskra Domazlice,31.0,24.0,45.0,8.0,3.5,3.5,4.0,1.75,2,3,2,0,1
+FC Ordino,CE Carroi,52.0,23.0,25.0,7.0,2.93,1.2,6.0,10.0,2,1,2,2,0
+Nõmme United,Tulevik Viljandi,63.0,18.0,19.0,10.0,5.0,1.22,6.0,7.5,4,1,2,0,1
+MSC Limited Dhaka,Swadhinata KS,57.0,35.0,8.0,34.0,1.5,1.29,4.5,9.0,1,0,3,2,1
+UD Vilafranquense,SL Benfica B,33.0,38.0,29.0,18.0,3.2,3.2,3.3,2.1,2,2,1,2,2
+FC Astana,FC Turan,44.0,40.0,16.0,26.0,2.83,1.29,4.5,9.0,2,1,3,3,0
+CFB Macau,CD Lun Lok,33.0,24.0,43.0,19.0,2.8,3.4,4.2,1.73,1,2,2,2,0
+Las Rozas,Getafe B,34.0,44.0,22.0,21.0,1.86,1.83,3.4,3.6,1,1,4,0,1
+Alcorcón B,CDF Tres Cantos,62.0,24.0,14.0,21.0,3.33,1.6,3.75,4.5,2,1,2,0,1
+SC Heerenveen,SC Cambuur,45.0,29.0,26.0,13.0,2.68,1.91,3.75,3.75,2,1,3,3,0
+Juventus FC,Venezia FC,67.0,22.0,11.0,20.0,2.13,1.2,6.5,15.0,2,0,2,1,1
+Podbeskidzie,Zaglebie Sosnowiec,33.0,45.0,23.0,14.0,2.37,1.62,3.5,5.0,0,0,0,2,2
+Troyes AC,Lille OSC,27.0,37.0,35.0,15.0,2.14,3.6,3.25,2.1,1,1,3,0,1
+Celtic FC,Rangers FC,50.0,17.0,33.0,14.0,3.5,2.2,3.25,3.3,3,1,1,1,0
+Vasteras SK FK,Örebro SK,16.0,43.0,41.0,12.0,3.5,2.55,3.2,2.7,2,2,2,1,1
+Valmieras FK,Riga FC,44.0,29.0,27.0,12.0,2.42,2.5,3.4,2.4,2,0,3,0,1
+Bangkok United,Suphanburi FC,56.0,28.0,16.0,33.0,3.48,1.36,4.33,7.0,3,1,5,2,1
+Club León,Deportivo Toluca,36.0,39.0,26.0,26.0,2.2,1.57,4.0,5.0,1,1,4,4,0
+Junior Barranquilla,Envigado FC,38.0,40.0,22.0,27.0,2.34,1.4,3.8,7.0,1,1,4,0,1
+Los Angeles FC,Minnesota United,43.0,28.0,29.0,19.0,2.75,1.53,4.2,6.5,2,1,2,0,1
+Kon Tum,Quảng Nam II,26.0,36.0,38.0,25.0,0.5,3.6,3.4,1.85,0,2,0,2,2
+PVF Vietnam,Hòa Bình,27.0,37.0,36.0,21.0,1.67,2.63,3.6,2.25,1,1,0,4,2
+Sandecja,Stomil Olsztyn,38.0,32.0,30.0,19.0,1.98,1.65,3.4,4.75,1,0,1,0,1
+FC Shakhter,Tobol Kostanay,37.0,30.0,33.0,21.0,3.01,2.9,2.9,2.35,3,1,4,1,1
+Salford City,Mansfield,38.0,28.0,34.0,14.0,2.75,2.2,3.3,3.0,3,2,2,2,0
+FK Aktobe,Akzhayik Oral,36.0,38.0,27.0,30.0,1.93,1.8,3.25,4.0,1,1,2,1,1
+Tottenham U23s,Brighton U23s,44.0,24.0,32.0,14.0,1.57,2.1,4.2,2.5,1,0,0,0,0
+Addis Ababa Ketema,Hadiya Hosaena,31.0,33.0,35.0,23.0,1.25,2.8,2.6,2.7,0,1,3,3,0
+TS Galaxy FC,Orlando Pirates,20.0,38.0,43.0,23.0,1.83,4.0,2.88,1.95,0,1,1,0,1
+Radnik Surdulica,Spartak Subotica,35.0,33.0,32.0,15.0,2.85,1.91,3.25,3.5,2,1,2,0,1
+Kairat Almaty,FK Kyzylzhar,48.0,33.0,18.0,26.0,2.11,1.55,3.7,5.0,2,0,1,1,0
+Waterford United,Athlone Town,59.0,24.0,17.0,14.0,2.87,1.25,6.0,8.0,2,1,1,0,1
+Biashara United,Mtibwa Sugar,27.0,46.0,26.0,24.0,1.95,2.05,2.8,3.75,1,1,1,1,0
+Police FC (UGA),Villa SC,24.0,43.0,32.0,24.0,2.44,2.0,2.9,3.75,1,1,0,0,0
+Qoqon FK,Nasaf Qarshi,27.0,39.0,34.0,33.0,1.69,3.75,3.0,1.95,1,1,0,1,2
+Pakhtakor,FC AGMK,58.0,23.0,19.0,29.0,2.29,1.62,3.4,5.0,2,0,0,0,0
+Port Vale,Newport County,40.0,31.0,29.0,14.0,2.19,2.0,3.25,3.75,2,0,1,2,2
+Altrincham,Barnet,39.0,31.0,30.0,14.0,4.78,1.83,3.5,3.5,3,1,1,1,0
+Boreham Wood,Wrexham FC,25.0,26.0,49.0,14.0,3.18,3.6,3.4,1.85,1,2,1,1,0
+Chesterfield,Stockport County,33.0,27.0,40.0,15.0,3.23,3.6,3.4,1.83,1,3,0,1,2
+Dagenham & Red.,Torquay United,38.0,37.0,25.0,15.0,2.94,1.8,3.5,3.75,2,1,0,0,0
+Eastleigh,Halifax,26.0,28.0,46.0,13.0,2.44,2.9,3.4,2.1,0,2,1,2,2
+Maidenhead Utd,Aldershot Town,32.0,37.0,30.0,14.0,2.3,1.95,3.4,3.2,1,1,2,2,0
+Notts County,Dover Athletic,62.0,21.0,16.0,15.0,3.13,1.14,6.5,15.0,3,0,1,0,1
+Solihull Moors,Bromley FC,44.0,30.0,25.0,14.0,2.33,1.65,3.75,4.0,2,0,3,0,1
+Southend Utd,Weymouth,64.0,20.0,16.0,13.0,1.4,1.65,3.6,4.33,1,0,1,1,0
+Woking,King's Lynn,40.0,33.0,27.0,14.0,2.71,1.62,4.0,4.0,2,1,0,3,2
+Yeovil Town,Wealdstone,36.0,34.0,30.0,13.0,3.0,2.0,3.2,3.3,2,1,0,0,0
+Blyth Spartans,Curzon Ashton,40.0,32.0,28.0,10.0,3.3,2.45,3.25,2.45,2,1,1,0,1
+Boston United,Gloucester,48.0,30.0,22.0,15.0,2.28,1.8,3.4,3.8,1,0,1,1,0
+Chester FC,Bradford PA,33.0,41.0,26.0,15.0,3.08,1.67,3.5,4.5,2,2,4,0,1
+Chorley FC,Gateshead,38.0,32.0,30.0,14.0,2.6,2.8,3.3,2.2,2,1,2,2,0
+Darlington 1883,Farsley Celtic,41.0,26.0,34.0,12.0,3.13,1.53,3.8,5.25,3,1,1,1,0
+Guiseley AFC,Spennymoor Town,27.0,28.0,45.0,13.0,3.55,3.6,3.4,1.85,1,3,1,0,1
+Hereford Utd,Brackley Town,24.0,27.0,48.0,14.0,2.08,3.2,3.1,2.15,0,1,2,2,0
+Kettering,Alfreton Town,28.0,46.0,26.0,14.0,2.21,1.91,3.3,3.6,1,1,1,0,1
+Leamington,Kidderminster,20.0,39.0,40.0,14.0,2.55,4.0,3.3,1.83,1,2,2,0,1
+Southport,AFC Telford Utd,40.0,42.0,18.0,13.0,1.96,2.25,3.2,2.9,0,0,1,1,0
+York City,AFC Fylde,30.0,32.0,37.0,14.0,2.38,2.75,3.2,2.3,0,2,2,1,1
+Billericay,Ebbsfleet Utd,17.0,22.0,61.0,14.0,1.88,4.2,4.0,1.62,0,2,1,2,2
+Chippenham,Hungerford Town,41.0,28.0,31.0,13.0,1.98,1.95,3.3,3.5,1,0,3,2,1
+Dartford,Braintree Town,49.0,30.0,21.0,15.0,2.24,1.53,3.8,5.0,2,0,0,1,2
+Dorking Wanderers,Dulwich Hamlet,51.0,28.0,21.0,14.0,3.03,1.4,4.0,6.0,3,0,4,3,1
+Hampton FC,Slough Town,34.0,40.0,26.0,14.0,2.34,1.75,3.6,3.8,1,1,3,1,1
+Hemel Hempstead,Havant,26.0,35.0,38.0,14.0,2.22,3.0,3.75,1.95,0,2,0,0,0
+Oxford City,St Albans City,40.0,35.0,25.0,15.0,2.58,1.85,3.3,3.6,2,1,3,1,1
+Tonbridge Angels,Eastbourne,27.0,32.0,41.0,14.0,2.5,3.2,3.6,1.95,1,2,2,0,1
+Welling Utd,Maidstone United,17.0,14.0,69.0,15.0,3.25,5.5,3.8,1.5,1,3,3,2,1
+Wexford Youths,Bray Wanderers,30.0,34.0,36.0,14.0,2.71,2.1,3.4,3.1,1,2,1,1,0
+FK Žarkovo,FK Indjija,34.0,21.0,45.0,20.0,2.29,3.4,3.1,2.0,0,2,0,2,2
+FK Loznica,Mladost Novi Sad,23.0,41.0,36.0,18.0,1.67,4.0,3.1,1.85,1,1,0,2,2
+Zeleznicar Pancevo,Radnicki Sr. Mitrovica,36.0,23.0,41.0,21.0,3.13,1.44,3.75,6.5,1,3,2,0,1
+FK Budućnost Dob.,Graficar Belgrade,32.0,42.0,25.0,20.0,3.04,2.6,2.8,2.7,2,2,0,2,2
+FK Kabel,Zlatibor Čajetina,20.0,41.0,39.0,21.0,2.23,7.0,4.2,1.36,0,0,0,1,2
+Lech Poznan,Rakow Czestochowa,32.0,33.0,35.0,17.0,2.58,2.2,3.2,3.1,1,2,1,3,2
+Botev Vratsa,Pirin Blagoevgrad,29.0,24.0,47.0,16.0,2.4,3.3,3.0,2.1,0,2,0,1,2
+CS Mioveni,FC Botosani,26.0,41.0,33.0,18.0,2.17,2.2,2.8,3.25,1,1,0,2,2
+FK Auda,FS METTA/LU Riga,36.0,30.0,34.0,13.0,2.0,1.5,3.6,6.0,1,0,3,2,1
+Aduana Stars,Medeama SC,36.0,35.0,29.0,28.0,1.74,1.67,3.0,5.5,1,0,1,1,0
+FK Maktaaral,FK Taraz,17.0,20.0,62.0,22.0,2.9,2.7,2.9,2.5,1,2,0,1,2
+NK Osijek II,Inter Zaprešić,28.0,30.0,41.0,19.0,2.25,2.5,3.4,2.4,0,2,1,2,2
+Crystal Palace U21,Leicester City U23s,49.0,18.0,33.0,16.0,3.5,1.91,4.33,2.8,3,1,3,2,1
+Zalgiris-2,FK Banga-2,34.0,40.0,26.0,12.0,2.08,1.73,4.2,3.4,0,0,3,0,1
+Fasil Kenema,Welayta Dicha,40.0,37.0,23.0,26.0,2.35,2.0,2.88,3.75,2,0,3,1,1
+Proleter Novi Sad,FK Metalac,34.0,30.0,36.0,18.0,2.39,1.95,3.2,3.5,0,2,0,0,0
+Supernova Riga,FK Liepaja,12.0,20.0,68.0,13.0,3.5,21.0,7.0,1.11,1,3,1,3,2
+Cork City,Treaty United,41.0,36.0,23.0,14.0,2.38,1.36,4.2,7.5,2,0,3,0,1
+Galway United,Longford Town,35.0,37.0,28.0,14.0,3.15,1.67,3.5,4.75,2,2,2,0,1
+Flora Tallinn II,Harju Jalgpallikool,33.0,23.0,44.0,11.0,4.5,3.5,4.33,1.67,2,3,2,3,2
+Paide II,Viimsi JK,47.0,14.0,39.0,7.0,5.0,1.57,4.33,4.0,4,3,2,0,1
+FC Elva,Ida-Viru FC Alliance,49.0,23.0,28.0,12.0,3.13,1.44,4.5,5.0,2,1,4,1,1
+Javor Ivanjica,IMT Novi Beograd,43.0,20.0,37.0,16.0,2.5,1.65,3.4,4.75,2,1,2,4,2
+Fulham,Luton Town,36.0,43.0,21.0,16.0,3.27,1.5,4.2,6.5,2,2,7,0,1
+CD Leganes,SD Huesca,26.0,40.0,34.0,14.0,2.4,2.38,3.1,3.25,1,1,2,1,1
+Asteras Tripoli,Lamia FC,41.0,31.0,28.0,10.0,2.33,1.91,3.1,4.75,2,0,0,2,2
+Ionikos,Apollon Smyrni,49.0,30.0,21.0,15.0,2.33,2.3,3.2,2.88,2,0,5,1,1
+Cukaricki Belgrade,Radnicki Nis,29.0,43.0,28.0,18.0,2.44,1.73,3.4,4.2,1,1,0,0,0
+FC Chambly,Stade Laval,19.0,24.0,57.0,17.0,2.53,4.2,3.0,1.85,1,2,0,3,2
+IFK Göteborg,Kalmar FF,45.0,27.0,28.0,10.0,2.29,2.2,3.1,3.25,2,0,1,2,2
+Norrköping,IFK Värnamo,45.0,32.0,22.0,14.0,3.75,1.65,3.75,5.0,2,1,2,0,1
+Silkeborg IF,AaB Aalborg,43.0,22.0,36.0,12.0,2.77,1.95,3.6,3.8,2,1,4,2,1
+Dalkurd FF,Östers IF,26.0,32.0,41.0,14.0,2.17,3.2,3.1,2.15,0,2,0,3,2
+Norrby IF,Landskrona BoIS,50.0,29.0,21.0,10.0,1.82,1.57,3.8,5.0,1,0,0,0,0
+Waldhof Mannheim,MSV Duisburg,50.0,27.0,23.0,20.0,2.92,1.67,3.5,4.5,2,1,3,1,1
+FC Trollhättan,Falkenbergs FF,28.0,41.0,31.0,11.0,2.2,2.3,3.4,2.6,1,1,1,0,1
+Hammarby IF,Malmö FF,38.0,36.0,26.0,14.0,2.26,2.38,3.4,2.8,2,0,0,0,0
+FCSB,Arges Pitesti,55.0,21.0,24.0,18.0,2.34,1.4,4.0,6.5,2,0,4,0,1
+Nagoya Grampus,Kyoto Sanga,27.0,35.0,38.0,22.0,2.33,2.05,3.25,3.8,0,2,1,1,0
+Sanfrecce,Kashiwa Reysol,34.0,38.0,27.0,18.0,1.94,2.1,3.25,3.75,1,1,1,2,2
+Kashima Antlers,Jubilo Iwata,48.0,33.0,19.0,20.0,1.89,1.65,3.6,6.0,1,0,3,1,1
+Shonan Bellmare,Shimizu S-Pulse,20.0,49.0,31.0,20.0,2.05,2.3,3.1,3.4,1,1,1,4,2
+Sagan Tosu,Cerezo Osaka,33.0,39.0,29.0,24.0,2.13,2.5,3.0,3.1,1,1,1,1,0
+Avispa Fukuoka,FC Tokyo,23.0,46.0,32.0,20.0,1.08,3.0,3.2,2.5,1,1,5,1,1
+Brisbane Roar,CC Mariners,32.0,29.0,38.0,18.0,3.45,2.25,3.5,3.0,1,3,0,2,2
+Moreton Bay Utd,Sunshine Coast,29.0,26.0,44.0,19.0,4.36,2.25,4.0,2.4,1,2,0,0,0
+Capalaba,QLD Lions,13.0,19.0,68.0,18.0,3.86,19.0,8.5,1.11,0,4,3,4,2
+Ansan Greeners,Gyeongnam,26.0,40.0,34.0,16.0,3.08,3.2,3.1,2.2,2,2,2,3,2
+Asan Mugunghwa,FC Anyang,27.0,43.0,30.0,18.0,2.2,2.6,3.2,2.5,1,1,2,0,1
+Perth SC,Floreat Athena,55.0,19.0,26.0,15.0,3.36,2.25,3.75,2.5,3,1,2,2,0
+Churchill Brothers,Minerva Punjab,39.0,27.0,34.0,31.0,2.78,2.75,3.3,2.2,2,1,2,1,1
+Alashkert,FC Urartu,37.0,33.0,30.0,19.0,2.17,2.1,2.88,3.5,2,0,1,1,0
+Foutoua Club,Harjilah,45.0,28.0,27.0,31.0,1.96,2.0,3.25,3.25,1,0,0,3,2
+Ittihad Aleppo,Karamah,31.0,44.0,26.0,29.0,1.31,2.38,2.38,3.6,1,1,1,0,1
+Shorta Damascus,Taliya Hama,33.0,38.0,29.0,28.0,2.15,1.83,3.0,4.2,1,1,2,1,1
+Nawa'ir Hama,Jableh SC,22.0,36.0,42.0,31.0,2.09,3.2,3.1,2.1,0,1,1,1,0
+Hutteen Latakia,Wahda Damascus,25.0,29.0,46.0,28.0,2.53,2.5,2.38,3.4,1,2,1,1,0
+Keshla FK,Səbail FK,41.0,30.0,29.0,16.0,3.11,1.62,3.4,5.0,3,1,0,0,0
+Kagera Sugar,Azam,28.0,39.0,32.0,20.0,1.79,2.8,2.7,2.6,0,0,1,0,1
+KCC Kampala,Bright Stars,49.0,34.0,17.0,25.0,2.0,1.53,3.6,5.5,1,0,1,0,1
+Mezokovesdi SE,Debrecen VSC,36.0,34.0,30.0,20.0,2.59,1.95,3.5,3.8,2,1,0,1,2
+Gokulam FC,NEROCA FC,47.0,34.0,19.0,30.0,2.04,1.5,4.0,5.5,1,0,4,0,1
+Yong Sports,Tonnerre Yaoundé,59.0,20.0,21.0,27.0,1.54,1.5,3.6,6.0,1,0,1,2,2
+FK Kukesi,Partizani Tirana,24.0,46.0,30.0,14.0,1.3,2.4,2.88,2.88,0,0,1,2,2
+SuperSport United,Stellenbosch FC,33.0,41.0,25.0,22.0,1.77,2.2,2.75,3.4,1,1,0,0,0
+Moroka Swallows,AmaZulu FC,21.0,41.0,38.0,19.0,2.3,2.75,2.7,2.63,1,1,0,1,2
+Inter Turku,HJK Helsinki,25.0,27.0,49.0,5.0,2.34,3.1,3.0,2.2,0,2,0,1,2
+Qarabağ FK,Sabah FK,63.0,19.0,18.0,19.0,3.43,1.29,4.5,8.5,3,0,1,1,0
+Dinamo Tbilisi,Dinamo Batumi,37.0,34.0,29.0,18.0,2.35,3.1,3.1,2.2,2,0,0,0,0
+Dila Gori,Torpedo Kutaisi,52.0,25.0,24.0,20.0,2.03,1.57,3.6,4.75,1,0,2,0,1
+FK Jonava,FA Siauliai,18.0,35.0,47.0,13.0,2.19,9.0,5.75,1.2,0,2,0,3,2
+FK Panevezys,Hegelmann Litauen,42.0,34.0,24.0,11.0,3.17,2.9,3.2,2.2,2,1,1,1,0
+Esperance ST,US Monastir,44.0,39.0,17.0,22.0,2.24,1.57,3.2,6.0,1,0,1,0,1
+AS Fortuna,Panthère du Ndé,54.0,25.0,21.0,27.0,1.9,1.8,3.4,3.8,2,0,1,2,2
+Feutcheu FC,Stade Renard,36.0,41.0,23.0,24.0,1.8,2.25,3.0,3.0,0,0,3,1,1
+Zeljeznicar Banja Luka,FK Modrica,49.0,23.0,28.0,21.0,3.58,1.53,3.75,5.0,3,1,1,2,2
+FC Honka Espoo,HIFK Helsinki,35.0,32.0,33.0,5.0,2.18,1.5,4.0,5.0,1,0,1,1,0
+KPV Kokkola,VPS Vaasa,32.0,33.0,35.0,3.0,2.79,4.0,3.75,1.67,1,2,1,5,2
+Sekhukhune Utd,Sundowns FC,13.0,28.0,59.0,16.0,2.25,5.0,3.2,1.67,0,2,0,2,2
+Ararat-Armenia,Noravank SC,59.0,23.0,18.0,15.0,2.75,1.29,4.5,8.0,2,1,2,0,1
+Mes Rafsanjan,Fajr Sepasi,48.0,33.0,19.0,23.0,1.64,1.85,2.88,4.5,1,0,2,1,1
+PeKa,FC KTP,34.0,30.0,36.0,4.0,4.2,15.0,7.5,1.11,1,2,1,3,2
+JIPPO Joensuu,JJK Jyväskylä,32.0,33.0,35.0,2.0,2.45,2.3,3.6,2.5,0,1,1,1,0
+TP-47 Tornio,AC Oulu,29.0,30.0,41.0,3.0,2.69,26.0,11.0,1.05,1,2,0,4,2
+LKS Lodz,Widzew Lodz,24.0,42.0,34.0,16.0,2.27,2.3,3.0,3.0,1,1,0,1,2
+Naft M. Soleyman,Teraktor Sazi,20.0,49.0,31.0,31.0,1.27,3.0,2.63,2.5,0,0,1,1,0
+Lahden Reipas,FC Lahti,36.0,27.0,37.0,2.0,2.22,13.0,9.5,1.11,0,1,0,5,2
+KaaPo Kaarina,EIF Ekenas,36.0,25.0,39.0,5.0,2.69,6.0,4.75,1.36,1,2,2,2,0
+Namungo,Simba,16.0,43.0,41.0,22.0,2.2,5.25,3.1,1.67,1,1,2,2,0
+FC Pipinsried,SpVgg Bayreuth,19.0,23.0,58.0,18.0,4.0,5.25,4.75,1.4,2,3,1,2,2
+Al Feiha,Al Hilal Riyadh,16.0,31.0,53.0,33.0,2.61,5.75,4.0,1.44,1,2,1,0,1
+MOL Fehervar,Budapest Honved,49.0,32.0,19.0,18.0,2.87,2.1,3.4,3.5,2,1,2,0,1
+LASK Juniors,FC Liefering,14.0,33.0,52.0,17.0,3.71,4.75,4.0,1.57,1,3,4,3,1
+VfB Lubeck,Hannover 96 II,39.0,26.0,36.0,15.0,2.21,1.44,4.5,5.0,2,0,3,1,1
+TSV 1896 Rain,1. FC Nurnberg II,26.0,33.0,40.0,18.0,3.23,2.25,3.5,2.63,1,3,1,1,0
+Halmstads BK,Östersunds FK,28.0,53.0,20.0,11.0,1.57,1.44,3.8,6.5,1,1,2,0,1
+FC Saburtalo,Gagra Tbilisi,35.0,40.0,25.0,18.0,2.13,1.67,3.6,4.2,1,1,3,0,1
+FC Telavi,Sioni Bolnisi,43.0,41.0,16.0,12.0,2.25,2.25,3.25,2.75,2,0,2,0,1
+TSV Buchbach,FC Augsburg II,34.0,40.0,26.0,18.0,3.57,2.5,3.2,2.5,2,2,0,1,2
+Illertissen,SC Eltersdorf,47.0,24.0,30.0,17.0,3.31,1.83,3.75,3.25,3,2,1,2,2
+Kaizer Chiefs,Tshakhuma,39.0,33.0,28.0,15.0,1.5,1.75,3.1,4.5,2,0,1,0,1
+Bournemouth,Nottingham Forest,33.0,40.0,27.0,15.0,2.2,1.8,3.5,4.75,1,1,1,0,1
+Vikingur Gota,AB Argir,70.0,17.0,14.0,5.0,3.05,1.13,8.5,15.0,3,0,4,1,1
+Castanhal/PA,Fluminense-PI,38.0,32.0,30.0,26.0,1.69,2.25,3.75,2.5,1,0,2,2,0
+Trem/AP,Amazonas,28.0,34.0,38.0,29.0,0.0,3.75,3.3,1.83,0,1,0,2,2
+West Brom U23s,Fulham U23s,28.0,37.0,35.0,14.0,2.93,3.4,4.2,1.73,3,3,2,1,1
+Partick Thistle,Inverness CT,32.0,34.0,33.0,14.0,1.31,2.5,3.0,2.75,1,1,1,2,2
+El Nacional Quito,Imbabura SC,43.0,28.0,29.0,19.0,2.48,1.7,3.3,4.8,2,0,2,4,2
+CA Aldosivi,Colegiales,41.0,28.0,31.0,15.0,2.95,1.53,5.25,4.75,2,1,1,1,0
+Chelmsford,Concord Rangers,35.0,38.0,28.0,11.0,3.54,2.1,3.25,3.0,2,2,1,1,0
+Montrose FC,Airdrieonians FC,32.0,34.0,33.0,10.0,1.32,2.5,3.25,2.6,1,1,1,0,1
+Annan Athletic,Forfar Athletic,32.0,34.0,33.0,11.0,1.81,2.3,3.3,2.8,1,1,1,0,1
+Edinburgh City,Dumbarton FC,43.0,17.0,40.0,11.0,2.75,3.0,3.3,2.2,2,1,4,1,1
+SS Pennarossa,SS Murata,47.0,36.0,17.0,14.0,2.35,1.75,3.25,4.2,1,0,1,1,0
+Folgore Calcio,FC Fiorentino,29.0,43.0,28.0,16.0,2.35,1.44,4.0,5.75,1,1,0,2,2
+Villarreal CF,Liverpool,19.0,30.0,51.0,15.0,2.25,4.75,3.9,1.7,0,2,2,3,2
+Real San Andrés,Boca Juniors Cali,33.0,34.0,32.0,29.0,2.05,1.67,3.4,4.5,1,1,1,1,0
+Guayaquil SC,America de Quito,29.0,27.0,44.0,28.0,1.75,2.7,2.75,2.75,0,2,3,2,1
+Bahia,Londrina,45.0,25.0,30.0,28.0,2.25,1.53,3.6,8.0,1,0,4,0,1
+Caracas,Libertad,30.0,20.0,50.0,24.0,2.75,3.5,3.3,2.15,1,3,1,0,1
+Deportivo Tachira,CS Emelec,35.0,26.0,39.0,22.0,2.51,2.88,3.3,2.5,1,2,1,4,2
+The Strongest,Atlético PR,44.0,35.0,21.0,11.0,1.91,2.0,3.4,3.8,1,0,5,0,1
+Cuiabá Esporte,Racing Club,33.0,25.0,42.0,24.0,2.21,3.75,3.25,2.1,0,2,1,2,2
+River Plate (URU),FBC Melgar,38.0,29.0,33.0,15.0,2.12,2.25,3.3,3.3,1,0,1,2,2
+Barranquilla FC,Fortaleza (COL),14.0,36.0,50.0,29.0,2.46,4.8,3.4,1.67,0,2,0,1,2
+Bogotá FC,Llaneros FC (COL),32.0,36.0,31.0,14.0,2.46,2.15,3.0,3.2,1,1,0,1,2
+Leones,Deportes Quindío,28.0,41.0,31.0,22.0,1.76,2.5,2.8,2.8,1,1,0,0,0
+Atlético FC,Boyacá Chicó,26.0,33.0,41.0,25.0,3.0,5.0,3.5,1.6,1,2,0,2,2
+Real Cartagena,Valledupar FC,45.0,39.0,17.0,30.0,2.85,1.8,3.4,3.75,2,1,1,2,2
+Atlético Huila,Tigres FC (COL),26.0,31.0,43.0,28.0,1.58,2.5,2.7,2.9,0,1,0,0,0
+Alianza FC (PAN),CD Árabe Unido,37.0,30.0,33.0,28.0,1.59,1.91,3.0,4.0,1,0,2,0,1
+Ferro Carril Oeste,Brown de Adrogué,19.0,40.0,41.0,14.0,2.83,2.05,3.0,4.0,1,2,0,1,2
+Nautico,Guarani,42.0,31.0,26.0,28.0,2.94,2.3,3.1,3.1,2,1,1,1,0
+Sporting SM FC,Tauro FC,40.0,32.0,29.0,25.0,1.71,2.75,2.75,2.6,1,0,0,1,2
+CS Cartaginés,Santos Guápiles,45.0,29.0,26.0,18.0,2.91,1.8,3.6,3.6,2,1,4,1,1
+Blaublitz Akita,Ryukyu,33.0,35.0,32.0,18.0,1.9,2.45,3.1,3.1,1,1,2,1,1
+Matsue City,Maruyasu Okazaki,16.0,6.0,79.0,22.0,1.9,4.75,3.75,1.57,0,1,0,0,0
+Gamba Osaka,Consadole Sapporo,30.0,39.0,32.0,21.0,2.99,2.9,3.2,2.5,2,2,0,0,0
+Tokyo Verdy,Vegalta Sendai,26.0,30.0,44.0,24.0,2.71,2.4,3.25,3.1,2,3,3,1,1
+Albirex Niigata,Zweigen Kanazawa,44.0,32.0,25.0,22.0,3.1,2.15,3.1,3.6,2,1,1,0,1
+Tochigi SC,Montedio Yamagata,19.0,35.0,46.0,23.0,1.73,3.8,3.2,2.05,0,1,1,2,2
+Adamstown FC,Weston Bears,17.0,15.0,69.0,23.0,3.04,4.33,4.2,1.57,1,3,0,1,2
+Lambton Jaffas,Newcastle Olympic,39.0,29.0,32.0,23.0,2.25,1.67,4.0,3.75,2,0,1,1,0
+FC Zhetysu,Zhenis,34.0,30.0,36.0,23.0,2.73,1.33,4.75,6.5,1,2,1,1,0
+Newcastle Jets,Western United,31.0,23.0,46.0,14.0,2.91,2.5,3.3,2.9,1,2,1,1,0
+Logan Lightning,Gold Coast Knights,27.0,24.0,50.0,19.0,2.75,5.25,4.75,1.4,2,3,0,4,2
+Kingborough Lions,Hobart Zebras,42.0,21.0,37.0,10.0,4.12,1.53,4.0,4.75,3,1,5,0,1
+Bucheon FC 1995,Busan I'Park,61.0,26.0,13.0,20.0,1.5,2.0,3.2,3.5,1,0,3,1,1
+Gold Coast Utd,Brisbane Roar U21,34.0,26.0,40.0,20.0,3.65,1.91,4.33,2.88,1,3,6,1,1
+Real Kashmir,TRAU FC,15.0,48.0,37.0,15.0,2.4,2.25,3.4,2.7,1,1,1,1,0
+Indian Arrows,Kenkre,47.0,27.0,25.0,33.0,1.67,2.9,2.9,2.38,1,0,1,0,1
+GimPo Citizen,Gwangju FC,23.0,31.0,46.0,20.0,2.75,4.0,3.4,1.8,1,2,1,2,2
+Bangkok United,Chiangmai United,69.0,21.0,10.0,30.0,3.2,1.29,5.5,7.5,3,1,4,2,1
+Muangthong United,Prachuap,46.0,30.0,24.0,30.0,4.09,1.7,3.75,4.0,2,1,2,1,1
+Bangkok Glass,Chonburi FC,47.0,32.0,20.0,30.0,3.53,1.65,4.2,4.33,2,1,4,1,1
+Police Tero FC,Port FC,34.0,36.0,30.0,30.0,3.0,2.88,3.25,2.2,2,2,2,1,1
+Ratchaburi FC,Khon Kaen United,44.0,34.0,22.0,27.0,2.8,1.65,3.75,4.2,2,1,2,1,1
+Suphanburi FC,Buriram United,13.0,28.0,59.0,29.0,2.22,7.0,4.5,1.33,0,2,2,1,1
+Nakhonratchasima,Nong Bua Pitchaya,27.0,30.0,44.0,25.0,2.5,2.55,3.1,2.5,1,2,0,4,2
+Perth Glory,Melbourne City,19.0,21.0,61.0,9.0,2.68,8.0,5.5,1.33,2,3,2,0,1
+Naft SC Baghdad,Arbil FC,30.0,42.0,28.0,37.0,2.18,1.95,2.88,4.0,1,1,2,0,1
+Wathba Homs,Afrin SC,65.0,26.0,10.0,23.0,1.83,1.2,5.5,9.5,2,0,4,1,1
+Kaisar Kyzylorda,Yassy Turkistan,34.0,30.0,36.0,26.0,2.84,1.14,7.0,12.0,1,2,3,0,1
+Baghdad SC,Naft Maysan,32.0,47.0,22.0,37.0,1.32,2.25,2.75,3.25,0,0,0,0,0
+Padideh Shandiz,Sanat Naft AC,25.0,39.0,36.0,20.0,1.26,2.88,2.63,2.6,0,0,1,1,0
+Unirea Slobozia,Concordia Chiajna,34.0,34.0,32.0,19.0,2.0,3.0,2.88,2.3,1,0,1,1,0
+Zira FK,Gabala FC,38.0,37.0,26.0,19.0,2.57,2.05,3.0,3.4,2,1,0,3,2
+Sepahan Esfahan,Esteghlal Tehran,25.0,45.0,30.0,27.0,1.84,2.63,2.63,2.88,1,1,1,1,0
+Sorkhpooshan Pakdasht,Zob Ahan,36.0,40.0,24.0,28.0,1.25,2.75,2.6,2.75,1,1,1,0,1
+US Ben Guerdane,Club Africain Tunis,22.0,34.0,43.0,31.0,1.94,4.0,3.2,1.8,0,1,0,1,2
+Maritsa Plovdiv,Minyor Pernik,28.0,29.0,43.0,19.0,1.75,4.0,3.2,1.8,0,1,0,2,2
+Gyirmót FC,Paksi FC,25.0,34.0,41.0,21.0,2.6,3.3,3.5,2.15,1,2,3,3,0
+Aizawl FC,Sudeva Moonlight,38.0,29.0,33.0,20.0,2.58,1.85,3.3,3.75,2,1,3,1,1
+Aluminium Arak,Nassaji Mazandaran,25.0,52.0,23.0,23.0,1.43,2.38,2.4,3.6,1,1,0,0,0
+Esteghlal Khuzestan,Vista Toorbin,30.0,53.0,17.0,39.0,1.75,2.0,2.75,4.0,1,1,4,2,1
+Egnatia Rrogozhine,KF Laci,27.0,31.0,41.0,21.0,1.34,3.2,2.75,2.3,0,2,0,2,2
+KF Tirana,Teuta Durres,49.0,28.0,23.0,20.0,2.05,1.73,3.25,4.33,1,0,1,1,0
+Ludogorets II,Marek Dupnitsa,40.0,26.0,33.0,16.0,1.13,1.44,3.5,7.5,1,0,2,1,1
+FK Septemvri,Botev II Plovdiv,74.0,19.0,7.0,17.0,2.63,1.25,5.0,9.0,3,0,3,0,1
+Strumska Slava,Sportist Svoge,35.0,38.0,27.0,17.0,2.08,1.95,3.0,3.75,1,1,0,1,2
+MTK Budapest,Puskás Akadémia,24.0,29.0,47.0,23.0,2.77,2.75,3.1,2.75,1,2,0,0,0
+Chippa United,Cape Town City,18.0,41.0,42.0,22.0,1.79,3.4,2.9,2.1,0,1,0,0,0
+Baroka FC,Golden Arrows,22.0,37.0,41.0,21.0,2.21,2.8,2.7,2.6,0,2,1,0,1
+MFK Ruzomberok,MSK Zilina,48.0,33.0,19.0,18.0,1.94,1.67,3.75,4.0,1,0,3,0,1
+Rabotnicki Skopje,Borec Veles,46.0,30.0,24.0,21.0,2.32,1.29,4.75,8.0,2,0,2,1,1
+Tikves Kavadarci,Renova,32.0,37.0,31.0,19.0,2.2,2.0,3.0,3.6,1,1,0,1,2
+FC Struga,Bregalnica Stip,30.0,44.0,26.0,14.0,2.0,2.0,3.2,3.3,1,1,1,0,1
+FK Shkupi,Makedonija GP,46.0,30.0,24.0,21.0,2.46,2.0,3.4,3.2,2,0,1,1,0
+Academy Pandev,Shkendija 79,31.0,37.0,32.0,19.0,1.86,2.6,2.9,2.6,1,1,4,2,1
+MFK Chrudim,Taborsko,30.0,44.0,26.0,19.0,1.43,2.0,3.0,3.6,1,1,1,0,1
+Dziugas FC,FK Kauno Zalgiris,25.0,36.0,39.0,10.0,1.97,3.75,3.4,1.8,0,1,1,2,2
+Étoile Sahel Sousse,CS Sfaxien,45.0,39.0,17.0,21.0,2.3,1.7,3.1,5.0,2,0,1,1,0
+Abia Warriors,MFM FC,40.0,42.0,18.0,23.0,1.82,1.5,3.8,5.5,1,1,2,1,1
+ND Beltinci,NK Krsko,41.0,36.0,24.0,20.0,3.0,1.85,3.5,3.5,2,1,0,1,2
+NK Rogaška,NK Dekani,45.0,33.0,22.0,21.0,2.86,2.05,3.1,3.3,2,1,3,0,1
+ND Ilirija,NŠ Drava,47.0,31.0,21.0,20.0,4.18,1.29,4.5,9.0,3,2,4,2,1
+NK Fuzinar,NK Primorje,24.0,32.0,44.0,21.0,2.83,2.15,3.4,2.88,1,2,3,2,1
+ND Bilje,ND Triglav,25.0,30.0,46.0,21.0,2.25,4.75,3.6,1.6,0,2,0,0,0
+Klubi 04,IF Gnistan,36.0,22.0,42.0,7.0,3.43,3.5,4.33,1.67,1,4,3,1,1
+TPS Turku,FC Haka,34.0,30.0,36.0,7.0,2.49,3.4,3.75,1.8,0,1,1,1,0
+Al Ain,Al Ahli Dubai,31.0,35.0,34.0,29.0,2.55,1.85,3.5,3.5,2,2,2,2,0
+Al Adalah,Bisha FC,65.0,21.0,14.0,36.0,4.0,1.53,3.4,6.0,2,1,2,1,1
+FK Krasnodar,Lokomotiv Moscow,32.0,41.0,28.0,13.0,2.4,1.85,3.6,4.0,1,1,1,0,1
+PAOK Salonica,Olympiacos FC,31.0,33.0,37.0,19.0,1.95,2.55,3.1,2.63,0,1,1,2,2
+Sumqayit FK,Neftchi Baku,17.0,26.0,57.0,14.0,2.43,6.0,4.0,1.44,0,1,0,2,2
+FK Suduva,FK Riteriai,39.0,34.0,27.0,6.0,2.38,2.4,3.0,2.75,2,0,1,1,0
+CD Nueva Concepción,C.D. Guastatoya,25.0,29.0,47.0,34.0,3.0,5.5,3.5,1.6,1,2,2,3,2
+Foolad Khuzestan,Gol Gohar,36.0,47.0,17.0,34.0,1.48,2.63,2.5,3.0,1,1,1,1,0
+Shabab Al Urdun,Wihdat Amman,47.0,22.0,31.0,18.0,2.19,4.0,3.6,1.7,2,0,1,2,2
+CSA Steaua,Univ Cluj-Napoca,30.0,22.0,48.0,18.0,1.83,2.75,3.0,2.38,0,1,0,2,2
+Ethnikos Achnas,AEK Larnaka,25.0,21.0,54.0,20.0,2.58,4.33,3.5,1.67,0,3,3,1,1
+Omonia Nicosia,Anorthosis FC,39.0,40.0,21.0,21.0,2.49,2.2,3.1,3.0,1,1,1,1,0
+Al Shualah,Qadisiya Khubar,20.0,40.0,41.0,37.0,2.07,2.63,2.8,2.63,0,1,1,1,0
+FC Midtjylland,Vejle BK,62.0,15.0,23.0,10.0,2.42,1.4,4.5,8.0,1,0,3,1,1
+Herrera FC,CD Universitario,50.0,32.0,18.0,27.0,2.6,1.91,3.0,4.0,2,1,3,1,1
+Guadalupe FC,Saprissa,37.0,28.0,35.0,19.0,2.56,2.38,3.3,2.55,2,1,1,2,2
+Pérez Zeledón,Sporting (CRC),39.0,42.0,18.0,22.0,2.33,2.25,3.1,2.88,1,1,0,1,2
+Club Xelajú MC,CSD Sololá,35.0,40.0,25.0,14.0,1.81,1.55,3.75,5.5,1,1,2,1,1
+Sacramento Republic,New Mexico United,42.0,35.0,23.0,22.0,2.78,2.0,3.4,3.4,2,1,0,0,0
+Deportes Tolima,Ind. del Valle,48.0,29.0,23.0,19.0,2.69,2.2,3.2,3.1,3,1,1,0,1
+Sporting Cristal,Universidad Católica,56.0,12.0,32.0,18.0,2.65,2.2,3.2,3.1,3,0,1,1,0
+Seattle Sounders,UNAM Pumas,35.0,29.0,36.0,19.0,2.84,1.85,3.6,4.0,1,2,3,0,1
+YSCC,Tegevajaro Miyazaki,12.0,38.0,50.0,25.0,1.75,2.7,3.25,2.45,0,1,0,4,2
+Kagoshima United,Kataller Toyama,39.0,35.0,26.0,23.0,1.98,2.38,3.25,2.8,1,0,4,1,1
+Jeonbuk Hyundai M.,FC Seoul,38.0,39.0,23.0,23.0,2.29,1.75,3.4,4.33,1,1,1,1,0
+Seongnam FC,Jeju United,16.0,32.0,53.0,24.0,2.78,3.1,3.0,2.25,1,2,1,2,2
+Pohang Steelers,Daegu FC,53.0,32.0,15.0,24.0,2.79,1.95,3.2,3.5,2,1,1,1,0
+Kon Tum,Hòa Bình,25.0,38.0,37.0,30.0,1.25,3.6,3.0,2.0,1,1,0,4,2
+Da Nang II,Hải Nam,29.0,31.0,40.0,27.0,0.63,2.5,3.2,2.5,0,1,0,0,0
+WS Wanderers,Wellington Phoenix,37.0,30.0,32.0,16.0,3.23,2.2,3.5,3.2,3,1,1,2,2
+Suwon FC,Incheon United,23.0,25.0,52.0,20.0,3.36,2.3,3.0,2.88,1,2,2,2,0
+Sangju Sangmu,Gangwon FC,34.0,46.0,20.0,24.0,3.01,2.6,3.0,2.55,2,2,1,0,1
+BKMA Yerevan,Van Yerevan,28.0,38.0,34.0,14.0,1.75,3.1,3.2,2.1,1,1,1,1,0
+Biashara United,Dodoma Jiji,29.0,53.0,18.0,24.0,2.33,2.0,2.75,4.0,1,1,1,3,2
+Mbeya Kwanza,Tanzania Prisons,22.0,33.0,45.0,20.0,2.5,2.25,2.7,3.4,1,2,1,0,1
+KF Ballkani,KF Malisheva,59.0,23.0,18.0,22.0,2.25,1.4,4.33,6.0,2,0,2,3,2
+KF Drenica,KF Llapi,23.0,30.0,48.0,20.0,2.54,1.57,4.2,4.2,1,2,1,0,1
+Neftchi Fergana,Lok. Tashkent,40.0,22.0,38.0,26.0,3.27,2.7,3.1,2.38,2,1,0,1,2
+Khor Fakkan Club,Al Oruba (UAE),50.0,33.0,17.0,34.0,4.42,1.44,4.5,5.5,3,1,1,1,0
+Emirates Club,Baniyas,20.0,24.0,56.0,36.0,4.05,4.0,3.5,1.8,1,3,2,2,0
+BFC Daugavpils,Rigas Futbola skola,25.0,27.0,48.0,13.0,3.16,9.0,6.0,1.22,1,3,1,4,2
+Saipa Karaj,Esteghlal Molasani,19.0,48.0,34.0,23.0,1.88,2.0,3.0,3.6,1,1,0,0,0
+Shahrdari Astara,Rayka Babol,36.0,37.0,27.0,19.0,1.92,2.1,2.7,3.75,0,0,0,1,2
+Mes Kerman,Qashqai Shiraz,50.0,35.0,16.0,29.0,2.09,1.5,3.4,6.5,1,0,1,0,1
+Spartak Varna,FK Sozopol,53.0,25.0,22.0,18.0,3.04,1.2,5.5,10.0,2,1,2,1,1
+Spartaks Jurmala,Valmieras FK,17.0,12.0,71.0,14.0,3.87,11.0,6.0,1.2,1,3,0,2,2
+Pyunik FC,FC Noah,48.0,31.0,21.0,13.0,2.29,1.62,3.5,4.75,2,0,2,1,1
+Hajer Club,Al Khaleej Club,27.0,42.0,31.0,42.0,1.58,2.45,2.8,2.88,1,1,2,0,1
+Salernitana,Venezia FC,40.0,32.0,29.0,24.0,2.09,3.0,3.25,2.4,1,0,2,1,1
+Kisvárda FC,Ujpest FC,36.0,33.0,32.0,21.0,2.38,2.15,3.3,3.5,2,0,2,1,1
+Al Kawkab,Al Jabalain,23.0,26.0,51.0,38.0,2.36,4.0,2.9,1.95,0,1,0,2,2
+Odense BK,SønderjyskE,37.0,34.0,29.0,12.0,2.77,1.91,3.8,3.6,2,1,3,0,1
+Flora Tallinn,Paide,43.0,24.0,33.0,12.0,2.73,1.5,4.5,4.5,3,1,0,0,0
+Al Dir'iya,Ohud Medina,23.0,39.0,37.0,39.0,2.07,3.5,2.88,2.1,1,1,1,1,0
+Taawoun FC,Ettifaq FC,33.0,44.0,22.0,34.0,2.1,2.05,3.1,3.5,1,1,0,4,2
+Al Nasr Dubai,Wasl Dubai,31.0,36.0,34.0,30.0,2.0,2.15,3.5,2.9,1,1,3,2,1
+Djurgårdens IF,Helsingborg,61.0,23.0,16.0,15.0,2.83,1.45,4.33,7.0,2,1,2,2,0
+Mosta FC,Sirens FC,28.0,40.0,32.0,19.0,3.67,2.6,4.0,2.1,2,2,2,3,2
+FC Hermannstadt,Petrolul Ploiesti,41.0,33.0,26.0,19.0,1.08,2.35,2.8,3.1,1,0,1,1,0
+Najran SC,Al Akhdood,28.0,51.0,22.0,32.0,0.63,2.1,2.9,3.5,1,1,2,2,0
+Al Baten,Al Ahli Jeddah,29.0,32.0,39.0,34.0,2.47,2.7,3.25,2.4,0,2,2,2,0
+Jeddah Club,Al Wahda Mecca,14.0,33.0,53.0,31.0,2.67,3.6,2.9,2.05,1,2,2,1,1
+Wycombe,Milton Keynes Dons,31.0,34.0,35.0,16.0,2.63,2.5,3.2,2.88,1,2,2,0,1
+Eintracht Frankfurt,West Ham,34.0,40.0,26.0,16.0,2.39,2.5,3.25,2.9,0,0,1,0,1
+Rangers FC,RB Leipzig,27.0,28.0,45.0,13.0,2.16,3.6,3.6,2.0,0,1,3,1,1
+AS Roma,Leicester City,36.0,44.0,20.0,17.0,2.32,2.15,3.3,3.5,1,1,1,0,1
+Olympique Marseille,Feyenoord,38.0,25.0,37.0,17.0,3.84,2.1,3.75,3.25,2,1,0,0,0
+HK Kopavogur,UMF Selfoss,49.0,11.0,40.0,3.0,3.38,1.4,5.5,4.5,3,1,2,3,2
+Fylkir FC,KV,32.0,34.0,33.0,3.0,0.0,1.22,6.0,7.5,1,1,3,1,1
+Santo Domingo,CD Olmedo,27.0,45.0,28.0,24.0,2.38,2.25,3.0,3.0,1,1,1,2,2
+Deportivo Lara,Hermanos Colmenares,31.0,35.0,34.0,31.0,1.13,2.38,2.88,3.1,0,0,0,1,2
+Unión Magdalena,La Equidad,17.0,29.0,54.0,29.0,1.88,3.5,3.1,2.25,0,2,1,1,0
+Guaireña FC,Internacional,31.0,44.0,25.0,17.0,2.06,3.8,3.3,1.91,0,0,1,1,0
+Unión Santa Fe,Oriente Petrolero,51.0,26.0,23.0,18.0,2.77,1.17,5.75,13.0,3,1,2,0,1
+CD Walter Ferretti,H&H Export,56.0,23.0,21.0,29.0,4.05,1.45,4.0,6.5,3,1,1,0,1
+EC Macapá/AP,Trem/AP,16.0,37.0,48.0,27.0,3.14,7.5,5.0,1.29,1,2,2,5,2
+Zamora FC,Portuguesa FC,37.0,44.0,19.0,28.0,2.04,2.05,3.0,3.5,1,1,0,0,0
+RB Bragantino,Vélez Sársfield,31.0,27.0,42.0,17.0,2.61,2.0,3.1,3.75,1,3,1,1,0
+Brusque FC/SC,Chapecoense SC,27.0,28.0,46.0,18.0,2.55,2.15,2.9,3.75,1,2,0,0,0
+Ayacucho FC,Jorge Wilstermann,33.0,23.0,44.0,16.0,2.69,1.75,3.3,4.5,1,3,0,0,0
+CA Banfield,Unión La Calera,42.0,30.0,28.0,17.0,1.47,1.57,3.3,6.5,1,0,0,1,2
+Univ Católica Quito,Santos FC,38.0,21.0,41.0,11.0,2.16,1.65,3.6,5.0,0,1,0,1,2
+CS Switchbacks,RGV Toros,57.0,16.0,27.0,11.0,2.46,1.7,3.4,4.75,2,0,3,2,1
+CD Marathón,CD Victoria,43.0,30.0,27.0,25.0,3.03,1.95,3.25,3.4,2,1,4,1,1
+Cimarrones Sonora,Celaya FC,31.0,29.0,41.0,28.0,2.55,2.1,3.3,3.6,1,2,1,0,1
+CS Switchbacks,RGV Toros,57.0,16.0,27.0,11.0,2.46,1.7,3.4,4.75,2,0,3,2,1
+CD Marathón,CD Victoria,43.0,30.0,27.0,25.0,3.03,1.95,3.25,3.4,2,1,4,1,1
+Cimarrones Sonora,Celaya FC,31.0,29.0,41.0,28.0,2.55,2.1,3.3,3.6,1,2,1,0,1
+Managua FC,Juventus Managua,42.0,31.0,26.0,27.0,3.05,1.8,3.6,3.8,3,1,4,3,1
+Alianza Lima,Colo Colo,45.0,18.0,37.0,19.0,2.49,4.33,3.4,1.75,1,0,1,1,0
+Manly United,Sydney United,51.0,25.0,24.0,12.0,3.57,1.91,4.0,3.0,3,2,1,0,1
+Wollongong FC,Blacktown City,24.0,29.0,47.0,10.0,3.7,2.8,4.0,2.0,1,3,3,1,1
+Cerezo Osaka,Jubilo Iwata,34.0,38.0,28.0,11.0,2.1,1.7,3.75,5.0,1,1,2,1,1
+FK Auda,Supernova Riga,53.0,25.0,23.0,17.0,3.11,1.25,5.0,9.0,3,0,4,1,1
+Gangneung City,Hwaseong FC,40.0,38.0,22.0,16.0,1.13,2.88,2.88,2.4,1,0,0,3,2
+Oakleigh Cannons,St Albans Saints,52.0,21.0,27.0,10.0,3.2,1.3,4.75,7.0,3,1,3,1,1
+Perth Glory Youth,Balcatta,50.0,31.0,18.0,9.0,3.47,1.29,5.0,7.5,3,2,1,0,1
+Hougang United,Lion City,28.0,27.0,45.0,31.0,2.47,7.5,6.0,1.22,0,2,3,4,2
+Botev Plovdiv,Ludogorets,33.0,18.0,49.0,19.0,1.98,2.1,3.6,2.8,0,1,1,2,2
+Kedah FA,Melaka United,58.0,18.0,24.0,26.0,2.88,1.57,3.6,5.0,2,1,2,3,2
+Hapoel Petah Tikva,AS Ashdod,33.0,29.0,38.0,22.0,1.96,2.25,2.88,3.1,0,1,1,1,0
+Bnei Yehuda,Sektzia Nes Tziona,28.0,38.0,34.0,22.0,1.67,3.75,3.25,1.83,1,1,1,2,2
+Hapoel Kfar Saba,Kafr Qasim,38.0,28.0,34.0,22.0,3.75,3.4,3.1,2.0,2,1,1,1,0
+Hapoel Umm Al Fahm,Maccabi Bnei Raina,24.0,32.0,44.0,21.0,2.42,4.0,3.25,1.8,0,2,0,2,2
+Hapoel Afula,Ahi Nazareth,31.0,42.0,27.0,21.0,2.2,2.5,2.75,2.88,1,1,1,1,0
+Beitar Tel Aviv,Hapoel Ramat Gan,22.0,38.0,40.0,21.0,1.89,3.5,3.0,2.0,0,1,3,3,0
+Hapoel Acre,Ramat HaSharon,26.0,52.0,22.0,21.0,2.21,1.8,3.2,4.0,1,1,1,0,1
+Hapoel Raanana,H. Ironi Rishon,32.0,43.0,25.0,22.0,2.19,2.2,3.2,2.88,1,1,1,2,2
+Vasco U20,Portuguesa RJ U20,73.0,17.0,9.0,22.0,3.38,1.11,11.0,13.0,4,0,3,0,1
+Navbahor,FC Bunyodkor,32.0,29.0,38.0,28.0,2.82,2.15,3.0,3.2,1,2,2,1,1
+Metallurg Bekabad,Qyzylqum,21.0,33.0,46.0,29.0,1.48,2.5,2.7,2.9,0,1,1,1,0
+Surkhon,Qoqon FK,37.0,20.0,42.0,33.0,2.88,3.1,2.8,2.3,1,2,1,0,1
+NK Opatija,NK Sesvete,40.0,31.0,29.0,17.0,2.21,2.2,3.4,2.75,2,0,1,1,0
+Jazira Abu Dhabi,Ajman Club,59.0,23.0,18.0,34.0,3.23,1.53,4.0,5.0,2,1,3,0,1
+Slovan Bratislava Youth,FK Dukla BB,23.0,19.0,58.0,19.0,2.87,4.0,4.0,1.62,1,2,2,2,0
+Cherno More Varna,Levski Sofia,30.0,29.0,41.0,17.0,1.29,2.63,3.0,2.5,0,1,0,1,2
+Mohammedan SC,Churchill Brothers,33.0,28.0,38.0,33.0,3.09,1.95,3.5,3.3,1,2,2,0,1
+Sigma Olomouc,Mlada Boleslav,38.0,27.0,35.0,17.0,2.8,2.38,3.25,2.75,2,1,1,2,2
+Sparta Praha B,Opava,30.0,42.0,28.0,17.0,2.4,2.4,3.4,2.5,1,1,1,2,2
+RC Arbaa,Paradou AC,27.0,29.0,44.0,18.0,1.67,2.6,2.88,2.63,0,1,3,1,1
+Great Olympics,Berekum Chelsea,39.0,36.0,25.0,23.0,2.3,1.62,3.6,4.75,1,0,2,0,1
+Riga FC,FK Liepaja,44.0,26.0,30.0,17.0,2.71,2.0,3.25,3.25,2,1,0,1,2
+FC Vlasim,Fotbal Trinec,53.0,27.0,19.0,16.0,3.37,1.5,3.8,5.5,3,0,4,1,1
+FS METTA/LU Riga,FK Tukums 2000,47.0,28.0,24.0,18.0,2.75,1.83,3.5,3.5,2,1,3,2,1
+Al Fateh (KSA),Ittihad Jeddah,27.0,29.0,44.0,38.0,3.56,3.2,3.3,2.0,2,3,4,4,0
+Radomiak Radom,Zaglebie Lubin,56.0,29.0,15.0,13.0,2.0,2.3,3.25,3.0,2,0,1,6,2
+Olympiakos Nic.,PAEEK Kyrenia,58.0,26.0,15.0,21.0,1.25,1.4,4.33,6.0,2,0,4,3,1
+NK Dragovoljac,Slaven Belupo,25.0,36.0,39.0,17.0,2.65,3.6,3.3,1.91,1,2,1,1,0
+Sloboda Tuzla,Zrinjski Mostar,14.0,28.0,58.0,15.0,2.17,5.5,3.75,1.5,0,2,0,2,2
+FK Sarajevo,Radnik Bijeljina,52.0,29.0,19.0,14.0,2.95,1.4,4.2,6.0,3,0,1,0,1
+Skra Czestochowa,Stomil Olsztyn,41.0,35.0,24.0,17.0,1.74,2.38,3.2,2.75,1,0,0,0,0
+Al Salt,Ramtha Club,24.0,34.0,42.0,17.0,1.71,2.75,2.88,2.5,0,1,1,0,1
+Al Hidd Club,Sitra Club,38.0,30.0,32.0,32.0,2.76,1.62,3.5,4.8,2,1,1,1,0
+FK Babrungas,Vilniaus BFA,32.0,27.0,41.0,10.0,3.56,1.8,3.75,3.4,1,2,1,1,0
+Abha Club,Al Faisaly (KSA),38.0,35.0,26.0,21.0,2.34,2.5,3.2,2.5,2,0,0,0,0
+FC Crotone,Parma FC,34.0,43.0,23.0,18.0,3.38,2.55,3.2,2.55,3,3,0,1,2
+Fortuna Düsseldorf,SV Darmstadt,39.0,27.0,34.0,21.0,3.25,3.5,3.4,1.91,3,2,2,1,1
+Paderborn,SV Sandhausen,34.0,37.0,28.0,18.0,3.81,1.83,3.6,3.6,2,2,2,0,1
+Bačka Topola,FK Napredak,45.0,29.0,26.0,18.0,2.94,1.4,4.33,6.0,2,1,2,0,1
+SKU Amstetten,LASK Juniors,60.0,24.0,16.0,17.0,3.36,1.5,4.0,4.75,3,0,0,1,2
+Wacker Innsbruck,Horn,45.0,37.0,18.0,15.0,2.1,2.1,3.4,2.88,2,0,2,3,2
+Vorwärts Steyr,FC Liefering,26.0,34.0,40.0,14.0,3.31,2.63,3.25,2.38,1,3,2,1,1
+Kapfenberg,Austria Wien II,31.0,35.0,33.0,17.0,2.35,2.55,3.3,2.38,1,1,5,1,1
+Rapid Wien II,SV Lafnitz,19.0,32.0,49.0,17.0,3.88,3.25,3.4,1.95,1,3,0,3,2
+AC Horsens,Lyngby BK,39.0,24.0,37.0,16.0,2.42,2.25,3.3,3.25,2,0,2,1,1
+Ismaily SC,Al Masry,19.0,41.0,40.0,24.0,1.85,1.95,2.88,4.2,1,1,3,2,1
+Bourg-Peronnas,Annecy FC,25.0,38.0,37.0,18.0,2.3,2.7,3.2,2.45,1,1,3,0,1
+FC Sète,Villefranche,22.0,32.0,46.0,20.0,1.78,3.5,3.2,2.0,0,1,0,1,2
+Stade Laval,Red Star FC93,48.0,28.0,24.0,21.0,2.45,1.7,3.5,4.75,2,0,2,2,0
+US Créteil-Lusitanos,SO Cholet,27.0,29.0,44.0,22.0,2.26,2.15,3.3,3.1,0,2,4,4,0
+LB Châteauroux,CA Bastia,56.0,21.0,22.0,21.0,2.75,1.8,3.5,4.0,3,0,0,0,0
+Sedan Ardennes,US Orléans,27.0,34.0,39.0,16.0,2.54,2.55,3.1,2.63,1,2,1,0,1
+Le Mans FC,US Avranches,42.0,36.0,22.0,23.0,2.23,1.75,3.4,4.33,2,0,1,3,2
+US Boulogne,Stade Briochin,28.0,26.0,45.0,15.0,2.79,2.6,3.25,2.5,1,2,0,1,2
+US Concarneau,FC Chambly,52.0,31.0,18.0,17.0,2.38,1.53,4.0,5.25,2,0,4,0,1
+Inter Milano,Empoli FC,64.0,21.0,15.0,14.0,3.22,1.17,8.0,13.0,3,1,4,2,1
+JS Kabylie,CR Belouizdad,32.0,37.0,31.0,16.0,1.41,2.1,2.88,3.5,1,1,0,0,0
+Wahda Abu Dhabi,Sharjah SC,43.0,30.0,26.0,31.0,2.88,1.95,3.5,3.4,2,1,1,2,2
+Hatayspor,Trabzonspor,15.0,38.0,48.0,7.0,1.71,2.5,3.5,2.38,0,2,1,1,0
+Gaziantep B.B.,Kayserispor,34.0,46.0,20.0,14.0,1.52,1.65,3.75,4.2,1,1,1,1,0
+Silkeborg IF,Randers FC,44.0,22.0,34.0,16.0,3.16,1.75,4.0,4.2,3,1,1,0,1
+CSKA Sofia,Slavia Sofia,52.0,25.0,23.0,17.0,2.51,1.57,3.6,5.0,3,0,3,1,1
+FC Helsingor,FC Fredericia,37.0,24.0,39.0,14.0,2.58,1.6,4.2,5.0,1,2,2,1,1
+USM Alger,WA Tlemcen,54.0,31.0,15.0,18.0,2.61,1.25,4.5,11.0,3,0,2,0,1
+Atlético Nacional,Deportivo Pereira,49.0,31.0,20.0,17.0,2.32,1.65,3.5,4.75,2,0,1,1,0
+North Wellington,Wellington Phoenix (R),24.0,35.0,41.0,16.0,1.5,7.5,5.5,1.25,0,1,0,1,2
+Petone,Miramar,16.0,30.0,55.0,17.0,3.75,21.0,10.0,1.05,1,3,0,5,2
+Melville United,Auckland United,23.0,17.0,60.0,20.0,2.63,4.0,4.33,1.57,1,2,2,0,1
+Bay Olympic,Hamilton Wand.,19.0,25.0,55.0,18.0,5.88,2.6,3.6,2.2,1,5,0,2,2
+Manukau United,Auckland City,15.0,25.0,60.0,18.0,4.25,10.0,6.5,1.17,1,3,0,3,2
+North Shore United,Waiheke United,37.0,28.0,35.0,18.0,2.38,2.1,3.75,2.7,2,0,3,3,0
+Birkenhead United,Takapuna,40.0,27.0,33.0,18.0,2.0,1.5,4.5,4.5,1,0,1,2,2
+Western Springs,Eastern Suburbs (NZL),45.0,33.0,22.0,19.0,2.75,2.15,3.75,2.6,2,1,2,1,1
+Wellington Olympic,Western Suburbs,61.0,28.0,12.0,16.0,2.79,1.33,4.5,7.0,3,2,4,0,1
+Canberra Olympic,Cooma Tigers,18.0,21.0,61.0,11.0,3.89,3.0,4.2,1.83,2,3,4,2,1
+FC Anyang,Ansan Greeners,47.0,35.0,18.0,23.0,2.23,1.67,3.7,4.5,2,0,1,1,0
+Shimizu S-Pulse,Kawasaki Frontale,16.0,45.0,39.0,20.0,3.08,4.5,3.8,1.75,2,2,0,2,2
+Sanfrecce,Kashima Antlers,21.0,29.0,50.0,24.0,2.56,2.9,3.3,2.45,0,3,3,0,1
+Busan Kyotong,Daejeon Korail,28.0,40.0,32.0,27.0,2.4,2.3,2.9,3.0,0,0,4,3,1
+Canberra Olympic,Cooma Tigers,22.0,35.0,43.0,11.0,4.29,3.0,4.2,1.83,1,2,4,2,1
+Avondale FC,Heidelberg United,46.0,23.0,31.0,14.0,3.02,1.57,3.6,4.5,3,1,1,3,2
+Yokohama Marinos,Nagoya Grampus,47.0,37.0,16.0,23.0,1.66,1.95,3.4,4.0,1,0,2,1,1
+Gold Coast Knights,Gold Coast Utd,48.0,31.0,21.0,23.0,2.58,1.65,4.33,3.6,2,1,1,0,1
+Dandenong City,South Melbourne,17.0,24.0,59.0,13.0,2.4,7.5,4.5,1.33,0,2,0,1,2
+Consadole Sapporo,Kyoto Sanga,19.0,47.0,33.0,17.0,1.91,1.91,3.5,4.0,0,0,1,0,1
+Sydney Olympic,Mt Druitt Rangers,37.0,36.0,27.0,17.0,3.55,1.5,4.0,5.0,3,1,4,0,1
+Cockburn City,Armadale SC,43.0,34.0,22.0,16.0,3.08,2.05,4.0,2.7,3,1,2,2,0
+Bayswater City,Floreat Athena,31.0,33.0,36.0,12.0,3.83,3.3,4.0,1.75,2,3,6,1,1
+Gwangju FC,Seoul E-Land,58.0,28.0,14.0,21.0,2.7,2.1,3.25,3.25,2,1,1,0,1
+Jimma Aba Jifar,Arba Minch Kenema,21.0,43.0,35.0,25.0,2.42,4.75,2.9,1.8,0,0,2,1,1
+Port Melbourne SC,Bentleigh Greens,33.0,31.0,36.0,14.0,3.11,2.15,3.25,2.88,1,2,3,1,1
+Tainan City,Tatung FC,45.0,23.0,32.0,30.0,4.07,1.25,5.0,8.5,3,2,2,0,1
+Monaro Panthers,Woden Valley,42.0,35.0,23.0,9.0,2.9,1.57,4.2,4.2,2,1,1,0,1
+Avispa Fukuoka,Shonan Bellmare,49.0,31.0,19.0,24.0,2.25,2.3,3.1,3.4,2,0,0,0,0
+Altona Magic SC,Melbourne Knights,26.0,31.0,43.0,14.0,2.67,2.2,3.3,2.88,1,2,1,0,1
+Peninsula Power,Moreton Bay Utd,77.0,14.0,9.0,21.0,4.6,1.33,5.0,6.0,3,2,0,2,2
+Yangju Citizen,Gyeongju KHNP,20.0,18.0,62.0,21.0,2.92,5.0,4.0,1.5,0,5,1,0,1
+CS Metaloglobus,Viitorul Selimbar,46.0,23.0,31.0,13.0,2.25,2.1,3.1,3.25,2,0,1,1,0
+Viitorul Tg. Jiu,Ripensia Timisoara,38.0,37.0,25.0,15.0,2.4,2.3,3.1,2.9,2,0,0,2,2
+Unirea Dej,SCM Gloria Buzau,26.0,24.0,50.0,13.0,1.0,2.7,3.1,2.4,0,1,3,0,1
+Mara Sugar,Naivas,46.0,26.0,29.0,15.0,1.25,2.5,3.2,2.5,1,0,1,1,0
+MFK Vyskov,Jihlava,21.0,32.0,47.0,12.0,2.5,1.91,3.1,3.75,1,2,2,1,1
+Capalaba,Logan Lightning,25.0,30.0,45.0,21.0,4.67,3.25,4.0,1.8,1,3,2,2,0
+Loko Vltavin,Banik Sokolov,49.0,14.0,38.0,13.0,2.83,1.25,5.75,7.0,2,1,4,1,1
+FK Přepeře,FK Chlumec,53.0,23.0,25.0,14.0,3.0,1.5,4.2,4.75,3,2,2,4,2
+Thunder SC,Hume City FC,59.0,22.0,18.0,13.0,2.54,1.8,3.5,3.8,3,0,3,3,0
+QLD Lions,Olympic FC QLD,37.0,29.0,34.0,18.0,3.43,2.0,4.0,2.75,3,2,3,1,1
+Tanjong Pagar Utd,Albirex Niigata (S),13.0,57.0,29.0,25.0,3.61,5.0,4.33,1.45,2,2,1,2,2
+Bucheon FC 1995,Jeonnam Dragons,53.0,26.0,22.0,19.0,2.21,1.7,3.6,4.75,2,0,2,1,1
+Sydney FC,Melbourne Victory,23.0,33.0,44.0,13.0,3.09,2.8,3.6,2.38,1,3,1,4,2
+CC Mariners,Newcastle Jets,48.0,31.0,21.0,11.0,2.77,2.2,3.4,3.3,2,1,2,0,1
+Muktijoddha SKC,Bashundhara Kings,7.0,17.0,76.0,31.0,3.1,11.0,5.5,1.18,1,3,2,3,2
+Rahmatganj MFS,Abahani Dhaka,9.0,32.0,59.0,31.0,3.05,6.0,4.0,1.45,1,3,1,2,2
+Sheikh Russel KC,Saif SC,19.0,37.0,43.0,31.0,2.93,3.3,3.0,2.1,1,2,0,1,2
+Politehnica Iasi,ASU Poli,40.0,23.0,37.0,20.0,3.0,1.7,3.6,4.2,2,1,3,1,1
+CD Mafra,Leixões SC,31.0,41.0,29.0,23.0,2.0,2.0,3.3,3.3,1,1,0,2,2
+FC Penafiel,FC Porto B,43.0,37.0,19.0,23.0,2.28,2.3,3.25,2.88,2,0,1,2,2
+FK Kyzylzhar,FK Taraz,20.0,33.0,47.0,11.0,2.08,2.0,3.0,3.6,0,1,1,1,0
+Ethiopian Coffee,Dire Dawa Kenema,39.0,37.0,23.0,24.0,2.13,2.2,2.8,3.3,1,0,2,1,1
+1. FC Koln II,VfB Homberg,52.0,26.0,22.0,21.0,3.13,1.53,3.75,5.5,3,1,2,1,1
+Stal Rzeszow,Motor Lublin,38.0,32.0,30.0,19.0,3.34,2.05,3.25,3.2,3,1,1,1,0
+Rayon Sports,Gicumbi,62.0,30.0,8.0,15.0,2.24,1.5,3.5,6.0,1,0,2,2,0
+GKS Tychy,Puszcza,33.0,41.0,27.0,16.0,1.96,2.15,3.2,3.2,1,1,3,1,1
+HB Køge,Esbjerg fB,48.0,33.0,19.0,15.0,2.02,2.3,3.4,3.0,1,0,2,1,1
+Celtic FC,Hearts FC,53.0,25.0,22.0,14.0,3.56,1.3,5.5,10.0,3,1,4,1,1
+Brommapojkarna,Trelleborgs FF,38.0,37.0,24.0,7.0,3.33,2.0,3.5,3.2,3,1,4,2,1
+Lindome GIF,Falkenbergs FF,35.0,28.0,37.0,13.0,1.63,4.33,4.0,1.57,0,1,1,0,1
+MSK Zilina B,Sport Podbrezova,20.0,22.0,58.0,15.0,3.4,5.0,5.0,1.4,1,3,3,5,2
+Carl Zeiss Jena,Tennis Borussia Berlin,44.0,23.0,33.0,20.0,4.5,1.44,4.0,6.5,3,2,2,1,1
+Bournemouth,Millwall,37.0,39.0,24.0,18.0,2.28,1.91,3.3,3.8,1,1,1,0,1
+Birmingham City,Blackburn Rovers,27.0,34.0,39.0,17.0,3.72,2.8,3.3,2.45,1,3,1,2,2
+Derby County,Cardiff City,37.0,33.0,29.0,17.0,2.78,2.25,3.4,3.1,2,1,0,1,2
+Huddersfield,Bristol City,48.0,27.0,25.0,14.0,3.0,1.91,3.5,4.0,2,1,2,0,1
+Hull City,Nottingham Forest,31.0,18.0,51.0,14.0,1.99,5.0,3.5,1.73,0,1,1,1,0
+CS Emelec,Mushuc Runa,61.0,25.0,14.0,23.0,3.39,1.4,4.33,6.5,2,1,4,0,1
+CF Monterrey,Atlético San Luis,35.0,39.0,26.0,27.0,2.29,1.6,3.6,5.0,1,1,2,2,0
+Jaguares,Ind. Medellin,26.0,33.0,41.0,33.0,2.66,3.0,3.0,2.3,1,2,3,0,1
+San Jose Earthquakes,Colorado Rapids,38.0,37.0,25.0,11.0,3.42,2.6,3.5,2.63,3,1,1,0,1
+Saprissa,ADR Jicaral,48.0,34.0,17.0,16.0,2.49,1.5,3.75,5.5,2,0,3,1,1
+Orange County SC,Oakland Roots,39.0,44.0,17.0,18.0,1.63,2.1,3.2,3.1,1,1,2,2,0
+Santa Ana,Puntarenas,27.0,23.0,50.0,21.0,3.34,2.2,3.25,2.8,1,2,0,5,2
+Napier City Rovers,Waterside Karori,16.0,41.0,44.0,16.0,3.0,2.5,4.0,2.15,2,3,2,0,1
+Los Angeles FC,Philadelphia Union,44.0,34.0,23.0,17.0,3.54,1.7,4.0,4.75,3,1,2,2,0
+Blaublitz Akita,Yokohama FC,28.0,33.0,39.0,15.0,1.25,4.33,3.3,1.91,0,1,1,0,1
+Roasso Kumamoto,Ryukyu,38.0,34.0,28.0,25.0,1.13,2.15,3.1,3.3,1,0,0,2,2
+Broadmeadow,Valentine Phoenix,64.0,16.0,20.0,20.0,3.64,1.3,5.25,7.0,3,0,4,1,1
+Weston Bears,Charlestown City,23.0,26.0,51.0,16.0,2.67,3.3,4.0,1.83,1,2,2,3,2
+Gangwon FC,Ulsan Hyundai,15.0,28.0,57.0,17.0,2.6,4.5,3.4,1.85,1,2,1,3,2
+Gamba Osaka,Vissel Kobe,36.0,41.0,23.0,18.0,1.84,3.5,3.5,2.1,1,1,2,0,1
+Montedio Yamagata,Oita Trinita,39.0,34.0,27.0,16.0,2.27,2.05,3.25,3.5,2,0,1,1,0
+Mito HollyHock,Machida Zelvia,35.0,36.0,29.0,21.0,2.1,3.75,3.5,2.05,1,1,0,0,0
+Thespakusatsu,Tokushima Vortis,22.0,37.0,41.0,21.0,2.75,4.5,3.2,1.95,1,2,0,0,0
+Albirex Niigata,Tokyo Verdy,41.0,42.0,16.0,16.0,2.2,1.83,3.4,4.0,1,1,4,3,1
+Zweigen Kanazawa,Renofa Yamaguchi,34.0,35.0,32.0,20.0,3.13,2.2,3.4,3.25,2,2,1,0,1
+V-Varen Nagasaki,Vegalta Sendai,41.0,18.0,42.0,25.0,2.0,2.05,3.4,3.75,0,1,0,2,2
+Daegu FC,Suwon Bluewings,29.0,42.0,30.0,20.0,2.29,2.3,3.25,3.2,1,1,3,0,1
+Brisbane City,Eastern Suburbs,22.0,29.0,49.0,22.0,3.93,2.7,4.0,2.05,1,2,2,1,1
+Canberra FC,Belconnen United,51.0,19.0,30.0,16.0,3.21,1.4,5.0,5.25,2,1,2,0,1
+Gungahlin United,O'Connor Knights,39.0,32.0,30.0,16.0,1.25,1.91,3.8,3.1,1,0,2,3,2
+FC Tokyo,Sagan Tosu,30.0,50.0,20.0,20.0,2.26,2.2,3.2,3.5,1,1,0,1,2
+JEF United Chiba,Fagiano Okayama,23.0,31.0,47.0,20.0,2.1,2.3,2.88,3.6,0,1,1,0,1
+Paju Citizen,Cheongju FC,26.0,49.0,25.0,18.0,2.38,2.38,3.0,2.8,1,1,0,0,0
+Cheonan City,Siheung Citizen,30.0,32.0,38.0,19.0,1.5,1.91,3.2,3.6,0,1,1,2,2
+Macarthur FC,WS Wanderers,45.0,33.0,22.0,19.0,2.78,2.45,3.6,2.7,2,1,1,1,0
+Edgeworth Eagles,Newcastle Olympic,27.0,26.0,46.0,20.0,1.97,1.83,4.0,3.3,0,1,2,0,1
+Kashiwa Reysol,Urawa Red Diamonds,49.0,24.0,26.0,19.0,2.89,3.4,3.3,2.2,2,1,0,0,0
+Tochigi SC,Ventforet Kofu,19.0,32.0,49.0,19.0,2.37,4.0,2.88,2.2,0,2,0,0,0
+Gwelup Croatia SC,Stirling Lions,24.0,28.0,48.0,24.0,1.5,3.3,4.0,1.75,0,1,0,1,2
+Sebeta Kenema,Awassa Kenema,34.0,21.0,45.0,23.0,3.38,3.25,2.75,2.25,1,2,0,0,0
+FC Seoul,Suwon FC,44.0,38.0,18.0,17.0,2.58,2.38,3.1,3.25,2,1,3,1,1
+Incheon United,Jeonbuk Hyundai M.,27.0,43.0,31.0,17.0,2.4,3.4,3.0,2.3,1,1,0,1,2
+Sunshine Coast,Brisbane Roar U21,42.0,32.0,26.0,19.0,3.44,1.95,4.0,2.9,3,1,2,2,0
+Ulsan Citizen,Gimhae City,29.0,35.0,37.0,17.0,1.08,2.5,3.0,2.63,0,1,1,4,2
+Shabana,Silibwet,44.0,34.0,22.0,15.0,1.54,1.67,3.75,4.0,1,0,1,0,1
+Taichung Futuro,Ming Chuan University,55.0,25.0,20.0,28.0,3.25,1.25,5.5,7.5,2,1,4,0,1
+Viktoria Zizkov,SK Prostějov,29.0,30.0,40.0,14.0,2.54,2.6,3.4,2.3,1,2,1,1,0
+Admira Praha,Karlovy Vary,40.0,26.0,35.0,13.0,3.0,1.57,4.0,4.5,2,1,1,1,0
+Slavia Praha B,Motorlet Praha,44.0,24.0,32.0,14.0,2.5,1.8,3.75,3.4,2,1,4,0,1
+Znojmo,Hlucin,29.0,30.0,41.0,13.0,2.3,2.5,3.6,2.3,0,2,0,7,2
+SK Unicov,Frydek-Mistek,35.0,32.0,33.0,13.0,2.62,1.57,4.0,4.5,2,1,2,2,0
+FK Blansko,Sigma Olomouc B,19.0,27.0,53.0,13.0,2.9,7.0,5.0,1.3,1,2,0,3,2
+Vysocina Jihlava B,Banik Ostrava B,18.0,14.0,68.0,11.0,3.03,6.0,5.0,1.33,1,3,1,4,2
+Velke Mezirici,H. Slavia Kromeriz,33.0,25.0,42.0,12.0,3.63,4.0,4.0,1.62,1,3,3,1,1
+Adelaide United,Western United,35.0,37.0,28.0,16.0,2.28,2.38,3.6,2.8,1,1,2,1,1
+Austria Lustenau,SKN St. Pölten,49.0,27.0,24.0,12.0,2.54,1.8,3.5,3.6,2,1,3,0,1
+Sydney U21,Rockdale City Suns,34.0,30.0,37.0,18.0,3.69,2.25,4.0,2.4,2,3,3,4,2
+Viktoria Plzen B,Pribram B,43.0,21.0,36.0,12.0,2.45,1.5,4.2,4.75,2,0,6,0,1
+FK Zlin B,ČSK Uherský Brod,36.0,29.0,35.0,13.0,3.25,2.25,3.5,2.63,3,1,5,0,1
+Akzhayik Oral,FK Maktaaral,43.0,36.0,22.0,14.0,1.84,2.0,3.1,3.4,1,0,0,0,0
+CSA Steaua,Unirea Slobozia,29.0,45.0,26.0,12.0,2.2,1.67,3.3,4.75,1,1,2,0,1
+Muhoroni FC,Zoo Kericho,25.0,40.0,35.0,19.0,1.92,2.3,3.2,2.75,1,1,1,0,1
+Tampines Rovers,Balestier Khalsa,53.0,29.0,19.0,30.0,3.85,1.4,4.75,5.25,3,1,2,1,1
+Levadia II Tallinn,FC Elva,63.0,20.0,17.0,8.0,4.19,1.57,4.33,4.0,3,0,3,1,1
+MSC Limited Dhaka,Abahani Chittagong,33.0,42.0,25.0,35.0,2.18,2.6,2.75,2.7,1,1,3,3,0
+Jeju United,Sangju Sangmu,28.0,46.0,27.0,18.0,2.1,2.38,3.1,3.25,1,1,3,1,1
+Pohang Steelers,Seongnam FC,55.0,26.0,19.0,12.0,2.87,2.2,3.1,3.6,2,1,1,0,1
+GBK Kokkola,FC Vaajakoski,24.0,22.0,54.0,6.0,3.39,3.6,4.0,1.7,1,3,1,3,2
+Kedus Giorgis,Adama Kenema,39.0,49.0,12.0,26.0,1.04,1.5,3.4,6.5,1,1,1,0,1
+Alianza Petrolera,Once Caldas,31.0,46.0,23.0,24.0,1.88,2.38,3.1,2.75,1,1,2,0,1
+Sidama Bunna,Fasil Kenema,31.0,38.0,30.0,24.0,2.43,3.75,2.88,2.0,1,1,0,1,2
+Melbourne City,Wellington Phoenix,46.0,22.0,32.0,11.0,3.3,1.5,4.33,6.0,3,1,2,1,1
+Daejeon Citizen,GimPo Citizen,68.0,19.0,12.0,22.0,3.0,1.67,3.7,4.5,2,1,4,4,0
+Busan I'Park,Asan Mugunghwa,22.0,35.0,43.0,19.0,2.61,2.63,3.2,2.5,1,2,3,1,1
+FK Baykonur,Kairat Almaty Akademiya,23.0,19.0,58.0,28.0,3.25,4.0,3.8,1.67,1,2,0,2,2
+Pyunik FC,Van Yerevan,57.0,33.0,10.0,19.0,2.21,1.29,5.0,7.0,1,0,2,0,1
+Wazito FC,Nairobi City Stars,29.0,22.0,49.0,25.0,2.63,3.4,2.88,2.1,1,2,0,1,2
+FK Istaravshan,CSKA Pamir,20.0,36.0,44.0,18.0,1.56,2.63,3.1,2.45,0,1,1,2,2
+Selangor 2,Kelantan United,38.0,29.0,33.0,32.0,2.42,2.4,3.25,2.7,2,0,1,1,0
+Teraktor Sazi,Sorkhpooshan Pakdasht,18.0,36.0,46.0,17.0,1.17,2.3,2.6,3.4,0,1,3,2,1
+Teplice B,Mlada Boleslav B,31.0,33.0,36.0,18.0,2.75,2.05,3.75,2.88,2,3,1,0,1
+Wolkite Ketema,Addis Ababa Ketema,46.0,30.0,24.0,22.0,2.0,2.5,2.75,2.88,1,0,1,1,0
+Sumqayit FK,Keshla FK,28.0,34.0,38.0,14.0,3.22,2.3,3.2,2.75,2,3,2,0,1
+Zob Ahan,Persepolis FC,24.0,28.0,48.0,22.0,2.3,5.5,2.88,1.7,0,2,1,1,0
+Baladiyyat Al Mahalla,Kafr Al Sheikh,35.0,45.0,20.0,22.0,0.96,2.15,2.88,3.3,1,1,1,0,1
+El Hamam,Abu Qair Lel Asmeda,19.0,46.0,35.0,21.0,1.88,3.0,2.75,2.4,1,1,1,0,1
+Tersana Giza,Itesalat,29.0,45.0,26.0,33.0,2.38,1.91,2.9,4.0,1,1,1,1,0
+Wadi Degla SC,Merrikh SC (EGY),33.0,43.0,24.0,33.0,3.0,1.5,3.6,5.75,2,2,2,1,1
+Sekka Al Hadid,Porto El Sokhna,45.0,27.0,28.0,33.0,2.96,2.1,2.9,3.4,2,1,1,3,2
+Beni Suef SC,Petrol Asyut,24.0,42.0,34.0,27.0,2.1,2.3,3.0,2.9,1,1,2,1,1
+NEROCA FC,Churchill Brothers,31.0,24.0,46.0,24.0,2.43,3.4,3.3,1.95,0,2,1,3,2
+Paykan FC,Sepahan Esfahan,15.0,41.0,44.0,22.0,2.96,5.0,2.8,1.8,1,2,0,1,2
+Wihdat Amman,Ma'an SC,42.0,43.0,15.0,27.0,2.25,1.17,6.5,12.0,1,1,3,0,1
+Petrolul Ploiesti,Concordia Chiajna,50.0,29.0,21.0,21.0,2.46,1.55,3.6,5.5,2,0,2,0,1
+Dinamo Tirana,Skenderbeu,32.0,39.0,30.0,23.0,1.85,2.1,3.0,3.3,1,1,1,1,0
+Teuta Durres,Egnatia Rrogozhine,41.0,37.0,22.0,23.0,2.23,1.8,3.25,4.0,1,0,3,1,1
+Accra Lions FC,All Stars FC,43.0,29.0,28.0,29.0,1.63,1.83,3.3,3.75,1,0,1,0,1
+Valmieras FK,BFC Daugavpils,49.0,24.0,27.0,11.0,3.29,1.22,5.25,9.0,3,1,1,0,1
+Cukaricki Belgrade,FK Vozdovac,35.0,41.0,25.0,24.0,2.17,1.95,3.4,3.4,1,1,0,0,0
+Ararat-Armenia,FC Noah,47.0,39.0,15.0,14.0,2.63,1.57,3.6,5.25,2,1,0,1,2
+Gol Gohar,Aluminium Arak,32.0,52.0,15.0,21.0,2.21,1.95,2.8,4.2,1,1,2,0,1
+TPS Turku,PIF Parainen,41.0,31.0,28.0,10.0,1.75,1.2,5.5,12.0,1,0,0,2,2
+Klubi 04,SalPa Salo,49.0,23.0,27.0,10.0,2.61,1.6,4.2,4.0,2,1,3,1,1
+Gabala FC,Neftchi Baku,22.0,36.0,42.0,14.0,2.32,2.8,3.3,2.2,0,2,1,0,1
+Al Jeel,Al Ain (KSA),29.0,44.0,27.0,31.0,2.23,2.55,2.9,2.7,1,1,2,3,2
+Al Nahdha (KSA),Al Shualah,30.0,47.0,23.0,28.0,2.2,2.63,2.88,2.63,1,1,1,3,2
+Gornik Leczna,Nieciecza KS,29.0,38.0,34.0,16.0,2.3,2.5,3.5,2.6,1,1,1,1,0
+Anorthosis FC,Pafos FC,38.0,33.0,29.0,21.0,2.37,2.0,3.1,3.6,2,0,1,0,1
+Doxa Katokopia,Ethnikos Achnas,31.0,40.0,30.0,21.0,2.18,2.25,3.1,3.0,1,1,2,1,1
+Zaglebie Sosnowiec,Sandecja,30.0,36.0,34.0,18.0,2.91,2.38,3.1,2.9,2,2,3,3,0
+Ranheim Fotball,Stabaek,23.0,40.0,37.0,11.0,3.58,3.0,3.5,2.3,2,2,0,1,2
+KFUM Oslo,SK Brann,46.0,32.0,22.0,15.0,2.38,3.25,3.5,2.1,2,0,1,5,2
+Raufoss IL,Bryne FK,40.0,32.0,28.0,15.0,3.25,1.85,3.6,4.2,2,1,2,0,1
+Sandnes Ulf,Fredrikstad FK,48.0,29.0,24.0,11.0,3.54,2.45,3.5,2.8,2,1,0,4,2
+Sogndal,Kongsvinger,49.0,33.0,18.0,14.0,3.09,1.6,4.2,5.25,2,1,2,1,1
+Nõmme United,Paide II,19.0,17.0,64.0,9.0,4.23,5.25,4.75,1.4,1,3,1,3,2
+Lys Sassandra,USC Bassam,28.0,40.0,31.0,27.0,1.42,2.1,2.7,3.75,1,1,2,1,1
+FK Riteriai,FA Siauliai,34.0,30.0,36.0,12.0,1.57,1.7,3.0,5.25,0,1,2,1,1
+Young Africans,Tanzania Prisons,63.0,24.0,13.0,27.0,1.78,1.22,4.75,12.0,1,0,0,0,0
+Esteghlal Tehran,Padideh Shandiz,55.0,36.0,9.0,21.0,1.77,1.22,4.5,13.0,1,0,1,0,1
+Pharco FC,FC Coca Cola,19.0,34.0,48.0,24.0,1.2,4.33,3.0,1.83,0,2,1,0,1
+Sanat Naft AC,Foolad Khuzestan,23.0,41.0,36.0,32.0,3.11,3.25,2.55,2.4,2,2,0,1,2
+Antalyaspor,Konyaspor,30.0,36.0,34.0,20.0,2.15,2.7,3.25,2.63,0,0,3,2,1
+Helsingborg,Norrköping,31.0,32.0,37.0,15.0,2.67,3.5,3.5,2.0,1,2,0,1,2
+IFK Värnamo,BK Häcken,15.0,37.0,47.0,18.0,2.0,3.4,3.5,2.05,0,2,1,2,2
+GIF Sundsvall,Degerfors IF,49.0,24.0,27.0,12.0,2.61,2.15,3.75,3.0,2,1,2,3,2
+Viborg FF,Vejle BK,47.0,35.0,19.0,18.0,2.41,1.62,3.8,5.25,2,0,2,2,0
+Hapoel Haifa,FC Ashdod,33.0,32.0,35.0,20.0,2.46,2.55,3.3,2.5,0,2,1,2,2
+Örebro SK,Östersunds FK,39.0,38.0,23.0,16.0,2.7,1.8,3.5,3.6,2,1,1,0,1
+Skovde AIK,Halmstads BK,32.0,27.0,40.0,17.0,1.88,3.1,3.3,2.05,0,1,1,3,2
+Gagra Tbilisi,Lokomotivi Tbilisi,59.0,24.0,17.0,12.0,2.43,1.8,3.4,3.8,2,0,5,3,1
+Valerenga 2,Frigg Oslo FK,48.0,22.0,30.0,15.0,3.5,1.8,4.0,3.25,3,2,4,1,1
+Al Aqaba SC,Shabab Al Urdun,25.0,47.0,28.0,32.0,1.94,2.38,2.88,2.9,1,1,1,1,0
+IF Elfsborg,Djurgårdens IF,44.0,33.0,23.0,15.0,2.94,2.1,3.6,3.2,2,1,0,0,0
+Rapid Bucuresti,FC U Craiova 1948,38.0,37.0,25.0,21.0,3.21,2.0,2.9,4.0,2,1,2,3,2
+FC Trollhättan,Qviding FIF,41.0,39.0,20.0,16.0,2.33,1.65,3.75,4.2,1,0,2,1,1
+Vllaznia Shkodër,FK Kukesi,31.0,47.0,22.0,24.0,1.86,2.0,3.1,3.4,1,1,2,1,1
+De Graafschap,FC Eindhoven,35.0,19.0,46.0,23.0,4.1,2.05,3.6,3.4,2,3,1,1,0
+Diosgyori VTK,Soroksar,39.0,35.0,26.0,15.0,2.38,1.44,4.5,5.0,2,0,1,0,1
+Crystal Palace U21,Derby U23s,65.0,14.0,21.0,21.0,4.67,1.62,4.33,3.8,3,0,3,1,1
+FC Aarau,Stade Lausanne Ouchy,55.0,24.0,21.0,21.0,3.61,1.57,4.33,5.25,3,1,2,1,1
+FC Wil,FC Winterthur,29.0,32.0,39.0,19.0,3.36,2.63,3.75,2.4,1,3,1,1,0
+Argentino Quilmes,Deportivo Armenio,23.0,37.0,40.0,21.0,2.57,2.6,2.88,2.63,1,2,1,1,0
+Def. de Cambaceres,Central Ballester,54.0,27.0,19.0,21.0,2.48,2.0,2.88,3.75,2,0,5,0,1
+Sheffield Wednesday,Sunderland,36.0,34.0,31.0,17.0,2.38,2.15,3.4,3.4,2,0,1,1,0
+Fiorentina,AS Roma,32.0,31.0,36.0,17.0,2.85,2.45,3.3,2.8,1,2,2,0,1
+Derry City,St Patricks Dublin,36.0,35.0,29.0,13.0,2.57,1.75,3.6,3.75,2,1,0,0,0
+Girona FC,CD Tenerife,32.0,36.0,31.0,18.0,2.42,2.25,3.2,3.25,1,1,0,1,2
+Shamrock Rovers,Sligo Rovers,48.0,32.0,21.0,15.0,2.26,1.29,4.75,8.5,1,0,3,1,1
+Boyacá Chicó,Leones,34.0,35.0,31.0,11.0,1.54,1.8,3.2,4.1,1,1,1,1,0
+Brisbane Roar,Sydney FC,27.0,35.0,37.0,21.0,2.36,2.63,3.5,2.55,0,2,3,1,1
+Perth Glory Youth,Bayswater City,32.0,27.0,41.0,7.0,3.33,1.83,4.33,3.0,2,3,2,2,0
+Rajasthan United,Mohammedan SC,19.0,27.0,54.0,43.0,2.0,2.88,3.1,2.25,0,1,0,2,2
+Kuala Lumpur,Penang FA,41.0,28.0,31.0,34.0,2.38,1.7,3.5,4.5,2,0,3,2,1
+Petaling Jaya CFC,Kedah FA,32.0,21.0,47.0,31.0,4.0,2.75,3.4,2.15,2,3,3,3,0
+Mbeya City,Azam,29.0,32.0,39.0,21.0,1.92,2.75,2.7,2.7,0,2,2,1,1
+FK Tukums 2000,FK Auda,17.0,29.0,54.0,16.0,2.98,8.0,4.75,1.29,1,2,2,1,1
+12 de Octubre,Nacional Asunción,25.0,38.0,37.0,17.0,1.83,2.9,3.0,2.3,0,0,1,2,2
+FC Bunyodkor,Metallurg Bekabad,52.0,31.0,17.0,21.0,2.83,1.55,3.5,5.25,2,1,1,1,0
+Neftchi Fergana,FK Olympic,27.0,34.0,39.0,26.0,1.63,1.75,3.2,4.33,0,2,0,0,0
+Al Oruba (UAE),Baniyas,14.0,35.0,51.0,36.0,2.83,4.5,3.75,1.62,0,3,2,1,1
+Ajman Club,Wahda Abu Dhabi,22.0,23.0,55.0,30.0,4.98,4.2,3.75,1.67,1,3,2,2,0
+Petrojet Suez,FC Masr,49.0,32.0,18.0,30.0,1.79,2.0,3.0,3.6,2,0,0,0,0
+Qena,Faiyum,23.0,34.0,43.0,37.0,2.04,3.6,3.2,1.91,0,1,3,3,0
+Telefonat Beni Suef,Aluminium Nag Hammadi,28.0,30.0,42.0,28.0,2.93,3.75,3.1,1.91,1,2,2,1,1
+El Madina El Monowara,Suhag,40.0,26.0,34.0,36.0,2.75,1.8,2.8,5.0,2,1,1,2,2
+Gokulam FC,Sreenidi Deccan,59.0,21.0,20.0,26.0,3.0,1.67,3.5,4.33,2,1,1,3,2
+CR Belouizdad,RC Arbaa,50.0,31.0,19.0,20.0,2.66,1.2,6.0,13.0,2,1,1,1,0
+FK Liepaja,Spartaks Jurmala,69.0,15.0,16.0,15.0,3.08,1.07,9.5,29.0,3,0,0,0,0
+Arman Gahar,Pars Jonoubi Jam,38.0,37.0,25.0,21.0,2.42,1.91,2.8,4.33,2,0,2,1,1
+Machine Sazi,Kheybar Khorramabad,12.0,32.0,56.0,15.0,2.88,9.0,5.0,1.25,2,3,0,3,2
+Rayka Babol,Mes Kerman,21.0,31.0,48.0,19.0,1.73,7.0,3.1,1.55,0,1,0,0,0
+Vista Toorbin,Shahrdari Astara,43.0,39.0,17.0,23.0,1.5,2.0,2.6,4.33,1,0,1,0,1
+Al Seeb SC,Mussanah Club,45.0,29.0,27.0,31.0,2.06,1.44,3.75,6.5,1,0,0,0,0
+Oman Club,Sohar Club,29.0,40.0,31.0,31.0,2.08,2.7,2.8,2.6,1,1,1,3,2
+Dhofar Salalah,Nasr Salalah,37.0,42.0,21.0,28.0,2.1,1.8,3.1,4.2,1,1,0,1,2
+Qadisiya Khubar,Al Oruba (KSA),36.0,35.0,29.0,30.0,3.8,2.0,3.0,3.6,2,1,1,0,1
+Supernova Riga,Riga FC,18.0,23.0,59.0,16.0,3.37,10.0,6.5,1.17,1,3,1,4,2
+FC Kiffen,NJS Nurmijärvi,40.0,24.0,36.0,10.0,2.17,1.73,4.0,3.5,2,0,3,0,1
+Sitra Club,Budaiya,42.0,25.0,33.0,28.0,3.27,3.25,3.0,2.1,2,1,1,1,0
+Malkiya,Al Hidd Club,28.0,38.0,34.0,28.0,2.4,3.25,3.0,2.1,1,1,1,3,2
+Greuther Furth II,Unterhaching,21.0,26.0,53.0,24.0,2.83,2.88,3.75,2.05,0,3,2,0,1
+Bisha FC,Hajer Club,17.0,42.0,41.0,34.0,0.75,5.25,2.9,1.73,0,0,1,2,2
+Al Kholood Club,Al Dir'iya,57.0,32.0,11.0,32.0,3.5,2.2,2.88,3.2,3,1,0,0,0
+Univ Cluj-Napoca,FC Hermannstadt,39.0,29.0,32.0,17.0,2.29,2.25,2.8,3.3,2,0,1,2,2
+Al Jabalain,Najran SC,33.0,38.0,29.0,31.0,2.3,1.91,2.9,4.0,1,1,2,0,1
+FC Pipinsried,TSV Aubstadt,20.0,23.0,57.0,22.0,4.36,2.6,3.6,2.2,1,3,3,2,1
+NAC Breda,ADO Den Haag,47.0,25.0,28.0,19.0,3.08,2.25,3.5,3.1,3,1,1,2,2
+KV Mechelen,KAA Gent,28.0,26.0,47.0,22.0,2.71,3.8,3.5,1.85,1,2,1,2,2
+Sharjah SC,Khor Fakkan Club,66.0,19.0,15.0,28.0,3.7,1.5,4.0,5.0,2,1,3,1,1
+Valencia CF,Real Betis,28.0,40.0,31.0,23.0,2.03,3.75,3.5,2.0,1,1,0,3,2
+MFK OKD Karvina,Teplice,29.0,36.0,34.0,20.0,2.4,2.7,3.3,2.55,1,1,2,2,0
+FK Jablonec,Bohemians 1905,40.0,37.0,23.0,16.0,2.65,1.73,3.6,4.75,2,1,1,1,0
+Jönköpings Södra,Landskrona BoIS,37.0,28.0,34.0,14.0,2.78,1.95,3.3,3.4,2,1,2,4,2
+Hapoel Tel Aviv,Hapoel Beer Sheva,35.0,28.0,37.0,22.0,2.38,3.75,3.4,1.91,0,2,2,1,1
+Maccabi Haifa,Maccabi Tel Aviv,43.0,22.0,35.0,20.0,1.73,1.91,3.5,3.5,1,0,1,3,2
+Maccabi Netanya,Bnei Sakhnin,36.0,38.0,26.0,21.0,2.14,1.7,3.5,4.5,1,1,3,0,1
+SC Kriens,FC Vaduz,28.0,16.0,56.0,23.0,3.85,3.8,4.0,1.83,1,3,0,1,2
+Neuchâtel Xamax,Yverdon-Sport,45.0,30.0,25.0,20.0,3.18,2.2,3.5,3.1,3,1,1,1,0
+FC Thun,FC Schaffhausen,36.0,26.0,39.0,22.0,2.43,3.0,3.75,2.2,0,2,2,5,2
+Santa Lucia,Valletta FC,31.0,26.0,43.0,18.0,3.06,2.7,3.5,2.2,1,3,0,1,2
+Kayserispor,Trabzonspor,26.0,32.0,42.0,16.0,2.95,3.25,3.3,2.0,1,3,4,2,1
+Al Akhdood,Sahel (KSA),25.0,52.0,23.0,32.0,2.25,2.3,2.8,3.1,1,1,2,1,1
+Granada CF,Athletic Bilbao,23.0,37.0,40.0,25.0,3.21,3.8,3.4,2.0,2,3,1,0,1
+Zrinjski Mostar,Velez Mostar,55.0,26.0,19.0,18.0,2.03,1.3,4.5,8.0,1,0,1,1,0
+FK Sarajevo,FK Zeljeznicar,33.0,42.0,25.0,17.0,1.38,1.65,3.5,4.5,1,1,1,1,0
+Tiradentes/CE,Barbalha/CE,55.0,25.0,20.0,28.0,3.25,3.4,3.3,1.91,3,1,0,0,0
+Inverness CT,Arbroath FC,58.0,22.0,20.0,14.0,1.52,2.15,3.3,3.5,1,0,0,0,0
+BSC Young Boys,St. Gallen,41.0,33.0,26.0,23.0,3.52,1.5,4.5,6.0,3,2,4,1,1
+Edinburgh City,Annan Athletic,43.0,35.0,22.0,14.0,3.25,2.3,3.25,2.7,3,1,2,0,1
+Victoriano Arenas,Deportivo Laferrere,16.0,40.0,44.0,19.0,1.67,3.1,2.9,2.3,0,1,0,0,0
+Claypole,Puerto Nuevo,51.0,38.0,11.0,19.0,1.56,1.75,3.0,5.0,1,0,1,0,1
+CA Atlas,Argentino Merlo,36.0,38.0,26.0,18.0,1.56,2.15,2.9,3.4,1,1,1,1,0
+Liniers,General Lamadrid,29.0,28.0,43.0,18.0,2.38,2.4,2.75,3.1,0,2,4,0,1
+Deportivo Espanol,San Martín Burzaco,45.0,40.0,15.0,18.0,2.0,2.05,2.9,3.7,1,0,4,1,1
+Central Córdoba,El Porvenir,45.0,36.0,18.0,23.0,2.15,1.7,3.25,4.8,2,0,1,0,1
+Dundee FC,Hibernian FC,23.0,32.0,45.0,12.0,2.52,3.8,3.3,2.05,1,2,3,1,1
+Bromley FC,Altrincham,41.0,35.0,24.0,17.0,2.3,2.1,3.5,2.8,2,0,1,1,0
+Grimsby Town,Boreham Wood,34.0,43.0,23.0,18.0,1.76,2.15,3.6,3.46,0,0,1,0,1
+Glentoran Belfast,Glenavon,38.0,27.0,35.0,14.0,2.96,1.5,4.0,5.0,2,1,2,0,1
+Larne FC,Coleraine FC,36.0,34.0,31.0,13.0,2.83,1.7,3.6,4.0,2,1,2,0,1
+Aston Villa,Liverpool,20.0,28.0,52.0,15.0,2.19,7.0,4.75,1.44,0,2,1,2,2
+Racing Genk,Sporting Charleroi,52.0,25.0,23.0,21.0,3.19,1.62,3.75,4.75,3,1,3,2,1
+ES Sétif,RC Relizane,57.0,34.0,9.0,14.0,2.36,1.29,5.0,7.5,2,0,7,0,1
+Zamalek SC,ENPPI Cairo,51.0,35.0,15.0,26.0,1.97,1.55,3.4,6.5,1,0,0,2,2
+FC Barcelona,Celta de Vigo,48.0,28.0,24.0,22.0,2.63,1.36,5.25,8.0,2,1,3,1,1
+CD FAS,Platense (SLV),36.0,40.0,25.0,30.0,2.4,1.73,3.3,4.5,1,1,0,1,2
+Univ de Vinto,Royal Pari,21.0,26.0,53.0,11.0,2.88,2.55,3.5,2.3,1,2,3,2,1
+General Caballero JLM,Sportivo Ameliano,40.0,30.0,31.0,18.0,1.96,2.25,3.0,3.0,1,0,0,3,2
+Excursionistas BsAs,Berazategui,30.0,44.0,25.0,17.0,2.27,2.25,3.0,3.1,1,1,5,0,1
+Ferrocarril Midland,Real Pilar FC,23.0,48.0,28.0,17.0,1.5,2.65,2.9,2.6,1,1,2,0,1
+América Mineiro,CS Alagoano,33.0,42.0,25.0,24.0,1.96,1.67,3.3,7.0,1,1,2,0,1
+Dire Dawa Kenema,Hadiya Hosaena,25.0,36.0,39.0,31.0,2.63,3.1,2.8,2.38,1,2,4,0,1
+Maitland FC,Valentine Phoenix,49.0,22.0,28.0,15.0,3.75,1.29,5.5,7.5,3,2,4,0,1
+Sebeta Kenema,Jimma Aba Jifar,31.0,39.0,29.0,28.0,2.25,2.35,2.9,3.0,1,1,2,1,1
+Cockburn City,Sorrento FC,21.0,38.0,40.0,15.0,3.59,3.4,4.2,1.73,2,3,1,2,2
+Polisi Tanzania,Dodoma Jiji,29.0,50.0,21.0,28.0,2.5,2.2,2.7,3.5,2,2,0,0,0
+Athletic 220,Khovd FC,45.0,31.0,25.0,3.0,1.75,1.11,8.5,17.0,2,0,0,4,2
+Negeri Sembilan,Darul Takzim,26.0,30.0,43.0,29.0,3.13,10.0,6.0,1.18,1,3,0,1,2
+FAM-MSN Project,Perak FA,33.0,29.0,38.0,30.0,1.0,4.0,3.5,1.73,0,1,0,1,2
+Coastal Union,Biashara United,34.0,39.0,27.0,29.0,1.57,2.38,2.63,3.2,1,1,1,0,1
+Adama Kenema,Arba Minch Kenema,23.0,54.0,22.0,31.0,1.88,2.75,2.6,2.75,1,1,0,0,0
+Al Masry,Ghazl Al Mahalla,35.0,38.0,27.0,22.0,1.89,2.2,2.75,3.5,1,1,1,1,0
+Lok. Tashkent,Qoqon FK,57.0,22.0,21.0,25.0,2.19,1.7,3.4,4.33,2,0,1,2,2
+Qyzylqum,FC AGMK,41.0,30.0,29.0,23.0,2.75,3.0,2.75,2.4,2,1,1,4,2
+Dinamo Samarkand,Navbahor,25.0,30.0,45.0,22.0,2.51,4.0,2.9,1.91,1,2,0,1,2
+Al Ahli Dubai,Al Nasr Dubai,41.0,30.0,29.0,32.0,3.14,1.91,3.25,3.5,2,1,1,2,2
+Ittihad Kalba,Emirates Club,39.0,37.0,24.0,35.0,3.2,1.5,4.0,5.0,3,1,3,1,1
+FK Partizan,FK Vojvodina,38.0,41.0,21.0,24.0,2.62,1.13,7.0,17.0,2,2,2,1,1
+FK Tuzla City,Sloboda Tuzla,46.0,41.0,13.0,23.0,1.0,1.57,3.3,6.0,1,0,4,1,1
+Radnik Bijeljina,Leotar Trebinje,27.0,32.0,41.0,24.0,0.88,1.75,3.25,4.2,0,1,1,3,2
+Rudar Prijedor,NK Posusje,36.0,47.0,17.0,25.0,1.75,1.55,3.4,6.5,0,0,0,0,0
+Taborsko,Viktoria Zizkov,47.0,33.0,20.0,24.0,3.23,1.57,4.2,4.33,2,1,1,0,1
+SK Prostějov,FK Varnsdorf,34.0,26.0,40.0,24.0,3.06,2.5,3.1,2.6,1,2,0,4,2
+Jihlava,Pribram,31.0,39.0,29.0,24.0,3.13,2.2,3.4,2.8,2,2,2,1,1
+SK Lisen,Sparta Praha B,27.0,37.0,36.0,25.0,3.0,2.0,3.4,3.2,2,2,1,0,1
+Opava,Usti nad Labem,58.0,30.0,11.0,23.0,3.12,1.36,4.8,6.5,3,0,2,0,1
+MFK Chrudim,1. FC Brno,19.0,21.0,59.0,27.0,2.7,3.4,3.5,1.91,1,2,3,2,1
+Fotbal Trinec,MFK Vyskov,44.0,35.0,22.0,24.0,4.0,1.6,4.2,4.2,3,1,1,0,1
+Dukla Praha,FC Vlasim,32.0,27.0,41.0,26.0,2.5,2.7,3.3,2.3,1,2,1,1,0
+Rigas Futbola skola,FS METTA/LU Riga,60.0,21.0,18.0,18.0,2.93,1.07,9.5,29.0,2,1,3,1,1
+Sokol Brozany,Slovan Liberec B,66.0,18.0,17.0,25.0,1.63,1.57,4.2,4.2,1,0,2,1,1
+PAOK Salonica,Aris Salonica,41.0,31.0,28.0,22.0,2.26,2.0,3.2,4.0,2,0,0,1,2
+Ararat Yerevan,Noravank SC,51.0,30.0,18.0,13.0,2.28,1.67,3.5,4.33,2,0,4,0,1
+FC Urartu,BKMA Yerevan,51.0,33.0,15.0,13.0,3.42,1.62,3.7,4.5,3,1,1,0,1
+Baerum SK,Levanger FK,27.0,36.0,37.0,12.0,3.75,3.25,4.0,1.8,1,3,2,2,0
+Ettifaq FC,Al Hilal Riyadh,17.0,23.0,59.0,31.0,2.94,4.5,4.2,1.53,0,3,0,2,2
+Al Khaleej Club,Jeddah Club,54.0,24.0,22.0,31.0,2.37,1.95,3.1,3.6,2,0,1,1,0
+Randers FC,AaB Aalborg,36.0,22.0,42.0,12.0,3.16,2.25,3.5,3.1,1,3,2,2,0
+SønderjyskE,FC Nordsjælland,26.0,33.0,41.0,11.0,2.25,3.0,3.6,2.25,0,2,1,1,0
+Simba,Kagera Sugar,46.0,37.0,18.0,24.0,2.5,1.29,4.33,9.5,2,1,2,0,1
+Olympique Messira,Douannes de Sikasso,31.0,45.0,24.0,40.0,1.71,2.6,2.6,2.9,1,1,1,2,2
+AEK Athens,PAS Giannina,43.0,36.0,21.0,23.0,2.77,1.4,4.5,8.0,2,1,3,0,1
+Ittihad Alexandria,Semouha Club,29.0,42.0,30.0,22.0,2.08,2.63,2.75,2.8,1,1,2,5,2
+Ohud Medina,Al Kawkab,46.0,33.0,20.0,38.0,2.29,1.73,3.3,4.33,2,0,0,0,0
+Arges Pitesti,FC Voluntari,27.0,32.0,41.0,16.0,2.37,2.3,3.1,2.8,0,1,0,1,2
+FK Crvena Zvezda,FK Novi Pazar,66.0,24.0,10.0,24.0,2.4,1.03,13.0,26.0,1,0,8,0,1
+Bischofswerdaer FV 08,International Leipzig,39.0,32.0,29.0,27.0,2.38,1.44,4.5,5.0,2,0,3,3,0
+Wasl Dubai,Al Dhafra,43.0,32.0,25.0,31.0,3.79,1.6,3.75,4.5,3,2,1,0,1
+Al Ain,Jazira Abu Dhabi,41.0,33.0,26.0,29.0,2.71,1.5,4.0,5.0,3,2,5,0,1
+Deportivo Alavés,RCD Espanyol,36.0,29.0,35.0,24.0,2.19,2.25,3.3,3.25,1,0,2,1,1
+CA Osasuna,Getafe CF,35.0,42.0,23.0,29.0,2.34,2.38,3.0,3.4,0,0,1,1,0
+OGC Nice,AS Saint-Étienne,55.0,23.0,21.0,21.0,2.42,1.57,4.0,5.75,2,0,4,2,1
+AIK Fotboll,Malmö FF,31.0,44.0,25.0,14.0,1.35,2.4,3.2,3.0,1,1,2,0,1
+Molde FK,Odd BK,47.0,31.0,22.0,11.0,3.03,1.45,4.5,6.5,2,1,3,0,1
+Banik Ostrava,Slavia Praha,28.0,26.0,46.0,25.0,3.35,7.0,4.5,1.45,1,3,1,1,0
+Hradec Kralove,Viktoria Plzen,24.0,27.0,49.0,27.0,3.2,5.75,4.0,1.55,1,2,0,2,2
+Sparta Praha,Slovacko,54.0,18.0,27.0,26.0,2.94,1.65,4.0,4.75,2,1,1,2,2
+Borac Banja Luka,Siroki Brijeg,45.0,40.0,15.0,26.0,1.58,1.67,3.1,5.25,1,0,1,1,0
+Cotzumalguapa,Comunicaciones,20.0,29.0,50.0,33.0,3.88,2.6,2.9,2.6,1,2,0,3,2
+Djoliba AC,LC Bamako,55.0,30.0,15.0,40.0,2.38,1.8,2.8,4.75,2,0,2,0,1
+Crucero del Norte,Central Norte Salta,36.0,35.0,29.0,16.0,1.74,2.88,2.75,2.5,1,0,0,2,2
+Barcelona SC,CS Emelec,34.0,35.0,30.0,22.0,1.77,2.1,3.0,3.25,1,1,1,1,0
+Luís Ángel Firpo,Alianza FC,28.0,25.0,46.0,22.0,2.67,4.0,2.88,1.95,1,2,1,2,2
+Cuiabá Esporte,Atlético GO,25.0,46.0,29.0,23.0,1.94,2.1,3.2,3.75,1,1,0,0,0
+CD Marathón,Real España,33.0,27.0,39.0,23.0,3.55,3.0,3.0,2.25,1,3,0,2,2
+CAI de La Chorrera,Tauro FC,37.0,22.0,40.0,25.0,2.63,2.3,2.75,3.2,1,2,1,1,0
+Ind. Santa Fe,Junior Barranquilla,46.0,34.0,20.0,10.0,2.07,2.25,3.2,2.8,1,0,0,1,2
+Isidro Metapán,CD Chalatenango,33.0,41.0,26.0,23.0,2.1,2.2,3.0,3.1,1,1,1,0,1
+Cimarrones Sonora,Monarcas Morelia,31.0,40.0,29.0,22.0,1.75,2.3,3.0,2.88,0,0,0,0,0
+Diriangén FC,Managua FC,43.0,33.0,24.0,25.0,2.8,1.83,3.3,3.8,2,1,0,0,0
+Puebla FC,Club América,19.0,44.0,37.0,21.0,2.49,3.5,3.2,2.2,1,1,1,1,0
+Saprissa,Sporting (CRC),49.0,26.0,24.0,15.0,2.82,1.8,3.5,3.8,2,1,1,0,1
+Kedus Giorgis,Welayta Dicha,44.0,38.0,17.0,19.0,1.75,1.4,3.6,8.5,2,0,0,0,0
+Newcastle Jets,Perth Glory,28.0,39.0,33.0,14.0,3.16,1.57,4.33,5.0,2,2,3,1,1
+Sheikh Jamal DhC,Rahmatganj MFS,55.0,34.0,12.0,30.0,3.85,1.36,4.33,6.5,2,1,1,0,1
+Abahani Dhaka,Sheikh Russel KC,54.0,27.0,19.0,30.0,2.69,1.33,4.5,7.0,2,1,1,1,0
+MSC Limited Dhaka,Saif SC,27.0,37.0,36.0,30.0,3.28,2.2,3.2,2.9,2,2,1,3,2
+KMC,Mtibwa Sugar,25.0,46.0,29.0,30.0,1.89,2.05,2.8,3.75,1,1,3,2,1
+FK Khujand,Ravshan Kulob,37.0,30.0,33.0,31.0,2.52,1.36,4.33,6.5,2,1,0,0,0
+FK Khatlon,Istiklol Dushanbe,55.0,24.0,20.0,32.0,2.22,7.5,4.75,1.3,2,0,1,1,0
+FC Saburtalo,Dinamo Batumi,31.0,34.0,35.0,18.0,2.13,4.0,3.5,1.73,0,2,0,0,0
+Arnavutköy Bld.,Bursa Yıldırımspor,40.0,18.0,42.0,18.0,2.38,2.15,3.0,3.2,0,2,3,1,1
+Ofspor,Fethiyespor,32.0,37.0,31.0,12.0,3.6,2.3,3.1,2.8,2,2,1,1,0
+Ethiopian Coffee,Wolkite Ketema,33.0,42.0,24.0,21.0,2.25,2.35,2.8,3.1,1,1,4,3,1
+Pakhtakor,Surkhon,57.0,35.0,9.0,26.0,2.34,1.1,8.5,15.0,2,0,2,2,0
+Sogdiana Jizzakh,Nasaf Qarshi,32.0,33.0,35.0,27.0,2.33,2.38,2.88,2.9,0,2,1,2,2
+FC Lahti,HJK Helsinki,15.0,17.0,68.0,11.0,1.87,6.0,3.75,1.55,0,2,1,1,0
+KuPS Kuopio,FC Haka,57.0,19.0,23.0,8.0,2.59,1.55,3.8,5.75,2,1,2,1,1
+Qarabağ FK,Sumqayit FK,70.0,21.0,9.0,15.0,2.94,1.13,7.5,11.0,3,0,5,0,1
+Dila Gori,Dinamo Tbilisi,34.0,35.0,31.0,15.0,3.33,2.8,3.1,2.3,2,2,0,1,2
+AS Cotonou,Bembereke,46.0,24.0,30.0,29.0,2.04,1.57,3.2,6.0,1,0,1,1,0
+Vejle BK,AGF Aarhus,30.0,41.0,28.0,12.0,2.14,2.4,3.6,2.75,1,1,1,0,1
+Odense BK,Viborg FF,35.0,45.0,20.0,11.0,2.13,2.2,3.5,3.2,1,1,1,1,0
+Sahab Club,Al Salt,24.0,46.0,30.0,15.0,2.26,3.2,2.88,2.2,1,1,1,0,1
+Taawoun FC,Al Baten,31.0,45.0,23.0,34.0,3.39,1.75,3.6,3.8,2,2,1,0,1
+Lyngby BK,Hvidovre IF,45.0,25.0,31.0,15.0,3.0,1.73,3.8,4.75,2,1,1,0,1
+CS Univ Craiova,Sepsi OSK,36.0,34.0,30.0,27.0,1.63,1.83,3.1,4.0,1,0,0,1,2
+Real Sociedad,Cadiz CF,47.0,35.0,18.0,19.0,2.0,1.6,3.8,6.25,1,0,3,0,1
+Tromso IL,Valerenga,26.0,28.0,46.0,4.0,2.84,2.3,3.5,3.0,1,2,1,0,1
+Viking FK,Stromsgodset IF,60.0,19.0,21.0,9.0,3.03,1.5,4.75,5.75,2,1,0,0,0
+USFAS Bamako,Onze Créateurs,23.0,38.0,39.0,41.0,1.67,2.5,2.6,3.0,0,2,1,0,1
+IF Fuglafjordur,Víkingur II,52.0,20.0,28.0,8.0,4.38,1.73,4.33,3.3,3,1,1,1,0
+Shabab Riyadh,Al Faisaly (KSA),48.0,35.0,17.0,34.0,2.51,1.6,3.8,4.5,2,1,1,0,1
+Rayo Vallecano,Villarreal CF,28.0,38.0,34.0,26.0,3.0,4.75,3.75,1.73,2,2,1,5,2
+FC Midtjylland,Brøndby IF,51.0,24.0,25.0,11.0,2.38,1.55,4.33,5.5,2,0,2,2,0
+Vicenza Calcio,Cosenza Calcio,31.0,42.0,27.0,27.0,2.3,1.91,3.3,4.2,1,1,1,0,1
+Anderlecht,Royal Antwerp,45.0,27.0,28.0,19.0,1.55,1.5,4.0,5.0,2,0,2,1,1
+FC Basel,Grasshoppers,44.0,37.0,20.0,23.0,2.67,1.75,3.75,4.75,2,1,1,1,0
+FC Zürich,Lausanne-Sport,68.0,19.0,13.0,23.0,3.41,1.33,5.5,8.0,3,0,2,2,0
+Queen's Park FC,Airdrieonians FC,36.0,38.0,27.0,11.0,1.71,2.3,3.5,2.63,0,0,1,1,0
+Virtus Entella,US Foggia,28.0,30.0,42.0,20.0,2.33,2.0,3.2,3.5,0,2,2,1,1
+FeralpiSalò,Pescara,26.0,53.0,20.0,28.0,3.0,2.2,3.2,3.1,2,2,2,1,1
+Palermo,Triestina,53.0,20.0,26.0,22.0,1.2,1.8,3.3,4.2,1,0,1,1,0
+AC Renate,Juventus U23,36.0,33.0,31.0,26.0,1.83,2.0,3.1,3.8,1,0,0,1,2
+Tottenham,Arsenal,33.0,32.0,35.0,15.0,3.13,2.45,3.3,2.9,1,3,3,0,1
+Cesena,Monopoli,54.0,26.0,21.0,21.0,1.5,2.15,3.0,3.6,1,0,0,3,2
+Aurora FC,Real Santa Cruz,37.0,31.0,32.0,21.0,2.72,1.57,3.75,5.0,2,1,2,4,2
+Zawra'a Baghdad,Zakho FC,37.0,40.0,23.0,29.0,2.4,2.0,2.8,4.33,1,1,2,0,1
+AS Black Stars,AS Korofina,24.0,45.0,31.0,40.0,1.71,2.6,2.7,2.8,1,1,2,0,1
+B36 II,07 Vestur II,37.0,32.0,31.0,8.0,1.38,2.25,3.75,2.5,1,0,2,0,1
+Vikingur Reykjavik,Fram Reykjavik,53.0,27.0,19.0,6.0,2.79,1.36,4.5,5.75,2,1,4,1,1
+Keflavik IF,Leiknir Reykjavik,35.0,33.0,32.0,6.0,2.72,1.85,3.5,3.4,2,1,3,0,1
+UMF Grindavik,Trottur Vogum,56.0,24.0,21.0,6.0,2.23,1.44,4.5,5.0,1,0,3,0,1
+KV,HK Kopavogur,32.0,34.0,33.0,6.0,1.83,4.2,4.5,1.53,1,1,1,3,2
+Real Madrid,Levante UD,69.0,16.0,15.0,24.0,3.57,1.5,4.75,6.0,3,0,6,0,1
+Barracas Central,CA Acassuso,35.0,34.0,31.0,15.0,1.73,1.33,4.5,7.0,1,0,4,1,1
+Cobán Imperial,Malacateco,31.0,43.0,26.0,23.0,2.4,1.73,3.25,4.33,1,1,0,0,0
+Aragua,UCV FC,35.0,50.0,15.0,32.0,2.2,2.2,2.88,3.3,1,1,1,0,1
+Deportes Melipilla,CD Magallanes,23.0,35.0,42.0,14.0,2.99,3.5,3.1,2.0,1,2,1,2,2
+Unión San Felipe,Deportes Santa Cruz,56.0,29.0,14.0,16.0,2.0,1.6,3.4,5.0,1,0,2,1,1
+Vitória,Fortaleza,41.0,29.0,30.0,27.0,1.89,5.5,3.3,1.75,1,0,0,1,2
+Cruzeiro,Remo/PA,34.0,30.0,36.0,27.0,2.3,1.33,5.0,9.5,0,1,1,0,1
+São Paulo FC,Juventude,48.0,29.0,23.0,18.0,2.88,1.5,4.0,7.5,3,1,2,0,1
+Patronato Paraná,Deportivo Morón,19.0,52.0,29.0,16.0,2.01,1.95,3.2,3.5,0,0,2,0,1
+Deportivo Lara,Zamora FC,21.0,45.0,34.0,28.0,2.1,2.55,2.88,2.75,1,1,0,2,2
+CS Herediano,Guadalupe FC,52.0,35.0,14.0,21.0,3.88,1.57,3.8,4.5,3,1,0,0,0
+Cruz Azul,Tigres UANL,29.0,34.0,36.0,23.0,1.99,2.7,3.2,2.7,0,1,0,1,2
+Blooming,Independiente Petrolero,34.0,36.0,30.0,24.0,3.64,1.83,3.6,3.6,2,2,4,0,1
+Bolívar,Real Tomayapo,60.0,28.0,12.0,10.0,3.08,1.14,7.0,17.0,3,0,1,0,1
+RCA,Dakota,40.0,28.0,32.0,28.0,2.92,2.7,3.75,2.1,3,2,1,3,2
+Independiente Juniors,Santo Domingo,48.0,35.0,18.0,14.0,2.1,1.8,3.1,4.33,1,0,1,0,1
+Cobreloa,Santiago Wanderers,57.0,23.0,19.0,13.0,3.08,1.6,3.4,5.0,3,1,1,1,0
+San Luis Quillota,CDA Fernández Vial,26.0,56.0,18.0,14.0,2.2,2.6,2.7,2.8,1,1,0,0,0
+Botafogo RJ,Ceilândia/DF,45.0,29.0,26.0,23.0,2.65,1.17,7.0,19.0,4,1,3,0,1
+Santos FC,Coritiba,32.0,33.0,35.0,21.0,2.48,2.0,3.3,4.0,0,1,3,0,1
+CD Motagua,CD Olimpia,38.0,34.0,28.0,22.0,2.86,3.0,3.0,2.25,2,1,1,1,0
+Antigua GFC,C.D. Guastatoya,39.0,36.0,26.0,16.0,2.5,1.8,3.25,4.0,2,1,1,0,1
+Alacranes Durango,Mazorqueros,31.0,34.0,35.0,23.0,1.67,2.35,3.4,2.55,0,1,1,0,1
+LD Alajuelense,San Carlos,47.0,33.0,20.0,26.0,2.53,1.83,3.5,3.8,2,1,1,0,1
+Guadalajara Chivas,Club Atlas,36.0,35.0,29.0,26.0,2.95,2.55,3.0,3.0,2,1,1,2,2
+CD Motagua,CD Olimpia,38.0,34.0,28.0,22.0,2.86,3.0,3.0,2.25,2,1,1,1,0
+Antigua GFC,C.D. Guastatoya,39.0,36.0,26.0,16.0,2.5,1.8,3.25,4.0,2,1,1,0,1
+Alacranes Durango,Mazorqueros,31.0,34.0,35.0,23.0,1.67,2.35,3.4,2.55,0,1,1,0,1
+LD Alajuelense,San Carlos,47.0,33.0,20.0,26.0,2.53,1.83,3.5,3.8,2,1,1,0,1
+Guadalajara Chivas,Club Atlas,36.0,35.0,29.0,26.0,2.95,2.55,3.0,3.0,2,1,1,2,2
+Daejeon Korail,Siheung Citizen,33.0,29.0,37.0,20.0,1.0,2.2,3.1,3.0,0,1,0,2,2
+Sidama Bunna,Defence Force,34.0,41.0,25.0,24.0,1.29,2.0,2.75,4.0,1,1,3,5,2
+Mt Druitt Rangers,Sydney U21,20.0,17.0,63.0,20.0,5.9,4.0,4.2,1.62,2,4,1,1,0
+FC Astana Youth,Kaisar Kyzylorda,30.0,34.0,37.0,21.0,1.0,7.0,6.0,1.25,0,1,1,1,0
+Melbourne Knights,Port Melbourne SC,35.0,27.0,38.0,16.0,2.34,2.7,3.4,2.25,0,2,0,1,2
+South Melbourne,Avondale FC,44.0,21.0,35.0,16.0,2.93,2.5,3.25,2.45,2,1,4,3,1
+WS Wanderers,Queensland Roar,61.0,18.0,21.0,18.0,2.84,2.2,3.2,3.1,3,2,1,3,2
+Abahani Chittagong,Swadhinata KS,67.0,22.0,11.0,29.0,3.5,1.17,7.0,10.0,2,1,3,2,1
+Green Gully SC,Thunder SC,49.0,27.0,24.0,16.0,3.15,1.91,3.4,3.3,2,1,3,0,1
+Adelaide City,SA Panthers,63.0,27.0,10.0,18.0,3.41,1.36,5.0,6.0,3,0,1,1,0
+Changwon City,Ulsan Citizen,50.0,26.0,24.0,19.0,1.82,2.0,3.1,3.3,1,0,1,0,1
+Awassa Kenema,Addis Ababa Ketema,41.0,33.0,25.0,31.0,2.08,2.0,2.75,4.0,1,0,2,2,0
+Urawa Red Diamonds,Sanfrecce,28.0,43.0,29.0,19.0,3.37,2.8,3.1,2.8,2,2,0,0,0
+Bentleigh Greens,Dandenong City,56.0,26.0,19.0,16.0,1.83,1.36,4.5,6.5,2,0,2,1,1
+Croydon Kings,Campbelltown City,22.0,40.0,38.0,18.0,2.09,2.8,3.4,2.2,1,1,1,2,2
+Fremad Amager,HB Køge,26.0,38.0,36.0,13.0,1.63,2.4,3.3,2.8,1,1,1,0,1
+Minerva Punjab,NEROCA FC,46.0,28.0,26.0,44.0,2.63,1.67,3.6,4.2,2,1,3,3,0
+Balestier Khalsa,Albirex Niigata (S),20.0,41.0,39.0,29.0,3.22,6.0,5.25,1.33,2,2,1,2,2
+Sioni Bolnisi,Samgurali Tskh.,19.0,38.0,43.0,21.0,3.63,4.2,3.4,1.73,1,3,0,2,2
+Lokomotivi Tbilisi,Torpedo Kutaisi,27.0,29.0,44.0,20.0,2.34,3.1,3.4,2.05,0,2,0,3,2
+Kahraba Baghdad,Quwa Al Jawiya,27.0,35.0,38.0,32.0,1.62,2.9,3.4,2.1,0,1,2,3,2
+68 Aksaray Bld.,76 Iğdır Belediye Spor,40.0,18.0,42.0,22.0,2.42,4.5,3.25,1.7,0,2,2,2,0
+Villa SC,Arua Hill,18.0,52.0,31.0,25.0,2.4,1.91,2.8,4.33,1,1,2,1,1
+Fasil Kenema,Bahardar,47.0,41.0,12.0,31.0,2.17,1.73,3.0,5.0,1,0,1,0,1
+Portuguesa RJ U20,Botafogo U20,8.0,34.0,58.0,22.0,3.25,9.0,5.0,1.25,0,3,1,2,2
+Audax Rio U20,Vasco U20,26.0,27.0,47.0,22.0,1.83,17.0,7.0,1.13,0,1,0,2,2
+NK Jarun,Rudeš Zagreb,27.0,30.0,43.0,25.0,2.67,3.75,3.4,1.8,1,2,1,1,0
+CSKA 1948,Arda Kardzhali,35.0,39.0,26.0,25.0,2.24,1.8,3.3,4.75,1,1,5,1,1
+FC Porto B,SL Benfica B,37.0,30.0,32.0,23.0,2.81,2.4,3.6,2.5,2,1,2,3,2
+Hussein Irbid,Al Sareeh,55.0,33.0,12.0,27.0,2.76,1.73,3.4,4.2,2,1,2,0,1
+Mlada Boleslav,Sigma Olomouc,42.0,21.0,37.0,21.0,2.26,1.8,3.6,3.8,2,0,2,2,0
+AC Oulu,FC Honka Espoo,22.0,35.0,43.0,11.0,3.05,5.5,3.8,1.57,1,2,2,1,1
+VPS Vaasa,Seinajoen JK,51.0,21.0,28.0,11.0,2.76,3.0,3.2,2.3,2,1,0,1,2
+NC Magra,JS Kabylie,24.0,33.0,43.0,27.0,1.75,3.0,2.8,2.4,0,2,0,1,2
+Paradou AC,JS Saoura,31.0,32.0,37.0,22.0,2.28,2.4,2.9,2.88,0,2,1,0,1
+FC Telavi,Gagra Tbilisi,35.0,37.0,29.0,10.0,2.4,2.3,3.1,2.8,1,1,1,0,1
+US Monastir,US Ben Guerdane,43.0,38.0,18.0,26.0,1.42,1.85,2.88,4.33,1,0,0,0,0
+MSK Namestovo,FC Rohoznik,26.0,23.0,51.0,17.0,3.3,7.5,5.0,1.29,1,3,0,1,2
+FK Dukla BB,FK Humenné,33.0,48.0,19.0,19.0,2.6,1.44,4.1,6.0,2,2,3,0,1
+MFK Skalica,Slovan Bratislava Youth,64.0,17.0,18.0,21.0,3.64,1.5,4.75,4.33,3,0,3,0,1
+Sport Podbrezova,Partizán Bardejov,73.0,16.0,11.0,18.0,3.24,1.06,9.0,21.0,3,0,7,1,1
+FC Košice,MSK Zilina B,49.0,25.0,26.0,19.0,2.75,1.5,4.0,5.25,2,1,2,1,1
+STK Samorin,MFK Dubnica,49.0,23.0,28.0,21.0,3.21,1.7,3.75,4.0,2,1,4,0,1
+FK Puchov,Slavoj Trebisov,40.0,28.0,32.0,20.0,2.75,1.62,3.75,4.5,2,1,2,0,1
+Viktoria Otrokovice,Vratimov,30.0,17.0,53.0,23.0,3.17,1.67,3.75,4.0,1,3,5,1,1
+NK Sesvete,NK Varaždin,23.0,24.0,53.0,27.0,3.33,3.5,3.3,1.91,2,3,2,3,2
+JäPS,EIF Ekenas,29.0,35.0,36.0,12.0,0.33,3.25,3.5,1.95,0,1,1,0,1
+ND Beltinci,Nafta Lendava,25.0,27.0,48.0,22.0,2.92,4.33,3.9,1.6,1,2,1,0,1
+Mainz II,TSG Balingen,50.0,29.0,21.0,22.0,3.21,1.67,3.75,4.2,3,1,3,2,1
+Cracovia,Wisla Plock,41.0,32.0,27.0,20.0,2.48,1.8,3.4,4.2,2,0,3,0,1
+NK Dragovoljac,HNK Gorica,25.0,30.0,44.0,27.0,2.43,5.5,3.75,1.62,0,1,0,2,2
+Skra Czestochowa,Puszcza,43.0,37.0,20.0,19.0,2.7,3.25,3.1,2.15,2,1,1,2,2
+FK Kraluv Dvur,Slavia Praha B,40.0,29.0,31.0,20.0,1.85,2.1,3.6,2.75,1,0,2,2,0
+Povltavska FA,FC Pisek,24.0,26.0,50.0,21.0,3.25,2.63,3.5,2.25,1,3,1,1,0
+FK Babrungas,FK Nevezis,28.0,45.0,27.0,9.0,1.88,3.25,3.75,1.85,1,1,1,1,0
+Talaba Baghdad,Sina'a Baghdad,50.0,32.0,18.0,29.0,2.0,1.6,3.6,4.8,1,0,3,1,1
+Radnicki Nis,Bačka Topola,38.0,37.0,26.0,29.0,2.92,2.9,3.6,2.05,2,1,2,0,1
+Austria Wien II,Rapid Wien II,24.0,42.0,34.0,22.0,3.13,2.3,3.5,2.9,2,2,3,3,0
+SKU Amstetten,Grazer AK,34.0,38.0,29.0,19.0,2.0,2.15,3.5,3.2,1,1,3,0,1
+SV Lafnitz,Floridsdorfer AC,34.0,37.0,29.0,20.0,1.9,2.9,3.3,2.4,0,0,1,0,1
+LASK Juniors,Kapfenberg,40.0,35.0,26.0,20.0,4.5,2.7,3.5,2.4,3,1,1,1,0
+Blau Weiss Linz,FC Liefering,38.0,37.0,25.0,20.0,3.34,1.75,3.8,4.33,3,1,3,0,1
+FC Dornbirn,Vorwärts Steyr,26.0,27.0,47.0,17.0,3.43,3.2,3.5,2.15,1,3,2,3,2
+Horn,Austria Lustenau,22.0,20.0,58.0,21.0,2.58,4.5,3.75,1.73,1,2,1,2,2
+SKN St. Pölten,Wacker Innsbruck,37.0,36.0,27.0,20.0,3.32,1.67,4.0,4.75,2,1,3,1,1
+FC Fredericia,Nykøbing FC,52.0,19.0,29.0,13.0,3.78,1.5,4.75,5.5,3,2,5,1,1
+Beroe Stara Zagora,Lokomotiv Plovdiv,37.0,36.0,27.0,18.0,3.12,2.2,3.1,3.5,2,1,1,0,1
+Dalkurd FF,Skovde AIK,26.0,28.0,46.0,15.0,1.38,2.5,3.2,2.55,0,1,3,1,1
+Académico Viseu,FC Penafiel,35.0,25.0,40.0,29.0,1.79,2.4,3.4,2.6,0,1,1,2,2
+AC Horsens,FC Helsingor,49.0,21.0,30.0,13.0,2.6,2.4,3.25,3.0,2,1,3,3,0
+FUS Rabat,Riadi Salmi,24.0,33.0,44.0,22.0,2.25,2.0,2.75,4.0,0,2,1,0,1
+Inter Zaprešić,Bijelo Brdo,46.0,34.0,20.0,26.0,2.67,1.91,3.3,3.5,2,1,4,2,1
+NK Krka,NŠ Drava,60.0,19.0,21.0,24.0,4.5,1.1,8.0,17.0,3,0,5,0,1
+Faisaly Amman,Jazeera Amman,61.0,30.0,10.0,28.0,2.81,1.53,3.5,5.5,2,1,1,0,1
+Hlucin,Velke Mezirici,47.0,29.0,25.0,23.0,3.48,1.4,4.5,5.5,3,1,7,0,1
+Orange County SC,Tulsa Roughnecks,48.0,21.0,30.0,22.0,3.29,1.75,3.7,3.75,2,1,5,1,1
+LA Galaxy II,Louisville City,31.0,30.0,39.0,10.0,2.0,3.5,3.5,1.85,0,1,4,3,1
+Auckland City,Western Springs,69.0,13.0,18.0,17.0,5.38,1.33,5.0,6.0,4,2,4,0,1
+Hamilton Wand.,Birkenhead United,47.0,28.0,26.0,17.0,4.25,2.3,4.0,2.3,3,2,1,2,2
+Melville United,Eastern Suburbs (NZL),41.0,28.0,30.0,17.0,1.92,1.73,4.2,3.4,1,0,1,0,1
+Yokogawa Musashino,Criacao Shinjuku,43.0,27.0,30.0,25.0,1.0,1.62,3.4,5.0,2,0,3,0,1
+Honda Lock SC,Maruyasu Okazaki,20.0,33.0,47.0,23.0,1.97,2.25,3.2,2.8,0,1,2,0,1
+Devonport City,Hobart Zebras,63.0,15.0,22.0,16.0,2.8,1.14,8.0,12.0,2,1,2,0,1
+Riverside Olympic,South Hobart,11.0,29.0,60.0,16.0,3.81,21.0,11.0,1.07,0,3,0,6,2
+Jubilo Iwata,FC Tokyo,28.0,37.0,35.0,25.0,2.4,3.4,3.3,2.2,1,1,2,1,1
+Nagoya Grampus,Cerezo Osaka,20.0,42.0,38.0,22.0,1.81,2.45,3.0,3.2,1,1,1,0,1
+Kyoto Sanga,Shimizu S-Pulse,25.0,39.0,36.0,20.0,2.4,2.45,3.2,2.88,1,1,0,0,0
+Ventforet Kofu,Renofa Yamaguchi,44.0,37.0,19.0,25.0,2.0,1.91,3.4,4.33,1,0,1,1,0
+V-Varen Nagasaki,Omiya Ardija,35.0,29.0,36.0,23.0,1.94,1.73,3.4,5.5,0,1,0,0,0
+Oita Trinita,Roasso Kumamoto,27.0,45.0,29.0,21.0,1.68,2.1,3.2,3.25,1,1,1,2,2
+Pocheon FC,Mokpo City,22.0,28.0,50.0,20.0,1.33,2.8,3.1,2.3,0,1,2,0,1
+Cooma Tigers,Belconnen United,42.0,32.0,26.0,17.0,3.15,1.4,4.5,5.5,3,1,3,1,1
+Canberra Olympic,Monaro Panthers,37.0,30.0,33.0,21.0,4.17,2.25,4.0,2.4,3,1,1,4,2
+Sutherland Sharks,Wollongong FC,33.0,24.0,43.0,24.0,3.2,2.7,3.75,2.1,1,3,0,1,2
+Cumberland Utd,Adelaide Olympic,33.0,27.0,40.0,22.0,2.83,2.88,3.5,2.1,1,2,3,2,1
+Kashima Antlers,Consadole Sapporo,40.0,36.0,23.0,23.0,1.93,1.85,3.5,4.0,2,0,4,1,1
+Vissel Kobe,Sagan Tosu,17.0,34.0,50.0,19.0,2.82,2.6,3.2,2.8,1,2,4,0,1
+Churchill Brothers,Sreenidi Deccan,30.0,39.0,31.0,29.0,2.38,2.2,3.25,2.8,1,1,0,1,2
+Tokyo Verdy,Mito HollyHock,50.0,26.0,24.0,25.0,2.5,2.3,3.4,3.0,2,1,0,2,2
+N.E. MetroStars,Sturt Lions,34.0,36.0,30.0,22.0,3.0,1.83,3.6,3.5,3,3,3,1,1
+Cheonan City,Paju Citizen,18.0,45.0,38.0,20.0,2.25,2.1,2.8,3.6,1,1,0,0,0
+Gyeongju KHNP,Cheongju FC,32.0,41.0,27.0,22.0,1.75,1.62,3.8,4.33,1,1,4,0,1
+Launceston City,Hobart Olympia,51.0,13.0,36.0,16.0,4.54,1.8,4.0,3.4,3,2,4,2,1
+Kawasaki Frontale,Avispa Fukuoka,52.0,25.0,23.0,24.0,2.19,1.65,3.5,6.0,2,0,2,0,1
+Shonan Bellmare,Yokohama Marinos,16.0,25.0,59.0,24.0,3.9,3.9,3.5,1.95,1,3,1,4,2
+Armadale SC,Gwelup Croatia SC,42.0,33.0,25.0,15.0,4.63,2.1,4.0,2.7,3,2,2,1,1
+Floreat Athena,Inglewood United,50.0,26.0,24.0,15.0,3.43,1.73,4.0,3.75,3,1,1,1,0
+Stirling Lions,Bayswater City,19.0,24.0,57.0,15.0,3.23,2.1,3.75,2.9,1,3,1,0,1
+Cockburn City,Perth SC,27.0,48.0,25.0,19.0,2.4,3.8,4.33,1.65,1,1,1,1,0
+Sorrento FC,Perth Glory Youth,33.0,32.0,35.0,15.0,2.75,2.0,4.0,2.9,1,2,2,0,1
+Busan I'Park,Jeonnam Dragons,31.0,32.0,37.0,23.0,2.61,2.9,3.0,2.38,1,2,1,1,0
+Canberra FC,O'Connor Knights,39.0,33.0,28.0,19.0,1.63,1.53,4.2,4.5,1,0,3,2,1
+Sangju Sangmu,Daegu FC,40.0,39.0,21.0,20.0,2.43,2.45,3.1,3.1,2,0,1,1,0
+Erchim,Ulaanbaatar City,48.0,27.0,25.0,14.0,2.85,1.57,4.33,4.0,3,2,4,1,1
+Motorlet Praha,SK Rakovník,64.0,17.0,19.0,13.0,2.85,1.25,5.0,9.0,3,0,5,0,1
+Banik Sokolov,Jiskra Domazlice,42.0,23.0,35.0,14.0,2.75,4.2,4.0,1.6,2,1,3,0,1
+SK Benešov,Pribram B,39.0,28.0,34.0,13.0,2.63,1.95,3.6,3.1,2,1,5,1,1
+Kingborough Lions,Glenorchy Knights,34.0,23.0,43.0,17.0,4.43,2.5,3.5,2.4,2,3,1,3,2
+Marconi Stallions,Northbridge Bulls,53.0,33.0,13.0,20.0,4.62,1.36,5.0,6.0,3,2,2,2,0
+Hume City FC,Oakleigh Cannons,19.0,15.0,66.0,17.0,2.17,3.75,3.6,1.75,0,2,1,2,2
+Hougang United,Tanjong Pagar Utd,30.0,36.0,34.0,29.0,4.49,2.2,4.0,2.5,2,2,1,1,0
+Lion City,Geylang,76.0,16.0,7.0,29.0,4.88,1.33,5.5,6.0,3,0,1,0,1
+Gyeongnam,Daejeon Citizen,26.0,28.0,47.0,21.0,3.51,3.1,3.5,2.0,1,2,1,1,0
+GimPo Citizen,FC Anyang,19.0,34.0,47.0,15.0,3.63,3.1,3.1,2.15,2,3,0,1,2
+NJS Nurmijärvi,Lahden Reipas,39.0,19.0,43.0,14.0,2.7,4.33,3.75,1.62,1,2,0,2,2
+Western United,Wellington Phoenix,40.0,23.0,36.0,16.0,3.11,1.8,3.75,4.0,3,1,1,0,1
+Kashiwa Reysol,Gamba Osaka,40.0,31.0,29.0,22.0,2.77,1.95,3.3,4.0,2,1,0,1,2
+Académica Coimbra,SC Farense,34.0,23.0,43.0,29.0,2.37,3.0,3.5,2.1,0,1,0,0,0
+Ryukyu,Tochigi SC,28.0,46.0,26.0,23.0,2.18,2.5,3.0,2.75,1,1,1,0,1
+FC Shakhter,FK Ordabasy,40.0,29.0,32.0,20.0,2.58,2.2,3.2,2.88,2,1,1,0,1
+FK Kauno Zalgiris,FK Suduva,24.0,39.0,37.0,13.0,2.47,3.3,3.2,2.0,1,1,0,3,2
+Ulsan Hyundai,Incheon United,40.0,37.0,23.0,16.0,3.18,1.75,3.3,5.25,2,1,2,2,0
+Jong Sparta Rott.,Excelsior Maassluis,45.0,28.0,26.0,20.0,2.44,1.67,3.75,4.0,2,0,3,0,1
+Nieciecza KS,Piast Gliwice,22.0,25.0,53.0,19.0,2.81,2.88,3.2,2.38,1,2,0,1,2
+Korona Kielce,GKS Katowice,31.0,29.0,40.0,16.0,1.75,1.95,3.25,3.6,0,1,1,2,2
+Örebro SK,Östers IF,29.0,18.0,52.0,16.0,2.38,2.2,3.1,3.0,0,2,2,1,1
+Trelleborgs FF,Vasteras SK FK,36.0,44.0,20.0,15.0,2.0,1.91,3.25,3.6,1,1,3,0,1
+BFC Daugavpils,FK Liepaja,25.0,29.0,46.0,9.0,2.77,5.75,4.0,1.44,1,2,0,4,2
+Gefle IF,Team Thoren,86.0,5.0,9.0,8.0,3.3,1.17,7.0,11.0,2,1,3,0,1
+Umea FC,Örebro Syrianska IF,35.0,29.0,36.0,11.0,3.0,1.45,4.2,5.5,2,3,2,3,2
+Tvaakers IF,FC Trollhättan,40.0,43.0,17.0,15.0,2.42,1.91,3.25,3.5,1,1,0,1,2
+Alta IF,Brattvag IL,55.0,28.0,17.0,9.0,3.25,1.8,4.0,3.25,2,1,3,1,1
+Ullensaker/Kisa,Tromsdalen UIL,47.0,36.0,17.0,14.0,2.95,1.5,4.2,4.75,2,1,2,2,0
+FK Minija Kretinga,NFA Kaunas,22.0,32.0,46.0,10.0,0.88,4.33,3.75,1.62,0,1,0,0,0
+Hannover 96 II,Hamburger SV II,35.0,25.0,40.0,19.0,3.77,2.25,4.0,2.4,1,2,1,1,0
+Lampang FC,Chainat FC,33.0,44.0,23.0,35.0,2.0,2.25,3.4,2.63,1,1,2,0,1
+Trat FC,Phrae United,29.0,46.0,26.0,31.0,3.0,2.1,3.25,3.0,2,2,1,0,1
+Taraz-Karatay,FC Zhetysu,33.0,37.0,29.0,20.0,1.13,4.0,3.75,1.67,1,1,1,1,0
+FC Ulaanbaatar,Khangarid,61.0,22.0,17.0,15.0,2.89,1.17,7.0,9.5,2,1,4,1,1
+Celtic FC,Motherwell FC,58.0,23.0,18.0,15.0,2.67,1.13,8.5,17.0,3,0,6,0,1
+Hearts FC,Rangers FC,29.0,24.0,48.0,15.0,2.32,2.9,3.6,2.25,0,2,1,3,2
+Ross County,Dundee United,32.0,30.0,38.0,16.0,2.12,2.1,3.2,3.6,0,1,1,2,2
+SC Freiburg II,1. FC Saarbrücken,30.0,32.0,38.0,22.0,3.35,2.55,3.2,2.5,1,2,1,1,0
+Verl,MSV Duisburg,36.0,30.0,33.0,19.0,3.96,1.8,3.75,3.5,3,2,1,1,0
+FSV Zwickau,Würzburger Kickers,42.0,31.0,27.0,19.0,2.39,2.05,3.4,3.1,2,0,7,0,1
+Hallescher FC,SV Wehen,32.0,35.0,33.0,18.0,3.04,2.8,3.25,2.25,2,2,1,1,0
+Waldhof Mannheim,TSV Havelse,62.0,24.0,14.0,21.0,2.75,1.25,5.0,8.5,2,1,7,0,1
+TSV 1860,Borussia Dortmund II,51.0,26.0,24.0,21.0,2.75,1.67,4.0,4.0,2,1,6,3,1
+E. Braunschweig,Viktoria Köln,56.0,29.0,15.0,18.0,2.5,1.6,3.75,4.5,2,1,0,1,2
+Viktoria Berlin,Meppen,27.0,28.0,45.0,16.0,2.5,2.0,3.5,3.0,1,2,3,4,2
+VfL Osnabruck,Magdeburg,29.0,26.0,44.0,19.0,3.82,2.6,3.5,2.25,1,3,1,5,2
+SC Weiche-08,VfV 06 Hildesheim,58.0,19.0,23.0,15.0,3.2,1.25,6.0,7.0,3,1,4,2,1
+SD Amorebieta,SD Huesca,25.0,42.0,34.0,27.0,1.88,2.15,3.4,3.3,1,1,1,0,1
+Jammerbugt FC,Hobro IK,23.0,30.0,47.0,13.0,1.54,4.2,3.5,1.83,0,1,2,3,2
+Real España,CD Marathón,49.0,25.0,26.0,22.0,3.05,2.0,3.4,3.1,3,1,1,1,0
+CD Águila,Jocoro FC,49.0,34.0,17.0,24.0,1.55,1.62,3.5,4.75,2,0,1,1,0
+CD Chalatenango,Isidro Metapán,34.0,39.0,26.0,24.0,2.24,2.05,3.0,3.4,1,1,1,2,2
+Alianza FC (PAN),Atlético Chiriquí,39.0,29.0,31.0,25.0,2.11,2.15,2.88,3.3,2,0,1,0,1
+Puntarenas,AD Carmelita,49.0,23.0,28.0,27.0,3.44,1.67,3.8,4.0,2,1,1,0,1
+Pachuca CF,Atlético San Luis,46.0,34.0,20.0,15.0,2.83,1.6,3.75,5.25,2,1,3,2,1
+Real Salt Lake,Austin FC,39.0,21.0,40.0,14.0,2.5,2.2,3.4,3.25,1,2,2,1,1
+Portland Timbers,Sporting Kansas City,38.0,40.0,22.0,13.0,1.72,1.95,3.4,3.75,0,0,7,2,1
+Las Vegas Lights,Oakland Roots,34.0,37.0,29.0,26.0,2.63,2.4,3.6,2.4,2,2,1,1,0
+Los Angeles Galaxy,FC Dallas,39.0,30.0,31.0,24.0,2.49,1.83,3.5,4.33,2,0,1,3,2
+Newcastle Olympic,Adamstown FC,57.0,21.0,22.0,23.0,3.82,1.2,6.5,9.0,2,1,6,1,1
+Charlestown City,Broadmeadow,38.0,28.0,35.0,23.0,4.32,2.0,3.8,3.0,3,2,1,1,0
+Iwaki FC,Fujieda MYFC,41.0,30.0,29.0,19.0,1.0,2.05,3.25,3.3,2,0,2,2,0
+Azul Claro Numazu,Ehime FC,36.0,33.0,31.0,18.0,0.63,2.2,3.2,3.1,2,0,1,1,0
+Gainare Tottori,Fukushima United,24.0,30.0,46.0,18.0,1.71,2.7,3.2,2.45,0,1,0,4,2
+FC Imabari,Kagoshima United,35.0,36.0,29.0,14.0,1.79,2.5,3.0,2.7,1,1,0,1,2
+Tegevajaro Miyazaki,Kamatamare Sanuki,44.0,42.0,14.0,20.0,3.0,1.83,3.4,4.0,2,1,0,0,0
+Sony Sendai,Reinmeer Aomori FC,34.0,34.0,32.0,18.0,1.92,2.0,3.4,3.1,1,0,0,3,2
+TIAMO Hirakata,MIO Biwako Kusatsu,52.0,29.0,19.0,20.0,2.0,1.8,3.5,3.6,1,0,4,1,1
+Vegalta Sendai,Zweigen Kanazawa,54.0,24.0,22.0,20.0,1.67,2.2,3.2,3.1,1,0,4,1,1
+Machida Zelvia,Albirex Niigata,21.0,41.0,39.0,19.0,2.4,2.38,3.2,2.75,1,1,2,1,1
+Yokohama FC,Tokushima Vortis,31.0,41.0,29.0,12.0,1.8,2.55,3.1,3.0,1,1,2,1,1
+Fagiano Okayama,Thespakusatsu,46.0,29.0,25.0,18.0,2.73,1.95,3.2,4.33,2,1,0,1,2
+Blacktown City,Sydney Olympic,40.0,29.0,30.0,23.0,3.48,1.95,4.0,2.88,3,1,1,2,2
+Sydney United,APIA Tigers,30.0,22.0,48.0,23.0,4.21,3.8,4.2,1.65,1,3,2,2,0
+St Albans Saints,Altona Magic SC,28.0,45.0,27.0,21.0,2.0,2.7,3.3,2.3,1,1,0,4,2
+Heidelberg United,Eastern Lions,61.0,17.0,22.0,21.0,1.5,1.25,4.75,9.0,2,0,2,2,0
+Vanraure Hachinohe,Giravanz K.,19.0,38.0,43.0,16.0,2.15,2.6,3.2,2.5,0,2,1,0,1
+Kataller Toyama,YSCC,59.0,21.0,20.0,18.0,2.83,1.73,3.4,4.5,3,0,5,1,1
+Gungahlin United,Woden Valley,54.0,25.0,21.0,15.0,3.28,1.5,4.5,4.5,3,0,3,1,1
+SP Falcons,BCH Lions,64.0,20.0,16.0,16.0,4.5,1.13,7.5,11.0,4,1,5,1,1
+Suwon FC,Jeju United,22.0,32.0,46.0,21.0,3.46,3.2,3.2,2.3,1,2,1,3,2
+JEF United Chiba,Blaublitz Akita,28.0,38.0,34.0,19.0,2.25,1.83,3.0,4.75,0,0,0,1,2
+Rockdale City Suns,Manly United,50.0,30.0,20.0,23.0,3.56,1.7,3.8,3.8,3,1,0,1,2
+Hwaseong FC,Yangju Citizen,45.0,27.0,28.0,20.0,2.13,2.05,3.2,3.2,2,0,1,0,1
+Adelaide United,CC Mariners,38.0,28.0,35.0,19.0,2.99,2.15,3.6,2.88,2,1,3,1,1
+Gwangju FC,Ansan Greeners,60.0,28.0,12.0,19.0,1.86,1.44,4.0,6.5,1,0,2,0,1
+Hang Yuen FC,Tatung FC,36.0,37.0,27.0,18.0,3.3,1.91,4.0,3.0,3,3,1,1,0
+Jeonbuk Hyundai M.,Gangwon FC,48.0,36.0,16.0,17.0,2.87,1.7,3.6,5.0,2,1,1,1,0
+Deren,Khovd FC,67.0,17.0,16.0,18.0,6.5,1.1,8.0,13.0,4,2,5,0,1
+Bohemians 1905 B,Sokol Zivanice,49.0,29.0,22.0,14.0,2.75,1.8,3.6,3.6,2,1,3,4,2
+Slovan Liberec B,SK Zápy,17.0,11.0,72.0,12.0,3.0,2.4,3.6,2.4,1,2,0,0,0
+Mlada Boleslav B,Sokol Brozany,33.0,19.0,48.0,13.0,3.13,1.8,3.6,3.6,1,2,1,1,0
+FK Chlumec,Hradec Kralove B,24.0,47.0,29.0,13.0,3.2,1.91,3.6,3.2,2,2,3,1,1
+Slovacko B,Vysocina Jihlava B,63.0,25.0,12.0,14.0,2.73,1.2,6.0,9.0,3,0,3,0,1
+Sigma Olomouc B,FK Zlin B,66.0,19.0,15.0,16.0,3.14,1.14,7.5,12.0,3,0,2,1,1
+Karlovy Vary,Loko Vltavin,35.0,19.0,46.0,15.0,2.88,3.6,3.6,1.8,1,2,0,1,2
+Teplice B,FK Zbuzany,38.0,23.0,39.0,18.0,2.25,1.8,3.75,3.4,0,2,1,0,1
+Mara Sugar,Muhoroni FC,19.0,36.0,44.0,16.0,1.75,2.4,3.2,2.63,0,1,0,1,2
+Flora Tallinn II,Nõmme United,40.0,27.0,33.0,11.0,3.81,2.5,3.75,2.25,3,1,3,2,1
+Asan Mugunghwa,Bucheon FC 1995,32.0,30.0,37.0,16.0,2.51,2.0,3.25,3.25,1,2,0,0,0
+Rio Ave,GD Chaves,36.0,31.0,33.0,19.0,2.35,2.1,3.5,3.0,2,0,3,0,1
+Leixões SC,Casa Pia AC,37.0,29.0,33.0,19.0,1.48,4.33,3.5,1.7,1,0,1,5,2
+FC Seoul,Pohang Steelers,28.0,39.0,33.0,16.0,2.1,2.55,3.1,2.8,1,1,1,0,1
+Grobiņas SC,Saldus SS/Leevon,72.0,16.0,12.0,13.0,3.92,1.2,6.0,9.0,4,1,4,1,1
+Naivas,Silibwet,41.0,43.0,15.0,24.0,3.0,1.5,3.75,5.5,2,2,3,0,1
+Nagano Parceiro,Matsumoto Yamaga,17.0,36.0,47.0,13.0,3.08,2.2,3.3,3.0,1,2,0,0,0
+FC Gifu,Sagamihara,41.0,30.0,29.0,16.0,2.5,2.15,3.3,3.1,2,1,2,0,1
+FK Okzhetpes,Yassy Turkistan,42.0,33.0,26.0,22.0,2.0,1.22,6.0,7.5,1,0,0,1,2
+CD Lun Lok,Benfica de Macau,22.0,21.0,57.0,23.0,5.92,11.0,14.0,1.05,1,7,0,5,2
+Tigres UANL,Cruz Azul,36.0,38.0,25.0,27.0,1.6,1.83,3.6,3.8,1,1,0,1,2
+Phoenix Rising,Tampa Bay Rowdies,42.0,19.0,39.0,15.0,2.8,2.2,3.4,2.75,3,2,1,5,2
+Hadiya Hosaena,Ethiopian Coffee,25.0,39.0,37.0,19.0,2.2,2.6,2.8,2.7,1,1,1,0,1
+FC Noah,Noravank SC,46.0,33.0,21.0,16.0,3.13,1.85,3.3,3.75,3,1,3,3,0
+Jimma Aba Jifar,Kedus Giorgis,14.0,23.0,63.0,26.0,2.31,9.0,4.5,1.3,0,2,0,1,2
+Botev Vratsa,Tsarsko Selo,32.0,39.0,30.0,24.0,2.0,2.5,3.0,2.6,0,0,0,0,0
+CSKA II 1948,Botev II Plovdiv,38.0,26.0,36.0,24.0,2.25,1.5,3.8,5.5,2,0,0,0,0
+Dinamo Tbilisi,FC Saburtalo,46.0,32.0,23.0,14.0,2.12,1.65,3.75,4.2,1,0,0,0,0
+Zalgiris-2,FA Šiauliai II,28.0,35.0,37.0,14.0,0.75,2.5,3.2,2.5,0,1,1,2,2
+Shahrdari Astara,Esteghlal Khuzestan,30.0,34.0,36.0,18.0,2.04,2.7,2.5,3.0,0,1,2,0,1
+Mes Shahr-e Babak,Shahrdari Hamedan,22.0,61.0,16.0,23.0,2.25,2.3,2.5,3.75,1,1,1,0,1
+Esteghlal Molasani,Machine Sazi,35.0,57.0,8.0,29.0,2.2,1.4,3.6,9.0,1,1,6,1,1
+Kheybar Khorramabad,Rayka Babol,51.0,31.0,18.0,20.0,2.44,1.6,3.2,6.0,1,0,2,0,1
+Khooshe Talaee,Arman Gahar,39.0,36.0,26.0,26.0,2.17,2.5,2.8,2.8,1,0,1,1,0
+Mes Kerman,Vista Toorbin,63.0,25.0,12.0,25.0,1.56,1.5,3.2,8.0,1,0,1,0,1
+Pars Jonoubi Jam,Qashqai Shiraz,44.0,37.0,18.0,29.0,2.18,1.91,2.8,4.5,2,0,3,1,1
+Saipa Karaj,Shahin Bushehr,35.0,44.0,21.0,28.0,1.84,1.33,4.2,8.5,0,0,0,0,0
+FC Koper,NK Radomlje,55.0,22.0,23.0,24.0,2.29,1.67,3.75,4.0,2,0,1,3,2
+NK Osijek II,Kustosija,34.0,36.0,30.0,27.0,2.16,2.6,3.0,2.5,1,1,0,1,2
+Aalesund FK,Molde FK,21.0,41.0,38.0,11.0,2.1,3.1,3.4,2.05,1,1,0,2,2
+FK Bodo/Glimt,Tromso IL,48.0,38.0,14.0,4.0,3.09,1.44,4.5,6.0,3,1,1,1,0
+Kristiansund BK,Stromsgodset IF,34.0,28.0,38.0,8.0,3.47,2.15,3.3,3.1,1,2,0,3,2
+Lillestrom SK,Sarpsborg 08,42.0,31.0,26.0,17.0,3.48,1.91,3.4,3.6,3,1,1,0,1
+Rosenborg BK,Sandefjord,40.0,34.0,25.0,7.0,2.83,1.5,4.2,5.75,2,1,3,0,1
+Odd BK,FK Haugesund,55.0,21.0,24.0,16.0,3.27,2.2,3.3,3.0,2,1,0,4,2
+Viking FK,FK Jerv,68.0,15.0,17.0,12.0,3.9,1.2,6.0,10.0,3,0,3,0,1
+AEL Limassol,Doxa Katokopia,49.0,25.0,26.0,21.0,2.61,1.95,3.3,3.5,2,1,3,1,1
+Olympiakos Nic.,Ethnikos Achnas,51.0,31.0,18.0,25.0,2.8,1.85,3.1,3.8,2,1,1,1,0
+Gornik Polkowice,Resovia,15.0,53.0,32.0,17.0,2.0,2.45,3.2,2.7,1,1,3,0,1
+Carlos Stein,Atlético Grau,26.0,33.0,42.0,22.0,2.75,2.6,3.0,2.6,1,2,1,1,0
+SK Brann,Sandnes Ulf,22.0,46.0,32.0,17.0,2.2,1.6,4.0,5.25,1,1,3,0,1
+Fredrikstad FK,Skeid Fotball,62.0,28.0,11.0,16.0,2.83,1.53,4.33,5.5,2,1,2,0,1
+Stabaek,Grorud IL,47.0,41.0,13.0,18.0,2.25,1.6,4.0,5.25,2,0,1,1,0
+FC Elva,Viimsi JK,37.0,20.0,43.0,12.0,4.25,2.15,4.0,2.5,1,3,1,0,1
+Moss FK,FK Orn-Horten,66.0,18.0,17.0,16.0,3.5,1.67,4.0,3.8,3,0,1,0,1
+Juventud LP,CA Progreso,24.0,25.0,51.0,14.0,2.21,3.0,3.1,2.2,0,2,0,0,0
+Budaiya,Al Hidd Club,35.0,31.0,34.0,32.0,3.86,2.63,3.25,2.4,2,1,1,2,2
+Sitra Club,Malkiya,37.0,44.0,20.0,32.0,3.25,1.29,5.0,8.0,2,2,1,0,1
+FK Banga-2,FK Panevezys-2,36.0,38.0,26.0,9.0,3.92,2.6,3.2,2.4,3,3,3,2,1
+Sampdoria,Fiorentina,30.0,28.0,43.0,21.0,2.47,3.6,3.75,1.95,0,2,4,1,1
+Ghazl Al Mahalla,Eastern Company SC,46.0,44.0,11.0,19.0,3.0,1.83,2.9,4.5,2,1,1,0,1
+Rizespor,Sivasspor,33.0,35.0,32.0,1.0,3.1,2.75,3.3,2.45,2,2,1,2,2
+Galatasaray SK,Adana Demirspor,41.0,25.0,34.0,23.0,3.38,1.91,3.75,3.5,3,1,3,2,1
+Silkeborg IF,FC Midtjylland,34.0,25.0,41.0,15.0,2.97,2.75,3.3,2.5,1,2,1,4,2
+Grecia,Saprissa,24.0,35.0,40.0,23.0,2.86,3.6,3.6,1.85,1,2,2,3,2
+IK Oddevold,Ljungskile SK,43.0,23.0,34.0,16.0,2.92,2.1,3.6,2.75,2,1,0,0,0
+Djurgårdens IF,Malmö FF,35.0,37.0,28.0,13.0,2.35,2.45,3.3,2.6,1,1,4,0,1
+Difaâ El Jadidi,Ittihad Tanger,35.0,38.0,27.0,20.0,2.25,2.2,2.75,3.4,1,1,2,2,0
+FK Zeljeznicar,Radnik Bijeljina,54.0,35.0,11.0,24.0,1.85,1.73,3.25,4.33,2,0,1,1,0
+FC U Craiova 1948,Sepsi OSK,26.0,33.0,41.0,27.0,2.0,3.25,3.0,2.25,0,1,0,5,2
+CS Mioveni,Rapid Bucuresti,25.0,31.0,44.0,15.0,1.88,5.0,3.4,1.65,0,1,3,2,1
+Academica Clinceni,FC Botosani,19.0,24.0,57.0,26.0,2.74,17.0,7.5,1.11,1,2,0,4,2
+Maccabi Netanya,Hapoel Tel Aviv,39.0,29.0,32.0,21.0,2.68,1.85,3.3,3.75,2,1,0,0,0
+Maccabi Tel Aviv,Hapoel Beer Sheva,42.0,26.0,32.0,21.0,2.76,2.0,3.2,3.3,2,1,1,1,0
+Valerenga,HamKam,47.0,39.0,14.0,18.0,2.44,1.67,3.6,4.5,2,0,1,1,0
+Nueva Chicago,CA Atlanta,30.0,50.0,20.0,14.0,3.38,2.9,2.88,2.5,2,2,1,0,1
+FC Ajka,Diosgyori VTK,32.0,27.0,41.0,26.0,2.13,4.2,3.4,1.73,0,2,0,0,0
+ESMAC W,Real Brasília W,36.0,30.0,34.0,31.0,2.17,4.5,3.75,1.6,2,0,0,3,2
+Uruguay Montevideo,IA Sud América,36.0,23.0,41.0,14.0,2.25,2.5,3.0,2.63,0,2,1,1,0
+FK Vozdovac,FK Partizan,20.0,31.0,49.0,27.0,3.1,15.0,6.5,1.14,1,3,0,3,2
+Centro Español,Deportivo Muñiz,37.0,41.0,22.0,14.0,2.13,2.2,2.9,3.25,1,1,0,0,0
+Huddersfield,Luton Town,35.0,40.0,25.0,18.0,2.4,2.3,3.2,3.3,1,1,1,0,1
+Juventus FC,Lazio,40.0,34.0,26.0,24.0,3.25,2.1,3.6,3.2,3,1,2,2,0
+Newcastle United,Arsenal,29.0,21.0,49.0,13.0,2.39,4.33,3.6,1.83,0,2,2,0,1
+Real Oviedo,Real Zaragoza,43.0,37.0,20.0,19.0,2.58,1.57,3.75,5.0,2,1,3,3,0
+Semouha Club,Al Masry,47.0,34.0,20.0,22.0,2.11,2.15,2.7,3.6,2,0,2,1,1
+Grêmio W,Ferroviária W,42.0,31.0,27.0,14.0,3.25,4.1,3.2,1.8,3,1,3,0,1
+KR Reykjavik,Keflavik IF,54.0,26.0,20.0,14.0,2.94,1.4,4.33,6.5,2,1,1,0,1
+Leiknir Reykjavik,Fram Reykjavik,30.0,38.0,33.0,15.0,3.3,2.0,3.5,3.25,2,2,1,2,2
+Vikingur Reykjavik,Breidablik,30.0,20.0,50.0,14.0,4.31,2.88,3.6,2.15,2,3,0,3,2
+Hassania Agadir,Olympique Safi,37.0,35.0,27.0,23.0,1.72,2.1,2.75,3.6,1,0,2,2,0
+Santiago Morning,Deportes Melipilla,31.0,45.0,23.0,22.0,2.2,2.05,3.0,3.5,1,1,1,1,0
+Internacional RS W,Cruzeiro W,62.0,21.0,17.0,14.0,3.0,1.53,3.75,5.25,2,1,1,1,0
+Boston River,Liverpool (URU),31.0,40.0,29.0,13.0,2.1,2.8,3.2,2.3,1,1,2,3,2
+Tigres FC (COL),Deportes Quindío,22.0,45.0,33.0,11.0,1.55,2.88,2.8,2.45,1,1,0,1,2
+Addis Ababa Ketema,Dire Dawa Kenema,21.0,46.0,33.0,21.0,2.04,2.4,2.75,3.0,1,1,1,1,0
+Western United,Melbourne Victory,33.0,34.0,32.0,12.0,3.33,3.6,3.6,2.0,2,2,0,1,2
+Daejeon Citizen,Busan I'Park,52.0,33.0,16.0,23.0,4.21,1.6,3.75,5.0,2,1,4,3,1
+Jeonnam Dragons,FC Anyang,20.0,46.0,34.0,17.0,1.83,2.63,3.0,2.6,1,1,2,0,1
+Bahardar,Adama Kenema,29.0,44.0,27.0,29.0,1.33,2.3,2.7,3.25,0,0,1,0,1
+Incheon United,Daegu FC,40.0,42.0,18.0,19.0,2.2,2.55,3.0,2.63,1,1,2,2,0
+Seoul E-Land,GimPo Citizen,29.0,52.0,19.0,22.0,4.75,1.57,3.5,5.75,2,2,3,1,1
+Mbeya Kwanza,Geita Gold,25.0,44.0,31.0,20.0,2.0,2.38,2.7,3.0,1,1,0,1,2
+FAM-MSN Project,UiTM FC,31.0,33.0,36.0,33.0,1.0,3.4,3.25,1.95,0,1,0,1,2
+Gagra Tbilisi,Samgurali Tskh.,28.0,30.0,42.0,22.0,2.63,2.1,3.2,3.1,1,2,0,2,2
+Sioni Bolnisi,Dila Gori,35.0,26.0,39.0,22.0,3.14,4.2,3.4,1.73,1,2,0,0,0
+Penang FA,Sabah FA,25.0,26.0,49.0,30.0,2.55,2.1,3.25,3.0,1,2,2,4,2
+Kedah FA,Negeri Sembilan,30.0,31.0,39.0,29.0,3.55,1.5,4.0,5.0,1,2,0,0,0
+Al Hikma Beirut,Safa SC Beirut,26.0,34.0,39.0,21.0,2.42,2.25,3.1,2.9,0,2,1,0,1
+Al Ikhaa Al Ahli,AC Sporting Beirut,55.0,27.0,18.0,21.0,1.5,1.62,3.4,5.0,1,0,4,0,1
+Quwa Al Jawiya,Shorta Baghdad,29.0,30.0,41.0,31.0,2.54,2.1,3.0,3.3,1,2,0,2,2
+Biashara United,Namungo,21.0,46.0,33.0,26.0,2.2,2.25,2.6,3.5,1,1,1,2,2
+Bursa Yıldırımspor,Arnavutköy Bld.,42.0,17.0,41.0,23.0,2.5,2.1,3.2,3.1,2,1,0,1,2
+Arba Minch Kenema,Awassa Kenema,24.0,40.0,36.0,26.0,1.79,3.0,2.75,2.4,0,0,2,1,1
+El Gouna,Masr lel Maqassah,39.0,36.0,25.0,30.0,1.61,2.0,3.0,3.6,1,0,0,1,2
+Navbahor,Neftchi Fergana,59.0,21.0,20.0,30.0,2.5,1.44,3.75,6.5,2,1,0,0,0
+Metallurg Bekabad,Dinamo Samarkand,31.0,46.0,23.0,31.0,2.01,1.73,3.4,4.2,0,0,2,1,1
+Nasaf Qarshi,Qyzylqum,31.0,44.0,25.0,31.0,1.83,1.57,3.6,5.0,1,1,5,0,1
+Emirates Club,Al Oruba (UAE),40.0,32.0,29.0,36.0,4.13,2.7,3.5,2.2,3,1,0,1,2
+Al Dhafra,Al Ahli Dubai,28.0,31.0,40.0,33.0,2.5,2.7,3.6,2.15,1,2,0,1,2
+Wasl Dubai,Ajman Club,46.0,33.0,21.0,33.0,2.91,1.57,3.75,4.75,2,1,2,4,2
+Tammeka Tartu,JK Tallinna Kalev,53.0,23.0,24.0,9.0,2.95,1.45,4.2,5.5,2,1,1,3,2
+AC Oulu,KuPS Kuopio,20.0,31.0,49.0,5.0,2.82,6.5,3.75,1.5,1,2,0,3,2
+FC Haka,Seinajoen JK,50.0,23.0,27.0,7.0,3.1,2.3,3.0,3.1,3,1,1,1,0
+HJK Helsinki,FC Lahti,44.0,27.0,30.0,10.0,3.0,1.33,4.5,9.0,2,1,3,2,1
+Torpedo Kutaisi,FC Telavi,29.0,31.0,40.0,20.0,2.29,2.0,3.1,3.4,0,2,1,1,0
+US Monastir,CS Sfaxien,33.0,40.0,27.0,24.0,1.89,2.5,2.63,3.0,1,1,1,0,1
+Tampere Utd,Klubi 04,33.0,36.0,31.0,8.0,2.67,2.4,4.33,2.15,2,2,0,0,0
+Sahel (KSA),Al Kawkab,31.0,48.0,21.0,32.0,1.17,2.0,3.2,3.3,1,1,4,1,1
+Al Shualah,Al Wahda Mecca,26.0,37.0,38.0,37.0,2.45,3.0,2.8,2.38,0,2,2,2,0
+JS Kabylie,JS Saoura,34.0,40.0,26.0,23.0,1.36,2.1,2.88,3.5,1,1,2,1,1
+FC Coca Cola,Ittihad Alexandria,41.0,28.0,32.0,29.0,4.25,1.8,3.0,4.5,3,2,4,3,1
+Ohud Medina,Al Nahdha (KSA),42.0,38.0,20.0,42.0,1.88,2.2,3.0,3.1,2,0,3,0,1
+Jeddah Club,Al Kholood Club,23.0,48.0,29.0,32.0,1.13,2.3,2.9,3.0,0,0,1,0,1
+AEK Athens,Olympiacos FC,25.0,24.0,51.0,25.0,2.29,2.0,3.5,3.75,0,2,2,3,2
+PAOK Salonica,Panathinaikos,28.0,33.0,39.0,25.0,2.23,2.3,3.25,3.25,0,2,2,0,1
+PAS Giannina,Aris Salonica,30.0,28.0,42.0,22.0,1.33,4.75,3.3,1.85,0,1,0,3,2
+Flora Tallinn,FC Kuressaare,60.0,21.0,19.0,10.0,3.31,1.22,5.75,8.5,4,0,4,0,1
+Dinamo Batumi,Lokomotivi Tbilisi,71.0,17.0,13.0,17.0,3.98,1.11,9.0,13.0,3,0,7,2,1
+Khor Fakkan Club,Jazira Abu Dhabi,29.0,22.0,49.0,32.0,3.54,4.2,3.6,1.67,1,3,2,1,1
+Al Nasr Dubai,Al Ain,21.0,23.0,56.0,30.0,2.63,4.5,3.6,1.62,1,2,0,1,2
+Wahda Abu Dhabi,Ittihad Kalba,51.0,27.0,22.0,29.0,3.2,1.36,4.2,7.0,3,1,2,0,1
+Baniyas,Sharjah SC,25.0,32.0,44.0,29.0,2.83,4.0,3.5,1.7,1,2,0,4,2
+Fethiyespor,Ofspor,33.0,37.0,29.0,23.0,2.11,2.0,3.25,3.3,1,1,3,2,1
+Viktoria Aschaffenburg,Schweinfurt,31.0,36.0,32.0,24.0,2.0,2.55,3.6,2.25,1,1,3,2,1
+ADO Den Haag,FC Eindhoven,50.0,30.0,19.0,24.0,2.95,2.2,3.6,2.8,2,1,2,1,1
+Wolves U23s,Norwich U23s,53.0,26.0,21.0,21.0,4.25,1.95,3.9,2.9,2,1,1,1,0
+Al Adalah,Al Khaleej Club,32.0,42.0,26.0,33.0,2.0,1.83,3.0,4.33,1,1,0,0,0
+Horizonte/CE,Floresta/CE,39.0,36.0,25.0,32.0,2.05,3.25,4.0,1.8,1,0,2,0,1
+Benevento Calcio,AC Pisa,34.0,35.0,31.0,23.0,2.48,2.15,3.3,3.4,1,1,1,0,1
+Deportivo Maipú,Tristán Suárez,36.0,40.0,24.0,13.0,0.75,2.4,2.7,3.1,0,0,1,1,0
+Virtus Entella,Palermo,32.0,22.0,45.0,23.0,2.58,2.3,2.9,3.0,1,2,1,2,2
+FeralpiSalò,Reggiana,34.0,34.0,32.0,30.0,3.29,2.7,2.8,2.6,2,1,1,0,1
+Monopoli,Catanzaro,32.0,38.0,30.0,22.0,2.1,2.9,2.8,2.4,0,0,1,2,2
+NSÍ II,HB II,36.0,25.0,39.0,9.0,4.14,2.55,4.5,2.0,1,3,0,5,2
+CA Fénix Pilar,Comunicaciones BA,30.0,46.0,24.0,14.0,1.6,3.1,2.88,2.25,1,1,1,2,2
+Southampton,Liverpool,18.0,25.0,57.0,18.0,2.27,8.5,5.0,1.36,0,2,1,2,2
+Nottingham Forest,Sheffield United,37.0,38.0,25.0,20.0,3.59,2.2,3.3,3.4,2,2,1,2,2
+Zamalek SC,Tala'ea Al Jaish,47.0,35.0,18.0,27.0,2.33,1.75,3.0,5.0,2,0,0,1,2
+Llaneros FC (COL),Boyacá Chicó,36.0,33.0,32.0,26.0,2.4,2.88,3.0,2.4,2,0,0,0,0
+Deportes Temuco,Cobreloa,29.0,37.0,34.0,10.0,2.1,2.3,3.1,2.8,1,1,2,0,1
+RB Bragantino,Estudiantes La Plata,23.0,30.0,47.0,13.0,1.97,2.05,3.1,4.0,0,1,0,1,2
+Caracas,The Strongest,27.0,35.0,38.0,24.0,1.74,2.1,3.2,3.6,0,1,0,0,0
+CA Peñarol,Cerro Porteño,34.0,28.0,38.0,13.0,1.55,2.38,3.0,3.3,0,2,0,0,0
+CA Banfield,Univ Católica Quito,36.0,26.0,38.0,13.0,2.32,2.05,3.4,3.2,0,1,1,1,0
+Ceará SC,General Caballero JLM,50.0,28.0,22.0,28.0,2.05,1.17,6.0,13.0,1,0,6,0,1
+Internacional,Ind. Medellin,34.0,30.0,36.0,10.0,1.93,1.44,4.0,6.5,0,1,2,0,1
+Leones,Real Cartagena,42.0,23.0,34.0,20.0,2.58,1.67,3.5,4.75,2,1,0,0,0
+Confiança,Ferroviário,20.0,28.0,52.0,27.0,2.17,2.4,2.9,3.0,0,2,1,0,1
+El Nacional Quito,Chacaritas FC,39.0,27.0,35.0,13.0,2.83,1.91,3.2,3.6,2,1,2,0,1
+Novorizontino/SP,Sport Recife,33.0,36.0,31.0,13.0,1.2,2.63,3.0,3.0,1,1,0,0,0
+Deportes Santa Cruz,San Luis Quillota,21.0,48.0,30.0,17.0,2.33,2.5,3.0,2.63,1,1,2,0,1
+Flamengo RJ,Universidad Católica,70.0,13.0,17.0,29.0,2.52,1.25,5.0,11.0,3,0,3,0,1
+Sporting Cristal,Talleres Córdoba,27.0,24.0,49.0,18.0,2.44,2.5,3.2,2.8,0,1,0,0,0
+Boca Juniors,Corinthians,56.0,27.0,17.0,13.0,1.64,2.2,3.1,3.5,1,0,1,1,0
+Atlético GO,Antofagasta,60.0,18.0,22.0,26.0,2.44,1.36,4.33,7.5,2,0,1,0,1
+Junior Barranquilla,Oriente Petrolero,64.0,17.0,19.0,27.0,3.0,1.11,9.0,13.0,3,0,2,0,1
+Khangarid,Erchim,14.0,11.0,75.0,19.0,4.18,17.0,9.0,1.06,1,3,0,3,2
+Wolkite Ketema,Sebeta Kenema,32.0,35.0,33.0,19.0,1.75,2.4,2.75,3.0,0,0,1,2,2
+BCH Lions,FC Ulaanbaatar,12.0,18.0,70.0,20.0,3.08,13.0,7.5,1.1,0,3,2,5,2
+Adelaide United,Melbourne City,41.0,26.0,33.0,12.0,2.89,3.6,3.6,1.95,2,1,0,0,0
+Vissel Kobe,Kawasaki Frontale,17.0,19.0,64.0,21.0,3.29,4.0,3.6,1.91,1,3,0,1,2
+Omiya Ardija,Grulla Morioka,37.0,34.0,29.0,15.0,0.0,2.05,3.4,3.75,1,0,0,1,2
+Ulsan Hyundai,Jeju United,35.0,34.0,31.0,17.0,3.14,1.95,3.2,3.6,2,1,1,0,1
+Pohang Steelers,Jeonbuk Hyundai M.,28.0,41.0,32.0,19.0,2.35,2.7,3.1,2.45,1,1,0,1,2
+Defence Force,Fasil Kenema,23.0,35.0,42.0,23.0,2.19,4.0,2.75,2.0,0,2,1,2,2
+FC Gifu,Gainare Tottori,45.0,25.0,29.0,21.0,3.48,1.7,3.6,4.2,3,2,3,0,1
+Gamba Osaka,Kashima Antlers,31.0,34.0,35.0,10.0,2.48,3.6,3.4,1.91,0,1,1,3,2
+Oita Trinita,Cerezo Osaka,30.0,33.0,37.0,18.0,2.0,3.1,3.4,2.1,0,1,3,3,0
+Shimizu S-Pulse,Sanfrecce,34.0,31.0,35.0,16.0,2.28,2.88,3.25,2.3,0,2,2,1,1
+Tokushima Vortis,Nagoya Grampus,32.0,35.0,33.0,15.0,1.97,3.5,3.1,2.05,0,0,0,2,2
+Consadole Sapporo,Sagan Tosu,35.0,32.0,33.0,15.0,2.4,2.05,3.3,3.3,1,0,1,1,0
+Kashiwa Reysol,Kyoto Sanga,35.0,32.0,33.0,20.0,2.68,2.0,3.2,3.6,2,1,0,1,2
+FC Tokyo,Avispa Fukuoka,35.0,31.0,34.0,20.0,1.75,2.2,3.1,3.1,1,0,0,0,0
+Shonan Bellmare,Jubilo Iwata,34.0,30.0,36.0,19.0,2.31,2.05,3.2,3.4,0,1,1,0,1
+Urawa Red Diamonds,Yokohama Marinos,23.0,35.0,42.0,20.0,2.61,2.63,3.4,2.6,1,2,3,3,0
+Seongnam FC,Suwon FC,30.0,32.0,38.0,23.0,3.22,2.7,3.0,2.63,1,2,2,2,0
+Gangwon FC,FC Seoul,19.0,42.0,40.0,23.0,2.0,3.0,3.25,2.25,1,1,1,0,1
+Ansan Greeners,Asan Mugunghwa,20.0,35.0,45.0,23.0,2.68,4.0,3.0,1.91,1,2,0,1,2
+Bucheon FC 1995,Gyeongnam,46.0,28.0,25.0,22.0,3.45,1.95,3.25,3.6,2,1,0,1,2
+Khovd FC,SP Falcons,17.0,7.0,76.0,21.0,4.75,8.5,6.0,1.2,1,3,2,5,2
+Surkhon,Sogdiana Jizzakh,27.0,17.0,55.0,37.0,2.75,4.2,2.88,1.91,0,3,2,4,2
+Qoqon FK,Pakhtakor,20.0,41.0,39.0,30.0,1.98,6.0,4.0,1.45,1,1,1,1,0
+Darul Takzim,Pahang FA,65.0,20.0,15.0,32.0,3.25,1.2,5.5,10.0,2,1,2,2,0
+76 Iğdır Belediye Spor,68 Aksaray Bld.,45.0,29.0,27.0,24.0,3.25,1.5,3.6,6.0,3,1,3,2,1
+Erzinspor,Yeni Orduspor,54.0,29.0,17.0,23.0,2.38,1.45,3.75,6.5,2,0,2,1,1
+ES Hammam-Sousse,Esperance Zarzis,41.0,26.0,32.0,24.0,1.96,1.53,3.25,6.5,1,0,1,1,0
+Olympique Béja,ES Metlaoui,38.0,37.0,25.0,29.0,2.42,1.91,2.9,4.0,2,0,2,0,1
+Paide,Trans Narva,52.0,20.0,29.0,15.0,4.0,1.3,5.0,7.0,3,1,4,2,1
+Nassaji Mazandaran,Sorkhpooshan Pakdasht,17.0,58.0,25.0,21.0,1.5,3.2,2.5,2.5,0,0,2,1,1
+Colombe FC,Tonnerre Yaoundé,47.0,25.0,28.0,26.0,1.96,1.57,3.4,5.5,2,0,2,0,1
+Bamboutos FC,New Star FC,34.0,35.0,31.0,23.0,1.36,1.91,2.88,4.33,1,1,0,0,0
+CR Belouizdad,ES Sétif,37.0,33.0,29.0,24.0,2.42,1.73,3.25,4.5,2,0,1,0,1
+Accra Hearts of Oak,Bibiani Gold Stars FC,62.0,24.0,14.0,28.0,1.83,1.29,4.5,10.0,1,0,1,0,1
+Berekum Chelsea,Medeama SC,35.0,34.0,32.0,29.0,2.17,1.91,3.0,4.0,2,0,0,0,0
+King Faisal Babes,Eleven Wonders,26.0,32.0,42.0,28.0,1.88,1.57,3.4,5.5,0,1,1,0,1
+WAFA,Accra Lions FC,29.0,46.0,25.0,28.0,1.13,1.73,3.0,5.0,0,0,0,1,2
+Supernova Riga,Spartaks Jurmala,26.0,50.0,24.0,12.0,1.38,4.0,3.2,1.8,0,0,0,3,2
+Riga FC,BFC Daugavpils,57.0,22.0,20.0,11.0,1.91,1.17,6.0,11.0,2,0,2,0,1
+Club Africain Tunis,Étoile Sahel Sousse,34.0,41.0,25.0,24.0,2.19,2.2,2.7,3.4,1,1,0,1,2
+Panthère du Ndé,Canon Yaoundé,33.0,25.0,41.0,23.0,2.03,3.1,2.88,2.2,0,2,0,1,2
+Coton Sport,Eding Sport,32.0,37.0,31.0,36.0,1.33,2.63,2.88,2.63,1,1,3,0,1
+Riffa Club,Al Arabi Kuwait,58.0,17.0,25.0,31.0,2.67,2.7,3.2,2.25,3,0,2,3,2
+Al Seeb SC,Jableh SC,48.0,24.0,28.0,35.0,2.39,1.57,3.8,4.75,1,0,1,0,1
+Bashundhara Kings,Maziya S&RC,73.0,20.0,7.0,24.0,2.42,1.4,4.5,5.5,2,0,1,0,1
+Tishreen SC,Hilal Al Quds,35.0,37.0,28.0,21.0,3.47,1.95,3.3,3.5,2,2,0,0,0
+Slovacko,Sparta Praha,26.0,36.0,38.0,17.0,2.58,2.8,3.0,2.45,1,2,3,1,1
+Siroki Brijeg,FK Tuzla City,21.0,43.0,36.0,22.0,2.1,2.5,3.0,2.75,1,1,0,1,2
+FK Zeljeznicar,Borac Banja Luka,28.0,48.0,24.0,17.0,2.3,2.75,2.9,2.55,1,1,0,0,0
+VIFK Vaasa,GBK Kokkola,40.0,23.0,37.0,12.0,1.81,1.33,5.0,6.0,2,0,5,2,1
+Hajer Club,Qadisiya Khubar,31.0,43.0,26.0,36.0,2.28,2.5,2.88,2.75,1,1,2,0,1
+Brumunddal,Strommen IF,34.0,27.0,39.0,16.0,2.56,6.5,4.75,1.33,1,2,0,0,0
+Baerum SK,Kvik Halden FK,45.0,28.0,27.0,12.0,3.14,2.1,3.5,2.8,3,1,1,1,0
+Azam,Simba,19.0,48.0,33.0,26.0,2.17,3.4,2.88,2.1,1,1,1,1,0
+Al Dir'iya,Al Jeel,24.0,43.0,33.0,36.0,2.3,2.05,2.9,3.5,1,1,1,2,2
+Al Ain (KSA),Al Jabalain,28.0,31.0,41.0,27.0,2.28,2.88,2.88,2.38,0,2,1,1,0
+Nomme Kalju,Levadia Tallinn,35.0,24.0,41.0,13.0,2.4,4.0,3.8,1.65,0,2,0,1,2
+FC Helsingor,Lyngby BK,31.0,26.0,44.0,15.0,3.03,2.1,3.5,3.4,1,3,1,2,2
+Hvidovre IF,FC Fredericia,40.0,21.0,39.0,15.0,2.98,2.3,3.6,2.9,2,1,3,1,1
+Nykøbing FC,AC Horsens,20.0,16.0,64.0,20.0,3.67,6.0,5.0,1.4,1,2,0,1,2
+Esbjerg fB,Fremad Amager,34.0,39.0,27.0,17.0,2.3,2.0,3.6,3.5,1,1,2,3,2
+SBV Excelsior,Heracles Almelo,47.0,28.0,25.0,22.0,3.26,2.63,3.75,2.25,2,1,3,0,1
+Al Oruba (KSA),Al Akhdood,27.0,37.0,36.0,35.0,3.0,2.25,2.75,3.25,2,2,1,1,0
+Vasteras SK FK,Jönköpings Södra,33.0,35.0,32.0,19.0,3.17,1.95,3.6,3.6,2,2,2,2,0
+Skovde AIK,Örebro SK,37.0,31.0,32.0,18.0,1.5,3.3,3.4,2.15,1,0,0,0,0
+Isidro Metapán,CD Águila,22.0,36.0,42.0,24.0,2.29,3.3,2.8,2.2,0,2,1,2,2
+Vancouver Whitecaps,FC Dallas,26.0,35.0,39.0,9.0,3.15,2.8,3.3,2.45,1,3,2,1,1
+Club Atlas,Tigres UANL,30.0,43.0,26.0,25.0,1.86,2.5,3.1,2.75,1,1,3,0,1
+Alianza Lima,Fortaleza,36.0,25.0,39.0,19.0,2.31,4.75,3.75,1.73,0,1,0,2,2
+Los Angeles FC,Austin FC,58.0,18.0,24.0,21.0,2.67,1.5,4.5,6.0,2,1,1,2,2
+San Jose Earthquakes,Portland Timbers,32.0,39.0,30.0,22.0,2.83,2.05,3.5,3.3,2,2,3,2,1
+Athletic 220,Deren,26.0,33.0,41.0,22.0,3.0,2.25,3.75,2.45,1,2,0,1,2
+Sagamihara,YSCC,55.0,23.0,22.0,21.0,3.14,1.91,3.25,3.6,3,0,0,0,0
+Ulaanbaatar City,Tuv Buganuud,43.0,25.0,32.0,24.0,4.0,2.3,3.8,2.38,3,1,2,0,1
+KMC,Mbeya City,32.0,43.0,25.0,29.0,2.0,2.25,2.88,3.1,1,1,3,0,1
+Radnik Surdulica,FK Kolubara,45.0,30.0,24.0,19.0,3.33,2.15,3.2,3.0,3,1,3,0,1
+Paykan FC,Foolad Khuzestan,18.0,44.0,38.0,29.0,1.73,3.2,2.5,2.5,0,0,1,2,2
+Jazeera Amman,Al Sareeh,34.0,36.0,31.0,27.0,1.9,2.0,3.25,3.25,1,1,3,2,1
+CSKA Sofia,Botev Plovdiv,47.0,26.0,27.0,18.0,2.73,2.0,3.5,3.6,2,1,0,0,0
+VPS Vaasa,Inter Turku,27.0,28.0,45.0,12.0,2.74,3.75,3.5,2.0,1,2,1,2,2
+FK Liepaja,FS METTA/LU Riga,59.0,22.0,18.0,14.0,3.11,1.13,9.0,11.0,3,1,1,0,1
+US Ben Guerdane,Esperance ST,14.0,26.0,61.0,23.0,2.01,6.5,3.1,1.57,0,2,0,3,2
+Upi Onm,Dragons,20.0,21.0,59.0,32.0,2.71,3.6,3.2,1.91,0,3,1,1,0
+Sepahan Esfahan,Padideh Shandiz,56.0,32.0,12.0,25.0,2.53,1.33,4.5,7.0,3,0,3,0,1
+Gol Gohar,Naft M. Soleyman,40.0,47.0,13.0,26.0,1.94,1.73,3.4,4.2,1,1,2,0,1
+Cukaricki Belgrade,FK Napredak,58.0,24.0,18.0,23.0,1.71,1.33,4.33,7.5,2,0,0,0,0
+Levadia II Tallinn,Tulevik Viljandi,68.0,21.0,11.0,14.0,2.85,1.08,9.0,17.0,2,1,1,1,0
+Oppsal IF,Skeid Fotball,25.0,28.0,47.0,17.0,2.11,9.0,6.0,1.2,0,1,0,4,2
+Lyn Oslo,Stabaek,30.0,24.0,46.0,17.0,2.84,9.0,6.0,1.2,1,3,2,3,2
+Follo FK,Grorud IL,29.0,26.0,45.0,16.0,3.36,6.0,5.0,1.33,1,3,0,0,0
+Elverum Fotball,Ottestad,41.0,19.0,40.0,17.0,2.95,1.08,9.0,17.0,3,2,2,1,1
+Fram Larvik,FK Orn-Horten,43.0,23.0,34.0,14.0,3.41,2.4,3.6,2.4,3,1,0,0,0
+Vindbjart FK,Fløy IL,32.0,28.0,40.0,14.0,2.56,10.0,6.0,1.2,1,2,0,6,2
+Sola Fotball,Egersunds IK,35.0,28.0,37.0,13.0,2.89,11.0,5.5,1.18,1,2,1,3,2
+Byasen IL,Kolstad Fotball,41.0,21.0,38.0,17.0,4.73,1.5,4.2,4.75,4,1,1,0,1
+HB Køge,Jammerbugt FC,65.0,17.0,18.0,21.0,4.17,1.5,4.5,5.5,3,0,2,0,1
+Hobro IK,Vendsyssel FF,43.0,39.0,18.0,17.0,3.0,2.38,3.4,2.88,2,1,2,0,1
+Sanat Naft AC,Mes Rafsanjan,27.0,43.0,30.0,38.0,2.14,2.88,2.6,2.63,1,1,0,2,2
+IF Floya,Skjervoy IK,30.0,34.0,36.0,6.0,3.24,1.53,4.0,5.0,1,2,1,2,2
+SC Heerenveen,AZ Alkmaar,28.0,35.0,37.0,18.0,3.87,3.8,3.6,1.91,1,3,3,2,1
+Esteghlal Tehran,Aluminium Arak,46.0,45.0,9.0,26.0,1.04,1.57,3.4,5.5,2,0,0,0,0
+AFC Eskilstuna,Norrby IF,60.0,20.0,19.0,21.0,3.0,2.55,3.4,2.63,3,0,1,2,2
+Brommapojkarna,Östersunds FK,44.0,31.0,25.0,19.0,3.0,1.62,4.0,5.0,2,1,4,1,1
+IK Brage,Dalkurd FF,63.0,17.0,19.0,16.0,3.19,1.67,3.75,5.0,3,0,0,0,0
+Östers IF,Halmstads BK,23.0,28.0,49.0,22.0,2.54,2.63,3.4,2.6,1,2,1,4,2
+Rigas Futbola skola,FK Tukums 2000,75.0,14.0,12.0,18.0,3.9,1.05,12.0,41.0,3,0,3,0,1
+C.D. Guastatoya,CSD Municipal,34.0,36.0,30.0,36.0,1.82,1.95,3.1,3.6,1,1,1,1,0
+FK Sarajevo,Velez Mostar,42.0,28.0,30.0,23.0,2.1,2.5,3.0,2.6,1,0,0,0,0
+Slavia Sofia,Levski Sofia,26.0,30.0,44.0,19.0,1.96,5.0,3.5,1.73,0,1,1,2,2
+Sepsi OSK,FC Voluntari,31.0,30.0,39.0,12.0,2.87,2.38,3.0,3.2,1,2,2,1,1
+Al Hilal Riyadh,Al Feiha,39.0,44.0,17.0,38.0,2.24,6.5,4.5,1.36,1,1,1,1,0
+Hertha BSC,Hamburger SV,42.0,24.0,34.0,20.0,2.63,2.15,3.5,3.25,2,1,0,1,2
+Grasshoppers,St. Gallen,34.0,34.0,32.0,24.0,3.0,2.15,3.6,3.0,2,1,3,2,1
+Lausanne-Sport,FC Sion,30.0,31.0,38.0,25.0,2.23,3.1,3.6,2.1,0,2,1,2,2
+FC Lugano,FC Zürich,25.0,32.0,44.0,26.0,2.41,2.2,3.6,2.9,0,2,2,1,1
+FC Luzern,BSC Young Boys,30.0,23.0,47.0,19.0,3.52,3.25,3.75,2.0,1,3,2,2,0
+Servette FC,FC Basel,18.0,34.0,49.0,28.0,2.68,3.2,3.6,2.05,1,2,0,0,0
+Everton,Crystal Palace,34.0,37.0,29.0,16.0,2.2,1.95,3.4,4.2,1,1,3,2,1
+Port Vale,Swindon Town,27.0,30.0,43.0,16.0,2.89,2.1,3.4,3.5,1,2,1,0,1
+UCD Dublin,Shamrock Rovers,10.0,25.0,65.0,15.0,3.29,21.0,7.0,1.14,0,3,0,3,2
+Chelsea,Leicester City,40.0,34.0,26.0,19.0,2.76,1.4,4.5,7.5,2,1,1,1,0
+Aston Villa,Burnley,39.0,34.0,26.0,16.0,2.85,1.75,3.9,5.1,2,1,1,1,0
